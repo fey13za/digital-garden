@@ -13,6 +13,7 @@ html {
   --grid-columns: auto auto auto;
   --grid-row-gap: 0.5em;
 }
+
 body {
   font-family: "Comic Relief", system-ui;
   background-color: Canvas;
@@ -24,7 +25,7 @@ body {
 
 main {
   display: var(--display);
-  grid-column: var(--grid-columns);
+  grid-template-columns: var(--grid-columns);
 }
 h1,
 h2 {
