@@ -9,7 +9,6 @@ html {
   --background-color: antiquewhite;
   --color: rgb(160, 155, 91);
   --color-h1: darkolivegreen;
-
   --display: grid;
   --grid-row-gap: 0.5em;
   --place-content: center;
@@ -26,7 +25,8 @@ body {
   place-content: var(--place-content);
 }
 
-header {
+ol {
+  list-style-image: url(assets/img/flower.svg);
 }
 
 h1,
