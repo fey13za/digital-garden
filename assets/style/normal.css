@@ -9,10 +9,12 @@ html {
   --background-color: antiquewhite;
   --color: rgb(160, 155, 91);
   --color-h1: darkolivegreen;
-  --grid-columns: auto auto auto;
+  --grid-columns: auto;
   --grid-row-gap: 0.5em;
 }
 body {
+  display: grid;
+  grid-column: var(--grid-columns);
   font-family: "Comic Relief", system-ui;
   background-color: Canvas;
   color: CanvasText;
@@ -25,10 +27,4 @@ body {
 h1,
 h2 {
   color: var(--color-h1);
-}
-
-ol {
-  display: grid;
-  grid-template-columns: var(--grid-columns);
-  row-gap: var(--grid-row-gap);
 }
