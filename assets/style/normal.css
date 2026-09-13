@@ -12,6 +12,7 @@ html {
   --display: grid;
   --grid-row-gap: 0.5em;
   --place-content: center;
+  --list-style-type: upper-roman;
 }
 
 body {
@@ -26,7 +27,8 @@ body {
 }
 
 ol {
-  list-style-image: url(assets/img/flower.svg);
+  list-style-type: var(--list-style-type);
+  list-style-image: url("flower.svg");
 }
 
 h1,
