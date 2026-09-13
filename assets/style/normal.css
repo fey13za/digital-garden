@@ -9,17 +9,17 @@ html {
   --background-color: antiquewhite;
   --color: rgb(160, 155, 91);
   --color-h1: darkolivegreen;
+  --display: grid;
   --grid-columns: auto;
   --grid-row-gap: 0.5em;
 }
 body {
-  display: grid;
-  grid-column: var(--grid-columns);
+  display: var(--display);
+  grid-column: var(--grid-columns)
   font-family: "Comic Relief", system-ui;
   background-color: Canvas;
   color: CanvasText;
   color-scheme: light dark;
-
   background-color: var(--background-color);
   color: var(--color);
 }
