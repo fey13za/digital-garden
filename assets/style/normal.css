@@ -11,7 +11,6 @@ html {
   --color-h1: darkolivegreen;
 
   --display: grid;
-  --grid-columns: auto auto auto;
   --grid-row-gap: 0.5em;
   --place-content: center;
 }
@@ -23,12 +22,11 @@ body {
   color-scheme: light dark;
   background-color: var(--background-color);
   color: var(--color);
+  display: var(--display);
   place-content: var(--place-content);
 }
 
-main {
-  display: var(--display);
-  grid-template-columns: var(--grid-columns);
+header {
 }
 
 h1,
