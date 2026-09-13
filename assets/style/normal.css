@@ -9,9 +9,11 @@ html {
   --background-color: antiquewhite;
   --color: rgb(160, 155, 91);
   --color-h1: darkolivegreen;
+
   --display: grid;
   --grid-columns: auto auto auto;
   --grid-row-gap: 0.5em;
+  --place-content: center;
 }
 
 body {
@@ -21,12 +23,14 @@ body {
   color-scheme: light dark;
   background-color: var(--background-color);
   color: var(--color);
+  place-content: var(--place-content);
 }
 
 main {
   display: var(--display);
   grid-template-columns: var(--grid-columns);
 }
+
 h1,
 h2 {
   color: var(--color-h1);
