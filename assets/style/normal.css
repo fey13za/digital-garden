@@ -6,13 +6,14 @@
   font-style: normal;
 }
 html {
+  --list-style-img: url("flower.svg");
   --background-color: antiquewhite;
   --color: rgb(160, 155, 91);
   --color-h1: darkolivegreen;
   --display: grid;
-  --grid-row-gap: 0.5em;
+  --grid-gap: 3em;
   --place-content: center;
-  --list-style-type: upper-roman;
+  --grid-column: auto auto auto;
 }
 
 body {
@@ -24,11 +25,22 @@ body {
   color: var(--color);
   display: var(--display);
   place-content: var(--place-content);
+  grid-template-columns: var(--grid-column);
+}
+
+header {
+  grid-area: 1 / 1 / span 1 / span 3;
+}
+
+footer {
+  grid-area: 3 / 1 / span 3 / span 3;
 }
 
 ol {
-  list-style-type: var(--list-style-type);
-  list-style-image: url("flower.svg");
+  display: var(--display);
+  grid-template-columns: var(--grid-column);
+  list-style-image: var(--list-style-img);
+  grid-gap: var(--grid-gap);
 }
 
 h1,
