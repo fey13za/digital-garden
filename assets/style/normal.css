@@ -10,12 +10,12 @@ html {
   --color: rgb(160, 155, 91);
   --color-h1: darkolivegreen;
   --display: grid;
-  --grid-columns: auto;
+  --grid-columns: auto auto auto;
   --grid-row-gap: 0.5em;
 }
 body {
   display: var(--display);
-  grid-column: var(--grid-columns)
+  grid-column: var(--grid-columns);
   font-family: "Comic Relief", system-ui;
   background-color: Canvas;
   color: CanvasText;
