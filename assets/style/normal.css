@@ -27,28 +27,21 @@ html {
   --border: 0.25em, solid, var(--accent-color1);
   --border-radius: 15%;
   /* light-dark theme */
+
   color-scheme: light dark;
+  --background-color: light-dark(antiquewhite, rgb(36, 36, 36));
+  --color: light-dark(rgb(129, 53, 85), rgb(205, 142, 168));
+  --accent-color1: light-dark(rgb(133, 151, 66), darkolivegreen);
+  --accent-color-text: light-dark(darkolivegreen, rgb(133, 151, 66));
+  --hover-color: light-dark(rgb(187, 16, 87), rgb(187, 16, 87));
+
   /* light */
-  --background-image: url(papertexture.jpg);
-  --color: rgb(129, 53, 85);
-  --accent-color1: rgb(133, 151, 66);
-  --accent-color-text: darkolivegreen;
-  --hover-color: rgb(187, 16, 87);
-  /*dark theme*/
-  @media (prefers-color-scheme: dark) {
-    color-scheme: light;
-    --background-image: url(blackpapertexture.jpg);
-    --color: rgb(205, 142, 168);
-    --accent-color1: darkolivegreen;
-    --accent-color-text: rgb(133, 151, 66);
-    --hover-color: rgb(187, 16, 87);
-  }
 }
 
 body {
   max-width: 30em;
   color-scheme: light dark;
-  background-image: var(--background-image);
+
   color: var(--color);
   display: var(--display);
   place-items: var(--place-content);
