@@ -14,10 +14,18 @@ html {
   --place-content: center;
   --grid-column: auto auto auto;
   --font-size: 1.25em;
+  --text-align: center;
   /* font family */
   --font-family: "gonte", sans-serif;
   --font-weight: 400;
   --font-style: normal;
+  /*font-sizes*/
+  --step-0: clamp(1rem, 0.9167rem + 0.3704vw, 1.25rem);
+  --step-1: clamp(1.2rem, 0.975rem + 1vw, 1.875rem);
+  --step-2: clamp(1.44rem, 0.9825rem + 2.0333vw, 2.8125rem);
+  --step-3: clamp(1.728rem, 0.8978rem + 3.69vw, 4.2188rem);
+  --step-4: clamp(2.0736rem, 0.6554rem + 6.303vw, 6.3281rem);
+  --step-5: clamp(2.4883rem, 0.1537rem + 10.3761vw, 9.4922rem);
 }
 
 body {
@@ -29,6 +37,7 @@ body {
   display: var(--display);
   place-items: var(--place-content);
   font-size: var(--font-size);
+  text-align: var(--text-align);
 }
 
 header {
@@ -41,6 +50,7 @@ header {
 }
 
 main {
+  font-size: var(--step-2);
   --font-family: "gonte", sans-serif;
   --font-weight: 400;
   --font-style: normal;
@@ -51,6 +61,9 @@ ol {
   grid-template-columns: var(--grid-column);
 }
 
+ul {
+  font-size: var(--step-2);
+}
 li {
   background-image: url("bloem.jpg");
   background-size: 1em 1em;
@@ -61,5 +74,10 @@ li {
 }
 
 h1 {
+  font-size: var(--step-4);
   color: var(--accent-color-text);
+}
+
+h2 {
+  font-size: var(--step-3);
 }
