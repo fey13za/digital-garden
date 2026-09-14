@@ -17,17 +17,14 @@ html {
 
 body {
   max-width: 30em;
-
   font-family: "Comic Relief", system-ui;
   background-color: Canvas;
   color: CanvasText;
   color-scheme: light dark;
   background-color: var(--background-color);
   color: var(--color);
-
   display: var(--display);
   place-content: var(--place-content);
-  grid-template-columns: repeat(auto-fit, minmax(15em, 1fr));
 }
 
 header {
