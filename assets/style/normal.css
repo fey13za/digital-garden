@@ -24,6 +24,7 @@ body {
   max-width: 30em;
   color-scheme: light dark;
   background-color: var(--background-color);
+  background-image: url("papertexture.jpg");
   color: var(--color);
   display: var(--display);
   place-items: var(--place-content);
