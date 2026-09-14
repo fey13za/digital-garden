@@ -34,8 +34,6 @@ html {
   --accent-color-text: light-dark(darkolivegreen, rgb(167, 183, 109));
   --hover-color: light-dark(rgb(187, 16, 87), rgb(187, 16, 87));
   /* light-dark theme bg */
-  
-  }
 }
 
 body {
