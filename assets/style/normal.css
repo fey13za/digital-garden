@@ -7,38 +7,47 @@
 }
 html {
   --background-color: antiquewhite;
-  --color: rgb(160, 155, 91);
-  --color-h1: darkolivegreen;
+  --color: rgb(129, 53, 85);
+  --accent-bg-color: rgb(133, 151, 66);
+  --accent-color-text: darkolivegreen;
   --display: grid;
-  --grid-gap: 5em;
   --place-content: center;
   --grid-column: auto auto auto;
+  --font-size: 1.25em;
+  /* font family */
+  --font-family: "gonte", sans-serif;
+  --font-weight: 400;
+  --font-style: normal;
 }
 
 body {
   max-width: 30em;
-  font-family: "Comic Relief", system-ui;
-  background-color: Canvas;
-  color: CanvasText;
   color-scheme: light dark;
   background-color: var(--background-color);
   color: var(--color);
   display: var(--display);
-  place-content: var(--place-content);
+  place-items: var(--place-content);
+  font-size: var(--font-size);
 }
 
 header {
-  grid-area: 1 / 1 / span 1 / span 3;
+  border: 0.25em, solid, var(--accent-bg-color);
+  border-radius: 15%;
+  padding-inline: 1em;
+  font-family: var(--font-family);
+  font-style: var(--font-style);
+  font-weight: var(--font-weight);
 }
 
-footer {
-  grid-area: 3 / 1 / span 3 / span 3;
+main {
+  --font-family: "gonte", sans-serif;
+  --font-weight: 400;
+  --font-style: normal;
 }
 
 ol {
   display: var(--display);
   grid-template-columns: var(--grid-column);
-  grid-gap: var(--grid-gap);
 }
 
 li {
@@ -47,9 +56,9 @@ li {
   background-repeat: no-repeat;
   list-style: none;
   padding-inline-start: 1em;
+  padding-bottom: 1em;
 }
 
-h1,
-h2 {
-  color: var(--color-h1);
+h1 {
+  color: var(--accent-color-text);
 }
