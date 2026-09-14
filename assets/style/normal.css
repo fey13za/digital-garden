@@ -33,14 +33,15 @@ html {
   --accent-color1: light-dark(rgb(167, 183, 109), darkolivegreen);
   --accent-color-text: light-dark(darkolivegreen, rgb(167, 183, 109));
   --hover-color: light-dark(rgb(187, 16, 87), rgb(187, 16, 87));
-   /* light-dark theme bg */
-   color-scheme: light dark;
-   --background-image
+  /* light-dark theme bg */
+  
+  }
 }
 
 body {
   max-width: 30em;
   background-color: var(--background-color);
+  background-image: var(--background-image);
   color: var(--color);
   display: var(--display);
   place-items: var(--place-content);
@@ -105,8 +106,10 @@ a:focus {
 
 html:has([value="light-theme"]:checked) {
   color-scheme: light;
+  --background-image: url(papertexture.jpg);
 }
 
 html:has([value="dark-theme"]:checked) {
   color-scheme: dark;
+  --background-image: url(blackpapertexture.jpg);
 }
