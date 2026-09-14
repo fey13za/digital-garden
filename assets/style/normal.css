@@ -24,24 +24,23 @@ html {
   --step-4: clamp(2.0736rem, 0.6554rem + 6.303vw, 6.3281rem);
   --step-5: clamp(2.4883rem, 0.1537rem + 10.3761vw, 9.4922rem);
   /*borders*/
-  --border: 0.25em, solid, var(--accent-color1);
+  --border: 0.3em, solid, var(--accent-color1);
   --border-radius: 15%;
   /* light-dark theme */
-
   color-scheme: light dark;
   --background-color: light-dark(antiquewhite, rgb(36, 36, 36));
   --color: light-dark(rgb(129, 53, 85), rgb(205, 142, 168));
-  --accent-color1: light-dark(rgb(133, 151, 66), darkolivegreen);
-  --accent-color-text: light-dark(darkolivegreen, rgb(133, 151, 66));
+  --accent-color1: light-dark(rgb(167, 183, 109), darkolivegreen);
+  --accent-color-text: light-dark(darkolivegreen, rgb(167, 183, 109));
   --hover-color: light-dark(rgb(187, 16, 87), rgb(187, 16, 87));
-
-  /* light */
+   /* light-dark theme bg */
+   color-scheme: light dark;
+   --background-image
 }
 
 body {
   max-width: 30em;
-  color-scheme: light dark;
-
+  background-color: var(--background-color);
   color: var(--color);
   display: var(--display);
   place-items: var(--place-content);
