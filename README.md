@@ -47,6 +47,13 @@ Mijn garden gaat over geboorte-bloemen, de eigenschappen hiervan en de bloementa
 
 In mijn crazy 8 had ik een idee gebaseerd op gedroogde boeketten aan een muur als decoratie. Ik heb dit een paar keer voorbij zien komen op social media en het lijkt me cool om hier wat mee te doen en ook een goede vorm voor mijn onderwerp!]
 
+[MA 14-09
+Leg uit wanneer een website 'lelijk' wordt: Als je geen CSS hebt gebruikt, dus bijvoorbeeld geen fonts, plaatjes die te groot zijn of een lay-out die niet in je scherm past of niet responsive is.
+
+Vertel welke volgende stap je neemt om je website responsive te maken: Ik ben nu bezig met mijn light/dark theme uit te werken met de toggles en ik werk nog aan mijn gelinkte pagina's.
+
+Kun je het ontwerp en de bouw van je eigen Garden (zo uit je hoofd) onderbouwen in Webby vocabulair?: Julius zegt van niet. Ik weet wel de termen fluïde en toegankelijkheid, maar ik weet niet al het vocabulair uit mijn hoofd. Ik heb wel al een beetje gewerkt aan de focus states van mijn links, waardoor die toegankelijker zijn.]
+
 ### 31 aug - Kickoff
 
 Een fork van de model repository gemaakt en gepubliceerd via mijn eigen Github omgeving.
