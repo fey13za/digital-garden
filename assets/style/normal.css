@@ -14,13 +14,11 @@ html {
   --grid-gap: 3em;
   --place-content: center;
   --grid-column: auto auto auto;
-  --font-size: 1.5rem;
 }
 
 body {
   max-width: 30em;
   font-family: "Comic Relief", system-ui;
-  font-size: var(--font-size);
   background-color: Canvas;
   color: CanvasText;
   color-scheme: light dark;
