@@ -6,7 +6,6 @@
   font-style: normal;
 }
 html {
-  --list-style-img: url("flower.svg");
   --background-color: antiquewhite;
   --color: rgb(160, 155, 91);
   --color-h1: darkolivegreen;
@@ -40,8 +39,14 @@ footer {
 ol {
   display: var(--display);
   grid-template-columns: var(--grid-column);
-  list-style-image: url(flower.svg);
   grid-gap: var(--grid-gap);
+}
+li {
+  background-image: url("bloem.jpg");
+  background-size: 1em 1em;
+  background-repeat: no-repeat;
+  list-style: none;
+  padding-inline-start: 1em;
 }
 
 h1,
