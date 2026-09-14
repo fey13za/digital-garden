@@ -6,22 +6,6 @@
   font-style: normal;
 }
 html {
-  /* light-dark theme */
-  color-scheme: light dark;
-  /* light */
-  --background-image: url(papertexture.jpg);
-  --color: rgb(129, 53, 85);
-  --accent-color1: rgb(133, 151, 66);
-  --accent-color-text: darkolivegreen;
-  --hover-color: rgb(187, 16, 87);
-  /*dark theme*/
-  @media (prefers-color-scheme: dark) {
-    color-scheme: light;
-    --background-image: url(blackpapertexture.jpg);
-    --color: rgb(205, 142, 168);
-   --accent-color1: darkolivegreen;
-   --accent-color-text: rgb(133, 151, 66);
-   --hover-color: rgb(187, 16, 87);
   /*display/layout*/
   --display: grid;
   --place-content: center;
@@ -42,6 +26,23 @@ html {
   /*borders*/
   --border: 0.25em, solid, var(--accent-color1);
   --border-radius: 15%;
+  /* light-dark theme */
+  color-scheme: light dark;
+  /* light */
+  --background-image: url(papertexture.jpg);
+  --color: rgb(129, 53, 85);
+  --accent-color1: rgb(133, 151, 66);
+  --accent-color-text: darkolivegreen;
+  --hover-color: rgb(187, 16, 87);
+  /*dark theme*/
+  @media (prefers-color-scheme: dark) {
+    color-scheme: light;
+    --background-image: url(blackpapertexture.jpg);
+    --color: rgb(205, 142, 168);
+    --accent-color1: darkolivegreen;
+    --accent-color-text: rgb(133, 151, 66);
+    --hover-color: rgb(187, 16, 87);
+  }
 }
 
 body {
