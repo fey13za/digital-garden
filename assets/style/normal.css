@@ -6,10 +6,13 @@
   font-style: normal;
 }
 html {
+  /*colors*/
   --background-color: antiquewhite;
   --color: rgb(129, 53, 85);
   --accent-bg-color: rgb(133, 151, 66);
   --accent-color-text: darkolivegreen;
+  --hover-color: rgb(187, 16, 87);
+  /*display/layout*/
   --display: grid;
   --place-content: center;
   --grid-column: auto auto auto;
@@ -26,6 +29,9 @@ html {
   --step-3: clamp(1.728rem, 0.8978rem + 3.69vw, 4.2188rem);
   --step-4: clamp(2.0736rem, 0.6554rem + 6.303vw, 6.3281rem);
   --step-5: clamp(2.4883rem, 0.1537rem + 10.3761vw, 9.4922rem);
+  /*borders*/
+  --border: 0.25em, solid, var(--accent-bg-color);
+  --border-radius: 15%;
 }
 
 body {
@@ -41,8 +47,8 @@ body {
 }
 
 header {
-  border: 0.25em, solid, var(--accent-bg-color);
-  border-radius: 15%;
+  border: var(--border);
+  border-radius: var(--border-radius);
   padding-inline: 1em;
   font-family: var(--font-family);
   font-style: var(--font-style);
@@ -80,4 +86,17 @@ h1 {
 
 h2 {
   font-size: var(--step-3);
+}
+
+a {
+  color: var(--color);
+}
+a:hover {
+  color: var(--hover-color);
+}
+
+a:focus {
+  color: var(--accent-color-text);
+  border: var(--border);
+  border-radius: var(--border-radius);
 }
