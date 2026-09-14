@@ -48,8 +48,7 @@ html {
 body {
   max-width: 30em;
   color-scheme: light dark;
-  background-color: var(--background-color);
-  background-image: url("papertexture.jpg");
+  background-image: var(--background-image);
   color: var(--color);
   display: var(--display);
   place-items: var(--place-content);
@@ -110,4 +109,12 @@ a:focus {
   color: var(--accent-color-text);
   border: var(--border);
   border-radius: var(--border-radius);
+}
+
+html:has([value="light-theme"]:checked) {
+  color-scheme: light;
+}
+
+html:has([value="dark-theme"]:checked) {
+  color-scheme: dark;
 }
