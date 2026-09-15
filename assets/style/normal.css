@@ -38,6 +38,7 @@ html {
   --background-repeat: no-repeat;
   --list-style: none;
   --padding-inline-start: 0.5em;
+  --background-clip: border-box;
 }
 
 /* 'general' */
@@ -211,4 +212,8 @@ html:has([value="light-theme"]:checked) {
 html:has([value="dark-theme"]:checked) {
   color-scheme: dark;
   --background-image: url(blackpapertexture.jpg);
+}
+
+label {
+  font-size: var(--step-1);
 }
