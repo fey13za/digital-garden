@@ -36,6 +36,7 @@ html {
   /* light-dark theme bg */
 }
 
+/* 'general' */
 body {
   max-width: 30em;
   background-color: var(--background-color);
@@ -63,6 +64,7 @@ main {
   --font-style: normal;
 }
 
+/*list items */
 ol {
   display: var(--display);
   grid-template-columns: var(--grid-column);
@@ -71,6 +73,7 @@ ol {
 ul {
   font-size: var(--step-2);
 }
+
 li {
   background-image: url("bloem.jpg");
   background-size: 1em 1em;
@@ -79,6 +82,11 @@ li {
   padding-inline-start: 1em;
   padding-bottom: 1em;
 }
+
+li:first-child {
+}
+
+/* headings/text */
 
 h1 {
   font-size: var(--step-4);
@@ -101,6 +109,8 @@ a:focus {
   border: var(--border);
   border-radius: var(--border-radius);
 }
+
+/* toggle */
 
 html:has([value="light-theme"]:checked) {
   color-scheme: light;
