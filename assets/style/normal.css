@@ -217,3 +217,5 @@ html:has([value="dark-theme"]:checked) {
 label {
   font-size: var(--step-1);
 }
+
+/* JANUARI HTML */
