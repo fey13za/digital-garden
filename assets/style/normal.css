@@ -33,7 +33,11 @@ html {
   --accent-color1: light-dark(rgb(167, 183, 109), darkolivegreen);
   --accent-color-text: light-dark(darkolivegreen, rgb(167, 183, 109));
   --hover-color: light-dark(rgb(187, 16, 87), rgb(187, 16, 87));
-  /* light-dark theme bg */
+  /* images */
+  --background-size: 1.5em 1.5em;
+  --background-repeat: no-repeat;
+  --list-style: none;
+  --padding-inline-start: 0.5em;
 }
 
 /* 'general' */
@@ -80,98 +84,98 @@ li {
 
 li:first-child {
   background-image: url("jananjer.jpg");
-  background-size: 1em 1em;
-  background-repeat: no-repeat;
-  list-style: none;
-  padding-inline-start: 0.5em;
+  background-size: var(--background-size);
+  background-repeat: var(--background-repeat);
+  list-style: var(--list-style);
+  padding-inline-start: var(--padding-inline-start);
 }
 
 li:nth-of-type(2) {
   background-image: url("febviool.jpg");
-  background-size: 1em 1em;
-  background-repeat: no-repeat;
-  list-style: none;
-  padding-inline-start: 0.5em;
+  background-size: var(--background-size);
+  background-repeat: var(--background-repeat);
+  list-style: var(--list-style);
+  padding-inline-start: var(--padding-inline-start);
 }
 
 li:nth-of-type(3) {
   background-image: url("marnarcis.jpg");
-  background-size: 1em 1em;
-  background-repeat: no-repeat;
-  list-style: none;
-  padding-inline-start: 0.5em;
+  background-size: var(--background-size);
+  background-repeat: var(--background-repeat);
+  list-style: var(--list-style);
+  padding-inline-start: var(--padding-inline-start);
 }
 
 li:nth-of-type(4) {
   background-image: url("aprmadelief.jpg");
-  background-size: 1em 1em;
-  background-repeat: no-repeat;
-  list-style: none;
-  padding-inline-start: 0.5em;
+  background-size: var(--background-size);
+  background-repeat: var(--background-repeat);
+  list-style: var(--list-style);
+  padding-inline-start: var(--padding-inline-start);
 }
 
 li:nth-of-type(5) {
   background-image: url("meilily.jpg");
-  background-size: 1em 1em;
-  background-repeat: no-repeat;
-  list-style: none;
-  padding-inline-start: 0.5em;
+  background-size: var(--background-size);
+  background-repeat: var(--background-repeat);
+  list-style: var(--list-style);
+  padding-inline-start: var(--padding-inline-start);
 }
 
 li:nth-of-type(6) {
   background-image: url("junroos.jpg");
-  background-size: 1em 1em;
-  background-repeat: no-repeat;
-  list-style: none;
-  padding-inline-start: 0.5em;
+  background-size: var(--background-size);
+  background-repeat: var(--background-repeat);
+  list-style: var(--list-style);
+  padding-inline-start: var(--padding-inline-start);
 }
 
 li:nth-of-type(7) {
   background-image: url("julridder.jpg");
-  background-size: 1em 1em;
-  background-repeat: no-repeat;
-  list-style: none;
-  padding-inline-start: 0.5em;
+  background-size: var(--background-size);
+  background-repeat: var(--background-repeat);
+  list-style: var(--list-style);
+  padding-inline-start: var(--padding-inline-start);
 }
 
 li:nth-of-type(8) {
   background-image: url("auggladiool.jpg");
-  background-size: 1em 1em;
-  background-repeat: no-repeat;
-  list-style: none;
-  padding-inline-start: 0.5em;
+  background-size: var(--background-size);
+  background-repeat: var(--background-repeat);
+  list-style: var(--list-style);
+  padding-inline-start: var(--padding-inline-start);
 }
 
 li:nth-of-type(9) {
   background-image: url("sepaster.jpg");
-  background-size: 1em 1em;
-  background-repeat: no-repeat;
-  list-style: none;
-  padding-inline-start: 0.5em;
+  background-size: var(--background-size);
+  background-repeat: var(--background-repeat);
+  list-style: var(--list-style);
+  padding-inline-start: var(--padding-inline-start);
 }
 
 li:nth-of-type(10) {
   background-image: url("oktgouds.jpg");
-  background-size: 1em 1em;
-  background-repeat: no-repeat;
-  list-style: none;
-  padding-inline-start: 0.5em;
+  background-size: var(--background-size);
+  background-repeat: var(--background-repeat);
+  list-style: var(--list-style);
+  padding-inline-start: var(--padding-inline-start);
 }
 
 li:nth-of-type(11) {
   background-image: url("novchrysant.jpg");
-  background-size: 1em 1em;
-  background-repeat: no-repeat;
-  list-style: none;
-  padding-inline-start: 0.5em;
+  background-size: var(--background-size);
+  background-repeat: var(--background-repeat);
+  list-style: var(--list-style);
+  padding-inline-start: var(--padding-inline-start);
 }
 
 li:nth-of-type(12) {
   background-image: url("dechulst.jpg");
-  background-size: 1em 1em;
-  background-repeat: no-repeat;
-  list-style: none;
-  padding-inline-start: 0.5em;
+  background-size: var(--background-size);
+  background-repeat: var(--background-repeat);
+  list-style: var(--list-style);
+  padding-inline-start: var(--padding-inline-start);
 }
 /* headings/text */
 
