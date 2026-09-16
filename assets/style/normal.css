@@ -259,3 +259,17 @@ p {
   color: var(--p-color);
   text-align: left;
 }
+
+/* FEBRUARI */
+
+.mainfeb {
+  min-height: max-content;
+  background-image: url(febviool.png);
+  background-size: 60%;
+  background-repeat: no-repeat;
+  background-position: right;
+}
+
+.mainfeb h2 {
+  text-align: left;
+}
