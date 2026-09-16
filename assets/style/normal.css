@@ -221,6 +221,9 @@ label {
 
 /* JANUARI HTML */
 
-.main.jan {
+.bodyjan {
   background-image: url(jananjer.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: right;
 }
