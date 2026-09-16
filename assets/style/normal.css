@@ -34,10 +34,10 @@ html {
   --accent-color-text: light-dark(darkolivegreen, rgb(167, 183, 109));
   --hover-color: light-dark(rgb(187, 16, 87), rgb(187, 16, 87));
   /* images */
-  --background-size: 1.5em 1.5em;
+  --background-size: 2.75em 2.75em;
   --background-repeat: no-repeat;
   --list-style: none;
-  --padding-inline-start: 0.5em;
+  --padding-inline-start: 1em;
   --background-clip: border-box;
 }
 
@@ -80,7 +80,7 @@ ul {
 }
 
 li {
-  padding-bottom: 1em;
+  padding-bottom: 2em;
 }
 
 li:first-child {
