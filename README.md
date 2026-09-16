@@ -54,6 +54,11 @@ Vertel welke volgende stap je neemt om je website responsive te maken: Ik ben nu
 
 Kun je het ontwerp en de bouw van je eigen Garden (zo uit je hoofd) onderbouwen in Webby vocabulair?: Julius zegt van niet. Ik weet wel de termen fluïde en toegankelijkheid, maar ik weet niet al het vocabulair uit mijn hoofd. Ik heb wel al een beetje gewerkt aan de focus states van mijn links, waardoor die toegankelijker zijn.]
 
-### 31 aug - Kickoff
+[WO 16-09
+3 gestalt principes: nabijheid, elementen die dicht bij elkaar staan en daardoor zichzelf vormen.
+Hiërarchie: Elementen een bepaalde grote of uiterlijk geven, waardoor je aandacht door een pagina heen wordt geleidt en verschillende dingen zich op zijn beurt jouw aandacht trekken.
+Ingevulde hiaat: dat je in je gedachten een lege vorm aanvult
 
-Een fork van de model repository gemaakt en gepubliceerd via mijn eigen Github omgeving.
+Een grid maakt het makkelijker om een mooie structuur te geven aan je website, zonder je teveel te 'restricten' zodat je er nog steeds veel mee kunt
+
+Ik ben aan het letten op witruimte en hiërarchie in grootte van de tekst. Ik wil graag dat mijn website mooi en rustig blijft ogen, ik heb hiervoor ook een soort papier-textuur toegevoegd.]
