@@ -34,7 +34,7 @@ html {
   --accent-color-text: light-dark(darkolivegreen, rgb(167, 183, 109));
   --hover-color: light-dark(rgb(187, 16, 87), rgb(187, 16, 87));
   /* images */
-  --background-size: 2.75em 2.75em;
+  --background-size: 2.9em 2.9em;
   --background-repeat: no-repeat;
   --list-style: none;
   --padding-inline-start: 1em;
@@ -51,6 +51,7 @@ body {
   place-items: var(--place-content);
   font-size: var(--font-size);
   text-align: var(--text-align);
+  cursor: url(cursor.png), auto;
 }
 
 header {
