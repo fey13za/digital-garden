@@ -219,17 +219,41 @@ label {
 }
 
 /* JANUARI HTML */
+.bodyjan {
+  text-align: left;
+}
 
 .mainjan {
   min-height: max-content;
   background-image: url(jananjer.png);
-  background-size: contain;
+  background-size: 60%;
   background-repeat: no-repeat;
   background-position: right;
+}
+
+.mainjan h2 {
+  text-align: left;
 }
 
 button {
   font-size: var(--step-2);
   font-family: var(--font-family);
+  color: rgb(129, 53, 85);
+  border-radius: var(--border-radius);
+  border: var(--border);
+  padding-left: 0.5em;
+  padding-right: 0.5em;
+  box-shadow: 5px 5px 10px 2px rgb(129, 53, 85);
   background-color: var(--accent-color1);
+}
+
+button:hover {
+  padding-left: 0.25em;
+  padding-right: 0.25em;
+  color: rgb(158, 84, 115);
+  background-color: var(--accent-color1);
+}
+
+p {
+  text-align: left;
 }
