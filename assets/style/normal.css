@@ -39,7 +39,12 @@ html {
   --background-repeat: no-repeat;
   --list-style: none;
   --padding-inline-start: 1em;
-  --background-clip: border-box;
+  /*flower img*/
+  --background-size-bloem: 60%;
+  --background-repeat-bloem: no-repeat;
+  --background-position-bloem: right;
+  --min-height: max-content;
+  --text-alignment-bloem: left;
 }
 
 /* 'general' */
@@ -225,15 +230,15 @@ label {
 }
 
 .mainjan {
-  min-height: max-content;
   background-image: url(jananjer.png);
-  background-size: 60%;
-  background-repeat: no-repeat;
-  background-position: right;
+  min-height: var(--min-height);
+  background-size: var(--background-size-bloem);
+  background-repeat: var(--background-repeat-bloem);
+  background-position: var(--background-position-bloem);
 }
 
 .mainjan h2 {
-  text-align: left;
+  text-align: var(--text-alignment-bloem);
 }
 
 button {
@@ -263,13 +268,139 @@ p {
 /* FEBRUARI */
 
 .mainfeb {
-  min-height: max-content;
   background-image: url(febviool.png);
-  background-size: 60%;
-  background-repeat: no-repeat;
-  background-position: right;
+  min-height: var(--min-height);
+  background-size: var(--background-size-bloem);
+  background-repeat: var(--background-repeat-bloem);
+  background-position: var(--background-position-bloem);
 }
 
 .mainfeb h2 {
-  text-align: left;
+  text-align: var(--text-alignment-bloem);
+}
+
+/* MAART */
+.mainmar {
+  background-image: url(marnarcis.png);
+  min-height: var(--min-height);
+  background-size: var(--background-size-bloem);
+  background-repeat: var(--background-repeat-bloem);
+  background-position: var(--background-position-bloem);
+}
+
+.mainmar h2 {
+  text-align: var(--text-alignment-bloem);
+}
+
+/* APRIL */
+.mainapr {
+  background-image: url(aprmadelief.png);
+  min-height: var(--min-height);
+  background-size: var(--background-size-bloem);
+  background-repeat: var(--background-repeat-bloem);
+  background-position: var(--background-position-bloem);
+}
+
+.mainapr h2 {
+  text-align: var(--text-alignment-bloem);
+}
+
+/* MEI */
+.mainmei {
+  background-image: url(meilily.png);
+  min-height: var(--min-height);
+  background-size: var(--background-size-bloem);
+  background-repeat: var(--background-repeat-bloem);
+  background-position: var(--background-position-bloem);
+}
+
+.mainmei h2 {
+  text-align: var(--text-alignment-bloem);
+}
+
+/* JUNI */
+.mainjun {
+  background-image: url(junroos.png);
+  min-height: var(--min-height);
+  background-size: var(--background-size-bloem);
+  background-repeat: var(--background-repeat-bloem);
+  background-position: var(--background-position-bloem);
+}
+
+.mainjun h2 {
+  text-align: var(--text-alignment-bloem);
+}
+
+/* JULI */
+.mainjul {
+  background-image: url(julridder.png);
+  min-height: var(--min-height);
+  background-size: var(--background-size-bloem);
+  background-repeat: var(--background-repeat-bloem);
+  background-position: var(--background-position-bloem);
+}
+
+.mainjul h2 {
+  text-align: var(--text-alignment-bloem);
+}
+
+/* AUGUSTUS */
+.mainaug {
+  background-image: url(auggladiool.png);
+  min-height: var(--min-height);
+  background-size: var(--background-size-bloem);
+  background-repeat: var(--background-repeat-bloem);
+  background-position: var(--background-position-bloem);
+}
+
+.mainaug h2 {
+  text-align: var(--text-alignment-bloem);
+}
+/* SEPTEMBER */
+.mainsep {
+  background-image: url(sepaster.png);
+  min-height: var(--min-height);
+  background-size: var(--background-size-bloem);
+  background-repeat: var(--background-repeat-bloem);
+  background-position: var(--background-position-bloem);
+}
+
+.mainsep h2 {
+  text-align: var(--text-alignment-bloem);
+}
+/* OKTOBER */
+.mainokt {
+  background-image: url(oktgouds.png);
+  min-height: var(--min-height);
+  background-size: var(--background-size-bloem);
+  background-repeat: var(--background-repeat-bloem);
+  background-position: var(--background-position-bloem);
+}
+
+.mainokt h2 {
+  text-align: var(--text-alignment-bloem);
+}
+/* NOVEMBER */
+.mainnov {
+  background-image: url(novchrysant.png);
+  min-height: var(--min-height);
+  background-size: var(--background-size-bloem);
+  background-repeat: var(--background-repeat-bloem);
+  background-position: var(--background-position-bloem);
+}
+
+.mainnov h2 {
+  text-align: var(--text-alignment-bloem);
+}
+/* DECEMBER */
+.maindec {
+  background-image: url(dechulst.png);
+  min-height: var(--min-height);
+  background-size: var(--background-size-bloem);
+  background-repeat: var(--background-repeat-bloem);
+  background-position: var(--background-position-bloem);
+}
+
+.maindec h2 {
+  text-align: var(--text-alignment-bloem);
 }
