@@ -210,6 +210,11 @@ a:focus {
 
 /* toggle */
 
+html:has([value="auto"]:checked) {
+  color-scheme: light;
+  --background-image: url(papertexture.jpg);
+}
+
 html:has([value="light-theme"]:checked) {
   color-scheme: light;
   --background-image: url(papertexture.jpg);
