@@ -1,8 +1,13 @@
 /* HIER KOMT JOUW CSS */
 @font-face {
-  font-family: "Comic Relief";
-  src: url(../type/ComicRelief-Regular.woff2);
+  font-family: "gonte";
+  src: url(../type/gonte.otf);
   font-weight: 400;
+  font-style: normal;
+
+  font-family: "Nouvelle vague";
+  src: url(../type/nouvelle_vague_final.ttf);
+  font-weight: 300;
   font-style: normal;
 }
 html {
@@ -14,6 +19,7 @@ html {
   --text-align: center;
   /* font family */
   --font-family: "gonte", sans-serif;
+  --font-family-2: "nouvelle vague", serif;
   --font-weight: 400;
   --font-style: normal;
   /*font-sizes*/
@@ -58,6 +64,7 @@ body {
   font-size: var(--font-size);
   text-align: var(--text-align);
   cursor: url(cursor.png), auto;
+  font-family: var(--font-family-2);
 }
 
 header {
