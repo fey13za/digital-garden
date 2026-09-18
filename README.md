@@ -62,3 +62,24 @@ Ingevulde hiaat: dat je in je gedachten een lege vorm aanvult
 Een grid maakt het makkelijker om een mooie structuur te geven aan je website, zonder je teveel te 'restricten' zodat je er nog steeds veel mee kunt
 
 Ik ben aan het letten op witruimte en hiërarchie in grootte van de tekst. Ik wil graag dat mijn website mooi en rustig blijft ogen, ik heb hiervoor ook een soort papier-textuur toegevoegd.]
+
+[VRIJDAG 18-09
+
+ORIËNTEREN & BEGRIJPEN:
+
+1. Waarom geven de docenten deze opdracht?
+   Ik denk dat ze deze opdracht geven zodat wij meer kennis hebben op het gebied van code en dit in het werkveld
+   kunnen toepassen. Ook als je het niet gaat gebruiken, kan het vaak voorkomen dat je dan in een team werkt
+   met iemand die het coderen doet/kan/hierover gaat praten en het is dan handig om de basis kennis te hebben en mee te kunnen praten hierover.
+2. Welke technieken gebruik ik? Ik gebruik HTML & CSS en de source hosting platform is github. Voor kleinere dingen gebruikte ik firealpaca om te tekenen en een image converter als ik een bestandje om wilde zetten.
+3. Wat zijn de randvoorwaarden? Er waren best een aantal randvoorwaarden om aan te voldoen, waaronder het goed bijhouden van de learning log en het kunnen uitleggen van je ideeën, keuzes en code. Je website moet jouw intresse duidelijk weergeven en je vormgeving moet hierbij passen. Je garden moet responsive zijn, twee thema's hebben en de gestalt principes toegepast.
+4. Waar gebruik je HTML en CSS voor? HTML is om je rauwe content te 'marken' Je geeft je inhoud een structuur. Met CSS stijl je deze content en maak je het 'mooi' en leesbaar en kan je het een persoonlijk tintje geven.
+5. Wat kan je allemaal met CSS? Je kan echt een wereld aan verschillende dingen. Je kan verschillende layout technieken toepassen, knoppen stylen kleine interacties en volgensmij ook animaties toevoegen, custom cursors toevoegen en hoogst waarschijnlijk nog veel meer waar ik niet zoveel van weet.
+
+VERBEELDEN & CONCEPTUALISEREN
+
+1.  Lukt het om verschillende ideeën te bedenken?
+    Ja ik heb daar niet zoveel moeite mee. Ik vind brainstorming technieken erg fijn, omdat je gewoon alles in je hoofd even opachrijft en er dan vaak best wel wat uit kan halen. De crazy 8 methode of sfeerwoorden bedenken hielpen mij ook goed om wat verder te denken.
+2.  Lukt het om je ideeën te schetsen? Ja zeker. Ik hou sowieso al van tekenen, dus mijn ideeën uitbeelden vind ik erg leuk en komt er vaak wel soepel en vlot uit bij mij. Ik vind het leuk om na te denken over hoe je hetzelfde ding op verschillende manieren kan schetsen.
+3.  Wat doet deze CSS property? Ik heb met verschillende CSS properties gespeeld en geprobeerd en veel de MDN website benut. Ik probeer vaak gewoon dingen en dan kijk ik wat er gebeurt. Wat me nog niet is gelukt is de custom cursor!
+4.  ]
