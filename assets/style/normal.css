@@ -35,7 +35,8 @@ html {
   /* light-dark theme */
   color-scheme: light dark;
   --background-color: light-dark(antiquewhite, rgb(36, 36, 36));
-  --color: light-dark(rgb(129, 53, 85), rgb(205, 142, 168));
+  --color: light-dark(rgb(129, 53, 85), rgb(255, 236, 241));
+  --color-h2: light-dark(rgb(76, 0, 32), rgb(205, 142, 168));
   --p-color: light-dark(rgb(214, 128, 164), rgb(240, 207, 221));
   --accent-color1: light-dark(rgb(167, 183, 109), darkolivegreen);
   --accent-color-text: light-dark(darkolivegreen, rgb(167, 183, 109));
@@ -199,6 +200,7 @@ h1 {
 }
 
 h2 {
+  color: var(--color-h2);
   font-size: var(--step-3);
 }
 
