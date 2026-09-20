@@ -4,12 +4,15 @@
   src: url(../type/gonte.otf);
   font-weight: 400;
   font-style: normal;
-
+}
+@font-face {
   font-family: "loveletter";
   src: url(../type/Loveletter_No_9.ttf);
   font-weight: 400;
   font-style: normal;
+}
 
+@font-face {
   font-family: "autumn";
   src: url(../type/Autumn\ in\ September.ttf);
   font-weight: 400;
@@ -208,7 +211,7 @@ h1 {
 
 h2 {
   color: var(--color-h2);
-  font-size: var(--step-3);
+  font-size: var(--step-4);
   font-family: var(--font-family-3);
 }
 
@@ -285,6 +288,7 @@ button:hover {
 p {
   color: var(--p-color);
   text-align: left;
+  font-family: var(--font-family);
 }
 
 /* FEBRUARI */
