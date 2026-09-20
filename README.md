@@ -63,7 +63,8 @@ Een grid maakt het makkelijker om een mooie structuur te geven aan je website, z
 
 Ik ben aan het letten op witruimte en hiërarchie in grootte van de tekst. Ik wil graag dat mijn website mooi en rustig blijft ogen, ik heb hiervoor ook een soort papier-textuur toegevoegd.]
 
-[VRIJDAG 18-09
+VRIJDAG 18-09
+check-out
 
 ORIËNTEREN & BEGRIJPEN:
 
@@ -84,3 +85,25 @@ VERBEELDEN & CONCEPTUALISEREN
 3.  Wat doet deze CSS property? Ik heb met verschillende CSS properties gespeeld en geprobeerd en veel de MDN website benut. Ik probeer vaak gewoon dingen en dan kijk ik wat er gebeurt. Wat me nog niet is gelukt is de custom cursor!
 4.  Wat voor HTML heb ik nodig? Mijn home page bestaat eigenlijk uit een lijst van maanden. De afzonderlijke pagina's bestaan uit korte alinea's en kopjes. Elke pagina heeft een eigen afbeelding die gelijk is aan het icoontje op de lijst.
 5.  Hoe kan je de content vormgeven? Ik wilde het karakter en de kleuren van de bloemen behouden, dus ik heb ze zelf getekend. Ik heb een grid gebruikt voor het lijstje zodat ze mooi in 3 kolommen staan, want onder elkaar stond het niet zo mooi. Voor de afzonderlijke pagina's heb ik gekozen voor de tekst links te houden en de afbeelding rechts, omdat we van links naar rechts lezen. Het vloeit nog steeds een beetje in elkaar over, wat mag, zodat het niet te strak oogt.
+6.  Wat als ik nu ineens 1000 invul? Ik denk dat het niet helemaal leesbaar meer zou zijn, maar ik zou het opzich nog wel een stukje groter kunnen maken. Misschien moet ik dit nog is uitproberen.
+
+PROTOTYPEN & UITWERKEN
+
+Begrijpen bezoekers jouw site? Tot nu toe wel. Mijn site is best direct en simpel. Als mensen het niet meteen snappen gaan ze rond klikken en kijken wat er nog meer te zien en te lezen valt.
+
+Wat vind jouw opdrachtgever ervan? Als hiermee mijn docenten bedoelt worden vinden ze het een leuk idee en de uitvoering ook best redelijk. Er zijn nog hier en daar wat punten die verbeterd kunnen worden of uitgebreider kunnen, maar het gaat de goede kant op. Als er vanuit mijn standpunt gekeken wordt ben ik er blij mee.
+
+Werkt dit wel? Zeker. Ik had niet een heel moeilijk concept, omdat het niet altijd moeilijk hoeft. Mijn website was best haalbaar, ook al waren er veel nieuwe dingen die ik heb geleerd en gebruikt, naast de deep dives. Er zijn ook wat dingen die wel kunnen, maar waar ik de skills nog niet voor heb. Ik heb de basis van mijn idee al best redelijk kunnen uitwerken en het nu nog kan verbeteren/uitbreiden.
+
+Kan dit ook? Ik ben erachter gekomen dat de custom cursor en CSS property is. Het is mij nog niet gelukt, maar het is zeker een doel voor volgende week om dit te verwerken in mijn ontwerp, omdat het echt wat unieks toevoegd aan mijn website. Ik was eigenlijk verrast dat niet meer websites hier gebruik van maken.
+
+EVALUEREN
+
+Wat wilde ik weten? Het grote plaatje was hoe je een website uit code schrijft, de inhoud daarvan was dat ik meer wilde weten over geboortemaanden en de bloemen hierbij.
+Wat deed ik om erachter te komen? Ik heb meerdere bronnen gezocht en doorgelezen en beoordeelt of ze betrouwbaar waren of niet en gekeken naar de autoriteit van de schrijvers.
+Wat was het resultaat? Meer kennis over het onderwerp en een basis aan kennis in coderen.
+Wat weet ik nu? Ik weet nu meer over hoe het werkt om een website vanuit de code op te bouwen en een klein beetje over source-hosting. Ik weet ook meer over bloemen, maar deze kennis kan nog ver uitgebreid worden.
+
+Wat heb ik allemaal gedaan? Ik heb bronnen onderzocht, een typografisch poster onderzoek, schetsen gemaakt van mijn website vanuit een crazy 8, Ik heb een structuur opgezet in HTML en dit gestyled in CSS. Ik heb ondertussen wat opdrachten gemaakt in de les en deep dives gevolgd, tussendoor nog een paar schetsen in de les en ik heb met de hand icoontjes getekend voor mij website.
+
+Wat was het resultaat? Het resultaat is, natuurlijk, mijn website. Ik heb daarnaast ook meer inzicht in wat wel en niet kan in HTML (schuldig aan het proberen van item1 of button1, wat niet leek te werken.) en nieuwe CSS properties.
