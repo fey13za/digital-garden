@@ -47,7 +47,7 @@ html {
   --background-color: light-dark(antiquewhite, rgb(36, 36, 36));
   --color: light-dark(rgb(129, 53, 85), rgb(255, 236, 241));
   --color-h2: light-dark(rgb(76, 0, 32), rgb(205, 142, 168));
-  --p-color: light-dark(rgb(214, 128, 164), rgb(240, 207, 221));
+  --p-color: light-dark(rgb(160, 56, 100), rgb(240, 207, 221));
   --accent-color1: light-dark(rgb(167, 183, 109), darkolivegreen);
   --accent-color-text: light-dark(darkolivegreen, rgb(167, 183, 109));
   --hover-color: light-dark(rgb(187, 16, 87), rgb(187, 16, 87));
@@ -289,6 +289,7 @@ p {
   color: var(--p-color);
   text-align: left;
   font-family: var(--font-family);
+  font-size: var(--step-2);
 }
 
 /* FEBRUARI */
