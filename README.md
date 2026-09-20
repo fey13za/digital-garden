@@ -89,21 +89,43 @@ VERBEELDEN & CONCEPTUALISEREN
 
 PROTOTYPEN & UITWERKEN
 
-Begrijpen bezoekers jouw site? Tot nu toe wel. Mijn site is best direct en simpel. Als mensen het niet meteen snappen gaan ze rond klikken en kijken wat er nog meer te zien en te lezen valt.
+1. Begrijpen bezoekers jouw site? Tot nu toe wel. Mijn site is best direct en simpel. Als mensen het niet meteen snappen gaan ze rond klikken en kijken wat er nog meer te zien en te lezen valt.
 
-Wat vind jouw opdrachtgever ervan? Als hiermee mijn docenten bedoelt worden vinden ze het een leuk idee en de uitvoering ook best redelijk. Er zijn nog hier en daar wat punten die verbeterd kunnen worden of uitgebreider kunnen, maar het gaat de goede kant op. Als er vanuit mijn standpunt gekeken wordt ben ik er blij mee.
+2. Wat vind jouw opdrachtgever ervan? Als hiermee mijn docenten bedoelt worden vinden ze het een leuk idee en de uitvoering ook best redelijk. Er zijn nog hier en daar wat punten die verbeterd kunnen worden of uitgebreider kunnen, maar het gaat de goede kant op. Als er vanuit mijn standpunt gekeken wordt ben ik er blij mee.
 
-Werkt dit wel? Zeker. Ik had niet een heel moeilijk concept, omdat het niet altijd moeilijk hoeft. Mijn website was best haalbaar, ook al waren er veel nieuwe dingen die ik heb geleerd en gebruikt, naast de deep dives. Er zijn ook wat dingen die wel kunnen, maar waar ik de skills nog niet voor heb. Ik heb de basis van mijn idee al best redelijk kunnen uitwerken en het nu nog kan verbeteren/uitbreiden.
+3. Werkt dit wel? Zeker. Ik had niet een heel moeilijk concept, omdat het niet altijd moeilijk hoeft. Mijn website was best haalbaar, ook al waren er veel nieuwe dingen die ik heb geleerd en gebruikt, naast de deep dives. Er zijn ook wat dingen die wel kunnen, maar waar ik de skills nog niet voor heb. Ik heb de basis van mijn idee al best redelijk kunnen uitwerken en het nu nog kan verbeteren/uitbreiden.
 
-Kan dit ook? Ik ben erachter gekomen dat de custom cursor en CSS property is. Het is mij nog niet gelukt, maar het is zeker een doel voor volgende week om dit te verwerken in mijn ontwerp, omdat het echt wat unieks toevoegd aan mijn website. Ik was eigenlijk verrast dat niet meer websites hier gebruik van maken.
+4. Kan dit ook? Ik ben erachter gekomen dat de custom cursor en CSS property is. Het is mij nog niet gelukt, maar het is zeker een doel voor volgende week om dit te verwerken in mijn ontwerp, omdat het echt wat unieks toevoegd aan mijn website. Ik was eigenlijk verrast dat niet meer websites hier gebruik van maken.
 
 EVALUEREN
 
-Wat wilde ik weten? Het grote plaatje was hoe je een website uit code schrijft, de inhoud daarvan was dat ik meer wilde weten over geboortemaanden en de bloemen hierbij.
-Wat deed ik om erachter te komen? Ik heb meerdere bronnen gezocht en doorgelezen en beoordeelt of ze betrouwbaar waren of niet en gekeken naar de autoriteit van de schrijvers.
-Wat was het resultaat? Meer kennis over het onderwerp en een basis aan kennis in coderen.
-Wat weet ik nu? Ik weet nu meer over hoe het werkt om een website vanuit de code op te bouwen en een klein beetje over source-hosting. Ik weet ook meer over bloemen, maar deze kennis kan nog ver uitgebreid worden.
+1. Wat wilde ik weten? Het grote plaatje was hoe je een website uit code schrijft, de inhoud daarvan was dat ik meer wilde weten over geboortemaanden en de bloemen hierbij.
+   Wat deed ik om erachter te komen? Ik heb meerdere bronnen gezocht en doorgelezen en beoordeelt of ze betrouwbaar waren of niet en gekeken naar de autoriteit van de schrijvers.
+   Wat was het resultaat? Meer kennis over het onderwerp en een basis aan kennis in coderen.
+   Wat weet ik nu? Ik weet nu meer over hoe het werkt om een website vanuit de code op te bouwen en een klein beetje over source-hosting. Ik weet ook meer over bloemen, maar deze kennis kan nog ver uitgebreid worden.
 
-Wat heb ik allemaal gedaan? Ik heb bronnen onderzocht, een typografisch poster onderzoek, schetsen gemaakt van mijn website vanuit een crazy 8, Ik heb een structuur opgezet in HTML en dit gestyled in CSS. Ik heb ondertussen wat opdrachten gemaakt in de les en deep dives gevolgd, tussendoor nog een paar schetsen in de les en ik heb met de hand icoontjes getekend voor mij website.
+2. Wat heb ik allemaal gedaan? Ik heb bronnen onderzocht, een typografisch poster onderzoek, schetsen gemaakt van mijn website vanuit een crazy 8, Ik heb een structuur opgezet in HTML en dit gestyled in CSS. Ik heb ondertussen wat opdrachten gemaakt in de les en deep dives gevolgd, tussendoor nog een paar schetsen in de les en ik heb met de hand icoontjes getekend voor mij website.
 
-Wat was het resultaat? Het resultaat is, natuurlijk, mijn website. Ik heb daarnaast ook meer inzicht in wat wel en niet kan in HTML (schuldig aan het proberen van item1 of button1, wat niet leek te werken.) en nieuwe CSS properties.
+3. Wat was het resultaat? Het resultaat is, natuurlijk, mijn website. Ik heb daarnaast ook meer inzicht in wat wel en niet kan in HTML (schuldig aan het proberen van item1 of button1, wat niet leek te werken.) en nieuwe CSS properties zoals bijvoorbeeld 'nth-of-child' wat goed van pas kwam bij alle verschillende icoontjes plaatsen bij de list-items.
+
+4. Ik heb mijn ontwerp fluïde gemaakt, maar blijkbaar niet responsive en ik weet ook nog niet precies hoe ik dat zou moeten doen. Dus dat is een voorbeeld van wat ik wel en niet weet.
+
+5. Wat vind je wel en niet leuk? Ik vind coderen op zich wel interessant om af en toe te doen, maar ik zou hier niet mijn baan van willen maken. Zodra ik het langdurig ga moeten doen lijkt het me toch wat minder leuk. Mijn interesses liggen toch meer bij het vormgeven a.d.h.v tekeningen en illustraties.
+
+6. Doe je nog wat je moet doen? Over het algemeen wel, alleen verlies ik de learning log wat vaker uit het zicht. Ik ben nooit zo van het bijhouden van een logboek, dus ik heb daar best wat moeite mee.
+
+Randvoorwaarden
+-HTML VALIDATIE
+Als ik zo kijk ziet mijn HTML er correct en duidelijk uit. Het zou misschien slim zijn of af en toe een docent er bij te halen en te kijken of zij nog een foutje of een verbetering kunnen spotten, omdat ik er natuurlijk nog van een beginners standpoint naar kijk.
+
+-TOEGANKELIJKHEID
+Ik probeer het in gedachten te houden, maar zou dit zeker regelmatiger kunnen checken. Ik probeer de licht/donker waarden steeds wat intenser aan te passen zodat het contrast hoog genoeg is. Ik heb wel een focus state toegevoegd aan de knoppen, maar ik heb mijn website nog niet gechecked voor de spraakfunctie.
+
+-ADAPTIEF?
+Mijn website heeft en light en dark mode, maar die verschilt van de auto, omdat de achtergrond niet wordt toegepast daar en me dit nog niet gelukt is. Het past op grote en kleine schermen en wordt daarop aangepast, maar er is wel een limiet voor, want ik vind het niet erg mooi als de kolommen zo klein worden dat ze onder elkaar komen te staan. Het werkt wel nog steeds op een kleine telefoon en de opties zijn ver genoeg van elkaar af dat dikke vingers niet uit maken.
+
+-WETOVERTREDING?
+Ik heb alleen handgetekende afbeeldingen gebruikt en goed gelet op de bronnen die ik heb benut voor mijn informatie, die staan nu nog bij mijn presentatie maar ga ik snel in mijn learning log zetten. Ik denk niet dat ik de wet heb overtreden.
+
+ZIE IK MEZELF TERUG?
+Ik heb tot nu toe veel plezier gehad in het leren en maken van deze website, vooral met het tekenen sluit dit goed bij mij en mijn persoonlijkheid aan.
