@@ -78,9 +78,6 @@ header {
 
 main {
   font-size: var(--step-2);
-  --font-family: "gonte", sans-serif;
-  --font-weight: 400;
-  --font-style: normal;
 }
 
 /*list items */
