@@ -7,7 +7,7 @@
 
   font-family: "loveletter";
   src: url(../type/Loveletter_No_9.ttf);
-  font-weight: 300;
+  font-weight: 400;
   font-style: normal;
 
   font-family: "autumn";
@@ -85,12 +85,14 @@ header {
 
 main {
   font-size: var(--step-2);
+  font-family: var(--font-family-2);
 }
 
 /*list items */
 ol {
   display: var(--display);
   grid-template-columns: var(--grid-column);
+  font-family: var(--font-family-2);
 }
 
 ul {
