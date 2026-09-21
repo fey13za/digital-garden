@@ -215,3 +215,13 @@ ZIE IK MEZELF TERUG?
 Ik heb tot nu toe veel plezier gehad in het leren en maken van deze website, vooral met het tekenen sluit dit goed bij mij en mijn persoonlijkheid aan.
 
 ### Sprint 2
+
+MA - 21-09
+
+We hebben deze les een recap gekregen van de deepdives over coderen en dit gevolgd.
+
+1. Wat zijn HTML landmark role elements? Het geeft de rol van een element aan in een HTML bestand.
+2. Wat zijn heading elementen en hoe horen ze genest te worden? Heading elementen zijn hoofd elementen, nesten gaat op deze manier, bijvoorbeeld: <li><a etcetc></a></li>
+3. Hoe ga jij met cookies om? Ik probeer zo min mogelijk cookies te accepteren en websites te vermijden die me proberen te dwingen cookies te accepteren. Na het onderzoek tjdens de les ga ik hier zelfs nog wat beter op letten.
+
+![cookies analyse](assets/img/cookiesanalyse.png)
