@@ -213,3 +213,5 @@ Ik heb alleen handgetekende afbeeldingen gebruikt en goed gelet op de bronnen di
 
 ZIE IK MEZELF TERUG?
 Ik heb tot nu toe veel plezier gehad in het leren en maken van deze website, vooral met het tekenen sluit dit goed bij mij en mijn persoonlijkheid aan.
+
+### Sprint 2
