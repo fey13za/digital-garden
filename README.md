@@ -225,3 +225,22 @@ We hebben deze les een recap gekregen van de deepdives over coderen en dit gevol
 3. Hoe ga jij met cookies om? Ik probeer zo min mogelijk cookies te accepteren en websites te vermijden die me proberen te dwingen cookies te accepteren. Na het onderzoek tjdens de les ga ik hier zelfs nog wat beter op letten.
 
 ![cookies analyse](assets/img/cookiesanalyse.png)
+
+WOENSDAG 23-09
+
+We hebben het tijdens een lezing over privacy gehad. Ik heb hierna een website geanalyseerd over dark patterns en een oplossing hiervoor bedacht. Vervolgens heb ik nagedacht over mijn eigen 'cookies', wat dit zou inhouden en hoe ik dit zou kunnen vormgeven:
+
+(afbeelding)
+
+CHECK OUT WO
+
+Wat is een wireflow en wat heb je er aan?
+Een wireflow laat zien hoe je een website kan navigeren, het gaat dus elk scherm langs dat je ziet als je een knop of actie uitvoert.
+
+Wat zijn dark UX patterns? Geef drie voorbeelden...
+Bijvoorbeeld scarcity, wat inhoud dat een item heel zeldzaam wordt gemaakt om je te pushen om het bijvoorbeeld te kopen.
+Je kan ook denken aan visual interference, waar ze je iets laten geloven of iets proberen voor te doen door middel van vormgeving.
+Je hebt ook nagging, dat een optie heel veel in je gezicht wordt geduwd en door je strot gedouwd (pardon my french) zodat je toegeeft aan wat zij willen
+
+Waar moet je als ontwerper rekening mee houden bij het maken van een human consent component?
+Best een heleboel, denk aan duidelijk taalgebruik. Het moet ook overzichtelijk blijven en niet iemand doodgooien met niet-echt-nuttige info zodat ze geneigd zijn het niet te lezen. De opties moeten neutraal zijn (geen voorkeursoptie) en allemaal even toegankelijk. Het moet niet eindeloos lang zijn en duidelijk terug te vinden om je opties aan te passen, het kan ook handig zijn om de consequenties duidelijk neer te zetten(wat gebeurt er als je accepteerd, maar ook wat er gebeurt als je het weigert). Dit is een goed begin voor een duidelijk consent component die je zo redelijk mogelijk houdt.
