@@ -261,3 +261,14 @@ We hadden vandaag voortgangsgesprekken waar ik het volgende feedback uit heb geh
 Ik ben begonnen met punt 3, dit ziet er als volgt uit:
 ![flowtekening human consent form](/readme-img/flowconsentform.png)
 Ik weet nog niet hoe ik dit ga realiseren, maar ik weet nu waar ik moet beginnen. Ik heb ook met de student-assistente gewerkt aan mijn custom-cursor. Hij raadde aan om verschillende states te tekenen hiervoor (dus ook nog on-click, etc.)
+
+CHECK OUT
+
+wat is HTML-validatie?
+Een controle dat je code netjes is en geen errors geeft. Dat alles klopt en logisch is.
+
+Welke dingen vielen je op?
+Het geeft je ook advies over wanneer je beter iets anders kan gebruiken qua tags en niet alleen wanneer iets echt niet werkt of kan.
+
+Welke feedback heb je ontvangen?
+Ik heb mijn feedback al hierboven verwerkt.

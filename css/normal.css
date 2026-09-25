@@ -91,6 +91,13 @@ h2 {
   font-family: var(--font-family-3);
 }
 
+h3 {
+  color: var(--color-h2);
+  font-size: var(--step-4);
+  font-family: var(--font-family-3);
+  text-align: var(--text-alignment-bloem);
+}
+
 a {
   color: var(--color);
 }
@@ -153,6 +160,7 @@ li:first-child {
   background-repeat: var(--background-repeat);
   list-style: var(--list-style);
   padding-inline-start: var(--padding-inline-start);
+  transform: rotate(5deg);
 }
 
 li:nth-of-type(2) {
@@ -169,6 +177,7 @@ li:nth-of-type(3) {
   background-repeat: var(--background-repeat);
   list-style: var(--list-style);
   padding-inline-start: var(--padding-inline-start);
+  transform: rotate(-10deg);
 }
 
 li:nth-of-type(4) {
@@ -177,6 +186,7 @@ li:nth-of-type(4) {
   background-repeat: var(--background-repeat);
   list-style: var(--list-style);
   padding-inline-start: var(--padding-inline-start);
+  transform: rotate(3deg);
 }
 
 li:nth-of-type(5) {
@@ -193,6 +203,7 @@ li:nth-of-type(6) {
   background-repeat: var(--background-repeat);
   list-style: var(--list-style);
   padding-inline-start: var(--padding-inline-start);
+  transform: rotate(-3deg);
 }
 
 li:nth-of-type(7) {
@@ -201,6 +212,7 @@ li:nth-of-type(7) {
   background-repeat: var(--background-repeat);
   list-style: var(--list-style);
   padding-inline-start: var(--padding-inline-start);
+  transform: rotate(-5deg);
 }
 
 li:nth-of-type(8) {
@@ -209,6 +221,7 @@ li:nth-of-type(8) {
   background-repeat: var(--background-repeat);
   list-style: var(--list-style);
   padding-inline-start: var(--padding-inline-start);
+  transform: rotate(10deg);
 }
 
 li:nth-of-type(9) {
@@ -225,6 +238,7 @@ li:nth-of-type(10) {
   background-repeat: var(--background-repeat);
   list-style: var(--list-style);
   padding-inline-start: var(--padding-inline-start);
+  transform: rotate(9deg);
 }
 
 li:nth-of-type(11) {
@@ -241,6 +255,7 @@ li:nth-of-type(12) {
   background-repeat: var(--background-repeat);
   list-style: var(--list-style);
   padding-inline-start: var(--padding-inline-start);
+  transform: rotate(-6deg);
 }
 
 /* MARK: toggles/buttons */
