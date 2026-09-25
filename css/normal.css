@@ -1,4 +1,4 @@
-/* HIER KOMT JOUW CSS */
+/* MARK: font-face */
 @font-face {
   font-family: "gonte";
   src: url(../type/gonte.otf);
@@ -18,6 +18,8 @@
   font-weight: 400;
   font-style: normal;
 }
+
+/* MARK: custom-properties */
 
 html {
   /*display/layout*/
@@ -64,7 +66,7 @@ html {
   --text-alignment-bloem: left;
 }
 
-/* 'general' */
+/* MARK: general styling*/
 
 body {
   max-width: 40em;
@@ -77,20 +79,31 @@ body {
   font-family: var(--font-family-2);
 }
 
-header {
+h1 {
+  font-family: var(--font-family);
+  font-size: var(--step-4);
+  color: var(--accent-color-text);
+}
+
+h2 {
+  color: var(--color-h2);
+  font-size: var(--step-4);
+  font-family: var(--font-family-3);
+}
+
+a {
+  color: var(--color);
+}
+a:hover {
+  color: var(--hover-color);
+}
+
+a:focus {
+  color: var(--accent-color-text);
   border: var(--border);
   border-radius: var(--border-radius);
-  font-family: var(--font-family);
-  font-style: var(--font-style);
-  font-weight: var(--font-weight);
 }
 
-main {
-  font-size: var(--step-2);
-  font-family: var(--font-family-2);
-}
-
-/*list items */
 ol {
   display: var(--display);
   grid-template-columns: var(--grid-column);
@@ -105,6 +118,47 @@ li {
   padding-bottom: 2em;
 }
 
+p {
+  color: var(--p-color);
+  text-align: left;
+  font-family: var(--font-family);
+  font-size: var(--step-2);
+}
+
+/* MARK: general styling months */
+.bodyjan {
+  text-align: left;
+}
+
+.mainjan {
+  background-image: url(jananjer.png);
+  min-height: var(--min-height);
+  background-size: var(--background-size-bloem);
+  background-repeat: var(--background-repeat-bloem);
+  background-position: var(--background-position-bloem);
+}
+
+.mainjan h2 {
+  text-align: var(--text-alignment-bloem);
+}
+
+/* MARK: Header */
+
+header {
+  border: var(--border);
+  border-radius: var(--border-radius);
+  font-family: var(--font-family);
+  font-style: var(--font-style);
+  font-weight: var(--font-weight);
+}
+
+/* MARK: main */
+main {
+  font-size: var(--step-2);
+  font-family: var(--font-family-2);
+}
+
+/* MARK: list items */
 li:first-child {
   background-image: url("jananjer.png");
   background-size: var(--background-size);
@@ -200,34 +254,8 @@ li:nth-of-type(12) {
   list-style: var(--list-style);
   padding-inline-start: var(--padding-inline-start);
 }
-/* headings/text */
 
-h1 {
-  font-family: var(--font-family);
-  font-size: var(--step-4);
-  color: var(--accent-color-text);
-}
-
-h2 {
-  color: var(--color-h2);
-  font-size: var(--step-4);
-  font-family: var(--font-family-3);
-}
-
-a {
-  color: var(--color);
-}
-a:hover {
-  color: var(--hover-color);
-}
-
-a:focus {
-  color: var(--accent-color-text);
-  border: var(--border);
-  border-radius: var(--border-radius);
-}
-
-/* toggle */
+/* MARK: toggles/buttons */
 
 html:has([value="auto"]:checked) {
   color-scheme: light;
@@ -246,23 +274,6 @@ html:has([value="dark-theme"]:checked) {
 
 label {
   font-size: var(--step-1);
-}
-
-/* JANUARI HTML */
-.bodyjan {
-  text-align: left;
-}
-
-.mainjan {
-  background-image: url(jananjer.png);
-  min-height: var(--min-height);
-  background-size: var(--background-size-bloem);
-  background-repeat: var(--background-repeat-bloem);
-  background-position: var(--background-position-bloem);
-}
-
-.mainjan h2 {
-  text-align: var(--text-alignment-bloem);
 }
 
 button {
@@ -284,14 +295,7 @@ button:hover {
   background-color: var(--accent-color1);
 }
 
-p {
-  color: var(--p-color);
-  text-align: left;
-  font-family: var(--font-family);
-  font-size: var(--step-2);
-}
-
-/* FEBRUARI */
+/* MARK: FEBRUARI */
 
 .mainfeb {
   background-image: url(febviool.png);
@@ -305,7 +309,7 @@ p {
   text-align: var(--text-alignment-bloem);
 }
 
-/* MAART */
+/* MARK: MAART */
 .mainmar {
   background-image: url(marnarcis.png);
   min-height: var(--min-height);
@@ -318,7 +322,7 @@ p {
   text-align: var(--text-alignment-bloem);
 }
 
-/* APRIL */
+/* MARK: APRIL */
 .mainapr {
   background-image: url(aprmadelief.png);
   min-height: var(--min-height);
@@ -331,7 +335,7 @@ p {
   text-align: var(--text-alignment-bloem);
 }
 
-/* MEI */
+/* MARK: MEI */
 .mainmei {
   background-image: url(meilily.png);
   min-height: var(--min-height);
@@ -344,7 +348,7 @@ p {
   text-align: var(--text-alignment-bloem);
 }
 
-/* JUNI */
+/* MARK:JUNI */
 .mainjun {
   background-image: url(junroos.png);
   min-height: var(--min-height);
@@ -357,7 +361,7 @@ p {
   text-align: var(--text-alignment-bloem);
 }
 
-/* JULI */
+/* MARK:JULI */
 .mainjul {
   background-image: url(julridder.png);
   min-height: var(--min-height);
@@ -370,7 +374,7 @@ p {
   text-align: var(--text-alignment-bloem);
 }
 
-/* AUGUSTUS */
+/* MARK:AUGUSTUS */
 .mainaug {
   background-image: url(auggladiool.png);
   min-height: var(--min-height);
@@ -382,7 +386,7 @@ p {
 .mainaug h2 {
   text-align: var(--text-alignment-bloem);
 }
-/* SEPTEMBER */
+/* MARK:SEPTEMBER */
 .mainsep {
   background-image: url(sepaster.png);
   min-height: var(--min-height);
@@ -394,7 +398,7 @@ p {
 .mainsep h2 {
   text-align: var(--text-alignment-bloem);
 }
-/* OKTOBER */
+/* MARK:OKTOBER */
 .mainokt {
   background-image: url(oktgouds.png);
   min-height: var(--min-height);
@@ -406,7 +410,7 @@ p {
 .mainokt h2 {
   text-align: var(--text-alignment-bloem);
 }
-/* NOVEMBER */
+/* MARK:NOVEMBER */
 .mainnov {
   background-image: url(novchrysant.png);
   min-height: var(--min-height);
@@ -418,7 +422,7 @@ p {
 .mainnov h2 {
   text-align: var(--text-alignment-bloem);
 }
-/* DECEMBER */
+/* MARK:DECEMBER */
 .maindec {
   background-image: url(dechulst.png);
   min-height: var(--min-height);
