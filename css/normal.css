@@ -64,6 +64,8 @@ html {
   --background-position-bloem: right;
   --min-height: max-content;
   --text-alignment-bloem: left;
+
+  cursor: url(../img/cursor.png), crosshair;
 }
 
 /* MARK: general styling*/
@@ -71,8 +73,6 @@ html {
 body {
   max-width: 40em;
   margin-inline: auto;
-  background-color: var(--background-color);
-
   color: var(--color);
   font-size: var(--font-size);
   text-align: var(--text-align);
@@ -245,19 +245,19 @@ li:nth-of-type(12) {
 
 /* MARK: toggles/buttons */
 
-html:has([value="auto"]:checked) {
+html:has([value="auto-theme"]:checked) {
   color-scheme: light;
-  --background-image: url(../img/papertexture.jpg);
+  background-image: url(../img/papertexture.jpg);
 }
 
 html:has([value="light-theme"]:checked) {
   color-scheme: light;
-  --background-image: url(../img/papertexture.jpg);
+  background-image: url(../img/papertexture.jpg);
 }
 
 html:has([value="dark-theme"]:checked) {
   color-scheme: dark;
-  --background-image: url(../img/blackpapertexture.jpg);
+  background-image: url(../img/blackpapertexture.jpg);
 }
 
 label {
