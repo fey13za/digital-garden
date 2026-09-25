@@ -1,20 +1,20 @@
 /* MARK: font-face */
 @font-face {
   font-family: "gonte";
-  src: url(../type/gonte.otf);
+  src: url(../fonts/gonte.otf);
   font-weight: 400;
   font-style: normal;
 }
 @font-face {
   font-family: "loveletter";
-  src: url(../type/Loveletter_No_9.ttf);
+  src: url(../fonts/Loveletter_No_9.ttf);
   font-weight: 400;
   font-style: normal;
 }
 
 @font-face {
   font-family: "autumn";
-  src: url(../type/Autumn\ in\ September.ttf);
+  src: url(../fonts/Autumn\ in\ September.ttf);
   font-weight: 400;
   font-style: normal;
 }
@@ -72,7 +72,7 @@ body {
   max-width: 40em;
   margin-inline: auto;
   background-color: var(--background-color);
-  background-image: var(--background-image);
+
   color: var(--color);
   font-size: var(--font-size);
   text-align: var(--text-align);
