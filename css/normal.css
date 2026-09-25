@@ -130,18 +130,6 @@ p {
   text-align: left;
 }
 
-.mainjan {
-  background-image: url(jananjer.png);
-  min-height: var(--min-height);
-  background-size: var(--background-size-bloem);
-  background-repeat: var(--background-repeat-bloem);
-  background-position: var(--background-position-bloem);
-}
-
-.mainjan h2 {
-  text-align: var(--text-alignment-bloem);
-}
-
 /* MARK: Header */
 
 header {
@@ -295,10 +283,23 @@ button:hover {
   background-color: var(--accent-color1);
 }
 
+/*MARK: JAN */
+
+.mainjan {
+  background-image: url("/img/jananjer.png");
+  min-height: var(--min-height);
+  background-size: var(--background-size-bloem);
+  background-repeat: var(--background-repeat-bloem);
+  background-position: var(--background-position-bloem);
+}
+
+.mainjan h2 {
+  text-align: var(--text-alignment-bloem);
+}
 /* MARK: FEBRUARI */
 
 .mainfeb {
-  background-image: url(febviool.png);
+  background-image: url("/img/febviool.png");
   min-height: var(--min-height);
   background-size: var(--background-size-bloem);
   background-repeat: var(--background-repeat-bloem);
@@ -311,7 +312,7 @@ button:hover {
 
 /* MARK: MAART */
 .mainmar {
-  background-image: url(marnarcis.png);
+  background-image: url("/img/marnarcis.png");
   min-height: var(--min-height);
   background-size: var(--background-size-bloem);
   background-repeat: var(--background-repeat-bloem);
@@ -324,7 +325,7 @@ button:hover {
 
 /* MARK: APRIL */
 .mainapr {
-  background-image: url(aprmadelief.png);
+  background-image: url("/img/aprmadelief.png");
   min-height: var(--min-height);
   background-size: var(--background-size-bloem);
   background-repeat: var(--background-repeat-bloem);
@@ -337,7 +338,7 @@ button:hover {
 
 /* MARK: MEI */
 .mainmei {
-  background-image: url(meilily.png);
+  background-image: url("/img/meilily.png");
   min-height: var(--min-height);
   background-size: var(--background-size-bloem);
   background-repeat: var(--background-repeat-bloem);
@@ -350,7 +351,7 @@ button:hover {
 
 /* MARK:JUNI */
 .mainjun {
-  background-image: url(junroos.png);
+  background-image: url("/img/junroos.png");
   min-height: var(--min-height);
   background-size: var(--background-size-bloem);
   background-repeat: var(--background-repeat-bloem);
@@ -363,7 +364,7 @@ button:hover {
 
 /* MARK:JULI */
 .mainjul {
-  background-image: url(julridder.png);
+  background-image: url("/img/julridder.png");
   min-height: var(--min-height);
   background-size: var(--background-size-bloem);
   background-repeat: var(--background-repeat-bloem);
@@ -376,7 +377,7 @@ button:hover {
 
 /* MARK:AUGUSTUS */
 .mainaug {
-  background-image: url(auggladiool.png);
+  background-image: url("/img/auggladiool.png");
   min-height: var(--min-height);
   background-size: var(--background-size-bloem);
   background-repeat: var(--background-repeat-bloem);
@@ -388,7 +389,7 @@ button:hover {
 }
 /* MARK:SEPTEMBER */
 .mainsep {
-  background-image: url(sepaster.png);
+  background-image: url("/img/sepaster.png");
   min-height: var(--min-height);
   background-size: var(--background-size-bloem);
   background-repeat: var(--background-repeat-bloem);
@@ -400,7 +401,7 @@ button:hover {
 }
 /* MARK:OKTOBER */
 .mainokt {
-  background-image: url(oktgouds.png);
+  background-image: url("/img/oktgouds.png");
   min-height: var(--min-height);
   background-size: var(--background-size-bloem);
   background-repeat: var(--background-repeat-bloem);
@@ -412,7 +413,7 @@ button:hover {
 }
 /* MARK:NOVEMBER */
 .mainnov {
-  background-image: url(novchrysant.png);
+  background-image: url("/img/novchrysant.png");
   min-height: var(--min-height);
   background-size: var(--background-size-bloem);
   background-repeat: var(--background-repeat-bloem);
@@ -424,7 +425,7 @@ button:hover {
 }
 /* MARK:DECEMBER */
 .maindec {
-  background-image: url(dechulst.png);
+  background-image: url("/img/dechulst.png");
   min-height: var(--min-height);
   background-size: var(--background-size-bloem);
   background-repeat: var(--background-repeat-bloem);
