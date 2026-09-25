@@ -148,7 +148,7 @@ main {
 
 /* MARK: list items */
 li:first-child {
-  background-image: url("jananjer.png");
+  background-image: url("/img/jananjer.png");
   background-size: var(--background-size);
   background-repeat: var(--background-repeat);
   list-style: var(--list-style);
@@ -156,7 +156,7 @@ li:first-child {
 }
 
 li:nth-of-type(2) {
-  background-image: url("febviool.png");
+  background-image: url("/img/febviool.png");
   background-size: var(--background-size);
   background-repeat: var(--background-repeat);
   list-style: var(--list-style);
@@ -164,7 +164,7 @@ li:nth-of-type(2) {
 }
 
 li:nth-of-type(3) {
-  background-image: url("marnarcis.png");
+  background-image: url("/img/marnarcis.png");
   background-size: var(--background-size);
   background-repeat: var(--background-repeat);
   list-style: var(--list-style);
@@ -172,7 +172,7 @@ li:nth-of-type(3) {
 }
 
 li:nth-of-type(4) {
-  background-image: url("aprmadelief.png");
+  background-image: url("/img/aprmadelief.png");
   background-size: var(--background-size);
   background-repeat: var(--background-repeat);
   list-style: var(--list-style);
@@ -180,7 +180,7 @@ li:nth-of-type(4) {
 }
 
 li:nth-of-type(5) {
-  background-image: url("meilily.png");
+  background-image: url("/img/meilily.png");
   background-size: var(--background-size);
   background-repeat: var(--background-repeat);
   list-style: var(--list-style);
@@ -188,7 +188,7 @@ li:nth-of-type(5) {
 }
 
 li:nth-of-type(6) {
-  background-image: url("junroos.png");
+  background-image: url("/img/junroos.png");
   background-size: var(--background-size);
   background-repeat: var(--background-repeat);
   list-style: var(--list-style);
@@ -196,7 +196,7 @@ li:nth-of-type(6) {
 }
 
 li:nth-of-type(7) {
-  background-image: url("julridder.png");
+  background-image: url("/img/julridder.png");
   background-size: var(--background-size);
   background-repeat: var(--background-repeat);
   list-style: var(--list-style);
@@ -204,7 +204,7 @@ li:nth-of-type(7) {
 }
 
 li:nth-of-type(8) {
-  background-image: url("auggladiool.png");
+  background-image: url("/img/auggladiool.png");
   background-size: var(--background-size);
   background-repeat: var(--background-repeat);
   list-style: var(--list-style);
@@ -212,7 +212,7 @@ li:nth-of-type(8) {
 }
 
 li:nth-of-type(9) {
-  background-image: url("sepaster.png");
+  background-image: url("/img/sepaster.png");
   background-size: var(--background-size);
   background-repeat: var(--background-repeat);
   list-style: var(--list-style);
@@ -220,7 +220,7 @@ li:nth-of-type(9) {
 }
 
 li:nth-of-type(10) {
-  background-image: url("oktgouds.png");
+  background-image: url("/img/oktgouds.png");
   background-size: var(--background-size);
   background-repeat: var(--background-repeat);
   list-style: var(--list-style);
@@ -228,7 +228,7 @@ li:nth-of-type(10) {
 }
 
 li:nth-of-type(11) {
-  background-image: url("novchrysant.png");
+  background-image: url("/img/novchrysant.png");
   background-size: var(--background-size);
   background-repeat: var(--background-repeat);
   list-style: var(--list-style);
@@ -236,7 +236,7 @@ li:nth-of-type(11) {
 }
 
 li:nth-of-type(12) {
-  background-image: url("dechulst.png");
+  background-image: url("/img/dechulst.png");
   background-size: var(--background-size);
   background-repeat: var(--background-repeat);
   list-style: var(--list-style);
