@@ -22,10 +22,10 @@ Ik heb MMD en micro interacties herhaald. Ik ben aan de slag gegaan in figma om 
 -Prompts
 -Affordance
 De opdracht was bedoelt om ons na te denken over verschillende formulieren en hoe je een overzichtelijk formulier kan ontwerpen.
-![woktowalk menu](assets/img/woktowalk.png)
+![woktowalk menu](readme-img/woktowalk.png)
 
 Ik heb ook een deep dive gehad over schetsen en wireframes. Hierbij begonnen we met het oefenen van lijnen en vervolgens hebben we een website uitgekozen en hier een wireframe van gemaakt. Hierbij herhaalde we dingen als hoe je animaties schetst (blauwe stippellijnen bijv.) of hoe je knoppen duidelijk maakt in een schets. Hier zie je mijn wireframe:
-![wireframe deepdive](assets/img/deepdiveschets.jpeg)
+![wireframe deepdive](readme-img/deepdiveschets.jpeg)
 
 4 SEPTEMBER
 Deep dives: Praktische CSS en HTML en CSS basics:
@@ -48,10 +48,10 @@ OVER MIJN GARDEN:
 -Ervaring: Ik wil gebruik maken van verschillende vormen van gebruik, waar ik nu bijvoorbeeld aan moet denken is dat er white noise/brown noise in de achtergrond speeld en dat de gebruiker controle heeft over wat voor audio (of geen)
 
 Ik heb ook zelfstandig websites geanalyseerd en gerangschikt a.d.h.v het formulier:
-![webby analysis](assets/img/websiteanalyse.png)
+![webby analysis](readme-img/websiteanalyse.png)
 
 Ik heb een collage gemaakt van inspirerende afbeeldingen:
-![collage bloemen](assets/img/Collage%20presentatie.png)
+![collage bloemen](readme-img/Collage%20presentatie.png)
 
 En links verzameld van nuttige bronnen over mijn onderwerp: 1.https://weeklyflower.nl/bloemenbibliotheek/geboortebloem-maand/ ->Dit geeft een handig overzicht over
 bij welke maand welke bloem hoort. 2.https://www.fiestajewellery.nl/blogs/blog/waarom-heeft-elke-maand-een-eigen-geboortebloem -> Hier werd het victoriaanse tijdperk benoemd, waardoor ik door ben gaan zoeken naar bronnen hierover. 3.https://vertaalbureau-scandic.nl/victoriaanse-taal-van-bloemen-wat-betekenen-ze/ Dit artikel gaat echt in op de taal van de bloemen (niet alleen die uit de maanden) inclusief wat verschillende kleuren betekenen, vanuit het vctoriaanse tijdperk. 4.https://floriografie.nl/category/geboortebloemen/ Dit artikel geeft echt een uitleg over waarom
@@ -71,10 +71,10 @@ Ik heb gekeken naar een presentatie van iemand uit een andere klas over Amsterda
 
 We hebben op miro gewerkt aan visual research, waar ik een idee had over een 'fragiele sfeer'
 Hier mijn posters met uitleg:
-![Typografischeposters met uitleg](assets/img/typografischeposters.png)
+![Typografischeposters met uitleg](readme-img/typografischeposters.png)
 Maar ik weet nog niet zeker of ik dit wil benutten en hoe.
 We hebben ook een crazy 8 oefening gedaan, waar dit uit kwam:
-![crazy8](assets/img/crazy8.png)
+![crazy8](readme-img/crazy8.png)
 De tweede van linksboven spreekt mij het meeste aan.
 
 De Visual Research bestaat uit drie stappen. De eerste stap is terug kijken naar je afbeeldingen en één of meerdere sfeerwoorden formuleren, hierbij kan je afbeeldingen zoeken en vanuit die afbeeldingen wat abstractere vormen(wij deden dus typografische posters) Dit helpt je met het vormen van een idee voor de sfeer van jouw website en wat je kan benutten om jouw informatie op deze manier vorm te geven.
@@ -86,7 +86,7 @@ In mijn crazy 8 had ik een idee gebaseerd op gedroogde boeketten aan een muur al
 VRIJDAG 11-09
 
 Voor vandaag heb ik vanuit mijn crazy 8 wat mobile-first schermen geschetst. Ik nam voornamelijk de tweede van linksboven als uitgangspunt.
-![mobilefirstschets](assets/img/mobilefirst.png)
+![mobilefirstschets](readme-img/mobilefirst.png)
 Van deze vijf schetsen waren deze twee mijn uitgangspunten die het beste bij mijn idee pasten.
 Ik had ook een voortgangsgesprek, waarin mijn ideeën waren goedgekeurd en ik aan de slag kon met het bepalen van mijn content en een begin kon maken aan mijn HTML-structuur. Het advies van de student-assistent was het gebruik maken van een list voor de maanden.
 
@@ -224,13 +224,15 @@ We hebben deze les een recap gekregen van de deepdives over coderen en dit gevol
 2. Wat zijn heading elementen en hoe horen ze genest te worden? Heading elementen zijn hoofd elementen, nesten gaat op deze manier, bijvoorbeeld: <li><a etcetc></a></li>
 3. Hoe ga jij met cookies om? Ik probeer zo min mogelijk cookies te accepteren en websites te vermijden die me proberen te dwingen cookies te accepteren. Na het onderzoek tjdens de les ga ik hier zelfs nog wat beter op letten.
 
-![cookies analyse](assets/img/cookiesanalyse.png)
+![cookies analyse](readme-img/cookiesanalyse.png)
 
 WOENSDAG 23-09
 
 We hebben het tijdens een lezing over privacy gehad. Ik heb hierna een website geanalyseerd over dark patterns en een oplossing hiervoor bedacht. Vervolgens heb ik nagedacht over mijn eigen 'cookies', wat dit zou inhouden en hoe ik dit zou kunnen vormgeven:
 
-(afbeelding)
+![Dark patterns](readme-img/darkpatterns.png)
+![notes cookies](readme-img/cookiesnotes.png)
+![pop-up sketch](readme-img/sketchcookiepopup.png)
 
 CHECK OUT WO
 
