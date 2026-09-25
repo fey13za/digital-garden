@@ -148,7 +148,7 @@ main {
 
 /* MARK: list items */
 li:first-child {
-  background-image: url("/img/jananjer.png");
+  background-image: url("../img/jananjer.png");
   background-size: var(--background-size);
   background-repeat: var(--background-repeat);
   list-style: var(--list-style);
@@ -156,7 +156,7 @@ li:first-child {
 }
 
 li:nth-of-type(2) {
-  background-image: url("/img/febviool.png");
+  background-image: url("../img/febviool.png");
   background-size: var(--background-size);
   background-repeat: var(--background-repeat);
   list-style: var(--list-style);
@@ -164,7 +164,7 @@ li:nth-of-type(2) {
 }
 
 li:nth-of-type(3) {
-  background-image: url("/img/marnarcis.png");
+  background-image: url("../img/marnarcis.png");
   background-size: var(--background-size);
   background-repeat: var(--background-repeat);
   list-style: var(--list-style);
@@ -172,7 +172,7 @@ li:nth-of-type(3) {
 }
 
 li:nth-of-type(4) {
-  background-image: url("/img/aprmadelief.png");
+  background-image: url("../img/aprmadelief.png");
   background-size: var(--background-size);
   background-repeat: var(--background-repeat);
   list-style: var(--list-style);
@@ -180,7 +180,7 @@ li:nth-of-type(4) {
 }
 
 li:nth-of-type(5) {
-  background-image: url("/img/meilily.png");
+  background-image: url("../img/meilily.png");
   background-size: var(--background-size);
   background-repeat: var(--background-repeat);
   list-style: var(--list-style);
@@ -188,7 +188,7 @@ li:nth-of-type(5) {
 }
 
 li:nth-of-type(6) {
-  background-image: url("/img/junroos.png");
+  background-image: url("../img/junroos.png");
   background-size: var(--background-size);
   background-repeat: var(--background-repeat);
   list-style: var(--list-style);
@@ -196,7 +196,7 @@ li:nth-of-type(6) {
 }
 
 li:nth-of-type(7) {
-  background-image: url("/img/julridder.png");
+  background-image: url("../img/julridder.png");
   background-size: var(--background-size);
   background-repeat: var(--background-repeat);
   list-style: var(--list-style);
@@ -204,7 +204,7 @@ li:nth-of-type(7) {
 }
 
 li:nth-of-type(8) {
-  background-image: url("/img/auggladiool.png");
+  background-image: url("../img/auggladiool.png");
   background-size: var(--background-size);
   background-repeat: var(--background-repeat);
   list-style: var(--list-style);
@@ -212,7 +212,7 @@ li:nth-of-type(8) {
 }
 
 li:nth-of-type(9) {
-  background-image: url("/img/sepaster.png");
+  background-image: url("../img/sepaster.png");
   background-size: var(--background-size);
   background-repeat: var(--background-repeat);
   list-style: var(--list-style);
@@ -220,7 +220,7 @@ li:nth-of-type(9) {
 }
 
 li:nth-of-type(10) {
-  background-image: url("/img/oktgouds.png");
+  background-image: url("../img/oktgouds.png");
   background-size: var(--background-size);
   background-repeat: var(--background-repeat);
   list-style: var(--list-style);
@@ -228,7 +228,7 @@ li:nth-of-type(10) {
 }
 
 li:nth-of-type(11) {
-  background-image: url("/img/novchrysant.png");
+  background-image: url("../img/novchrysant.png");
   background-size: var(--background-size);
   background-repeat: var(--background-repeat);
   list-style: var(--list-style);
@@ -236,7 +236,7 @@ li:nth-of-type(11) {
 }
 
 li:nth-of-type(12) {
-  background-image: url("/img/dechulst.png");
+  background-image: url("../img/dechulst.png");
   background-size: var(--background-size);
   background-repeat: var(--background-repeat);
   list-style: var(--list-style);
@@ -247,17 +247,17 @@ li:nth-of-type(12) {
 
 html:has([value="auto"]:checked) {
   color-scheme: light;
-  --background-image: url(/img/papertexture.jpg);
+  --background-image: url(../img/papertexture.jpg);
 }
 
 html:has([value="light-theme"]:checked) {
   color-scheme: light;
-  --background-image: url(/img/papertexture.jpg);
+  --background-image: url(../img/papertexture.jpg);
 }
 
 html:has([value="dark-theme"]:checked) {
   color-scheme: dark;
-  --background-image: url(/img/blackpapertexture.jpg);
+  --background-image: url(../img/blackpapertexture.jpg);
 }
 
 label {
@@ -286,7 +286,7 @@ button:hover {
 /*MARK: JAN */
 
 .mainjan {
-  background-image: url("/img/jananjer.png");
+  background-image: url("../img/jananjer.png");
   min-height: var(--min-height);
   background-size: var(--background-size-bloem);
   background-repeat: var(--background-repeat-bloem);
@@ -299,7 +299,7 @@ button:hover {
 /* MARK: FEBRUARI */
 
 .mainfeb {
-  background-image: url("/img/febviool.png");
+  background-image: url("../img/febviool.png");
   min-height: var(--min-height);
   background-size: var(--background-size-bloem);
   background-repeat: var(--background-repeat-bloem);
@@ -312,7 +312,7 @@ button:hover {
 
 /* MARK: MAART */
 .mainmar {
-  background-image: url("/img/marnarcis.png");
+  background-image: url("../img/marnarcis.png");
   min-height: var(--min-height);
   background-size: var(--background-size-bloem);
   background-repeat: var(--background-repeat-bloem);
@@ -325,7 +325,7 @@ button:hover {
 
 /* MARK: APRIL */
 .mainapr {
-  background-image: url("/img/aprmadelief.png");
+  background-image: url("../img/aprmadelief.png");
   min-height: var(--min-height);
   background-size: var(--background-size-bloem);
   background-repeat: var(--background-repeat-bloem);
@@ -338,7 +338,7 @@ button:hover {
 
 /* MARK: MEI */
 .mainmei {
-  background-image: url("/img/meilily.png");
+  background-image: url("../img/meilily.png");
   min-height: var(--min-height);
   background-size: var(--background-size-bloem);
   background-repeat: var(--background-repeat-bloem);
@@ -351,7 +351,7 @@ button:hover {
 
 /* MARK:JUNI */
 .mainjun {
-  background-image: url("/img/junroos.png");
+  background-image: url("../img/junroos.png");
   min-height: var(--min-height);
   background-size: var(--background-size-bloem);
   background-repeat: var(--background-repeat-bloem);
@@ -364,7 +364,7 @@ button:hover {
 
 /* MARK:JULI */
 .mainjul {
-  background-image: url("/img/julridder.png");
+  background-image: url("../img/julridder.png");
   min-height: var(--min-height);
   background-size: var(--background-size-bloem);
   background-repeat: var(--background-repeat-bloem);
@@ -377,7 +377,7 @@ button:hover {
 
 /* MARK:AUGUSTUS */
 .mainaug {
-  background-image: url("/img/auggladiool.png");
+  background-image: url("../img/auggladiool.png");
   min-height: var(--min-height);
   background-size: var(--background-size-bloem);
   background-repeat: var(--background-repeat-bloem);
@@ -389,7 +389,7 @@ button:hover {
 }
 /* MARK:SEPTEMBER */
 .mainsep {
-  background-image: url("/img/sepaster.png");
+  background-image: url("../img/sepaster.png");
   min-height: var(--min-height);
   background-size: var(--background-size-bloem);
   background-repeat: var(--background-repeat-bloem);
@@ -401,7 +401,7 @@ button:hover {
 }
 /* MARK:OKTOBER */
 .mainokt {
-  background-image: url("/img/oktgouds.png");
+  background-image: url("../img/oktgouds.png");
   min-height: var(--min-height);
   background-size: var(--background-size-bloem);
   background-repeat: var(--background-repeat-bloem);
@@ -413,7 +413,7 @@ button:hover {
 }
 /* MARK:NOVEMBER */
 .mainnov {
-  background-image: url("/img/novchrysant.png");
+  background-image: url("../img/novchrysant.png");
   min-height: var(--min-height);
   background-size: var(--background-size-bloem);
   background-repeat: var(--background-repeat-bloem);
@@ -425,7 +425,7 @@ button:hover {
 }
 /* MARK:DECEMBER */
 .maindec {
-  background-image: url("/img/dechulst.png");
+  background-image: url("../img/dechulst.png");
   min-height: var(--min-height);
   background-size: var(--background-size-bloem);
   background-repeat: var(--background-repeat-bloem);
