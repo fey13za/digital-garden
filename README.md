@@ -4,16 +4,15 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
-###
+### 31 AUG - START
 
-31 AUG - START
 vragen:
 
 1. Leg uit wat een source hosting platform is en voor welke jij gekozen hebt: Ik heb gekozen voor codeberger, Het host jouw website en is een soort backup
 2. Vertel welke domeinnaam jij gekozen hebt en hoe je die hebt gekoppeld aan jouw pagina: F3ysgarden.nl, ik heb mijn domeinnaam nog niet gekoppeld, maar daarvoor gebruik ik transIP en denk ik dat ik het link aan mijn URL
 3. Beschrijf hoe je aanpassingen aan jouw pagina kunt maken en hoe je er voor zorgt dat die op het web gepubliceerd worden: Je maakt aanpassingen in de code die je moet opslaan en committen. Je hebt het origineel en daar maak je eigenlijk aanpassingen.
 
-2 SEPTEMBER
+### 2 SEPTEMBER
 
 Ik heb MMD en micro interacties herhaald. Ik ben aan de slag gegaan in figma om een wok to walk menu te maken. Ik heb het niet helemaal afgekregen, maar ik had wel een goed idee in mijn hoofd waarbij ik deze elementen gebruikte. 5 elementen:
 -Cues
@@ -27,7 +26,8 @@ De opdracht was bedoelt om ons na te denken over verschillende formulieren en ho
 Ik heb ook een deep dive gehad over schetsen en wireframes. Hierbij begonnen we met het oefenen van lijnen en vervolgens hebben we een website uitgekozen en hier een wireframe van gemaakt. Hierbij herhaalde we dingen als hoe je animaties schetst (blauwe stippellijnen bijv.) of hoe je knoppen duidelijk maakt in een schets. Hier zie je mijn wireframe:
 ![wireframe deepdive](readme-img/deepdiveschets.jpeg)
 
-4 SEPTEMBER
+### 4 SEPTEMBER
+
 Deep dives: Praktische CSS en HTML en CSS basics:
 Bij de HTML en CSS basics werd herhaald hoe het allemaal ook alweer werkt en ook een stukje 'geschiedenis' over welke personen er eigenlijk achter zitten. Het werd weer duidelijk gemaakt hoe HTML de content/basis is (marked-up content) en CSS de echte styling ervan is. JS wordt dan gebruikt voor de interactieve/bewegende elementen.
 
@@ -35,8 +35,9 @@ Bij praktische CSS gingen we zelf een lelijke website transformeren tot een duid
 
 ### Sprint 1
 
-~SPRINT 1~
-MA 7-09: Ik was deze dag niet aanwezig, dus het volgende is zelfstandig gedaan:
+### MA 7-09:
+
+Ik was deze dag niet aanwezig, dus het volgende is zelfstandig gedaan:
 
 OVER MIJN GARDEN:
 -Inventarisatie: Ik zou zelf iets willen maken wat ik interessant vind en waar ik blij van word. Ik had bij een website gezien dat mijn cursor veranderde naar een hartje, het lijkt me erg cool om ook zoiets te kunnen gebruiken en personaliseren. Ik zag ook dat je ergens op kon klikken en dat er dan confetti en een geluidje afspeelde.
@@ -57,7 +58,8 @@ En links verzameld van nuttige bronnen over mijn onderwerp: 1.https://weeklyflow
 bij welke maand welke bloem hoort. 2.https://www.fiestajewellery.nl/blogs/blog/waarom-heeft-elke-maand-een-eigen-geboortebloem -> Hier werd het victoriaanse tijdperk benoemd, waardoor ik door ben gaan zoeken naar bronnen hierover. 3.https://vertaalbureau-scandic.nl/victoriaanse-taal-van-bloemen-wat-betekenen-ze/ Dit artikel gaat echt in op de taal van de bloemen (niet alleen die uit de maanden) inclusief wat verschillende kleuren betekenen, vanuit het vctoriaanse tijdperk. 4.https://floriografie.nl/category/geboortebloemen/ Dit artikel geeft echt een uitleg over waarom
 deze bloem word gekoppeld aan deze maand. 5.https://anilens.com/product/houten-schijf-met-geboortebloemen-26cm/ Visuele representatie van twee bloemen per maand 6.https://nl.wiktionary.org/wiki/bloementaal dit is een leuk stukje over de betekenis van het woord 7.https://nl.jardineriaon.com/floriografie.html Dit gaat dieper in op de geschiedenis en andere aspecten 8.https://flowerslib.com/nl/bloementaal/ Een soort woordenboek voor bloemen 9.https://zodiacstock.com/zodiac/zodiac-flower-chart nog een mooi overzicht, twee per maand 10.https://www.homefortheharvest.com/lily-of-the-valley/ Tot slot - mijn geboorte bloem
 
-CHECK OUT - MAANDAG 07-09
+### CHECK OUT - MAANDAG 07-09
+
 1.Wat is het verschil tussen een digitaal tuintje en anders dan reguliere websites?
 Voor mij zit het verschil erin dat het digitaal tuintje nooit echt 'af' gaat zijn zoals vaak wel het doel is bij een reguliere website (Website ontwerpen, alles werkt, en klaar) jij blijft leren en daarmee toevoegen aan je digitaal tuintje die zo steeds verder kan groeien. Het is ook iets persoonlijker, wat meer naar jezelf gericht dan het publiek.
 
@@ -65,7 +67,7 @@ Voor mij zit het verschil erin dat het digitaal tuintje nooit echt 'af' gaat zij
 
 3.Mijn idee voor mijn digital garden ligt nu bij informeren over jouw geboorte bloem(en) en over bloementaal wanneer het aankomt op boeketten. Ik wil een soort rustige interesse opwekken die niet saai wordt en waar je even kan ademhalen?
 
-[WOENSDAG 09-09
+### WOENSDAG 09-09
 
 Ik heb gekeken naar een presentatie van iemand uit een andere klas over Amsterdam en een beetje feedback hierop gegeven. Mijn eigen presentatie was nog niet helemaal af, maar ik had wel het een en ander verteld over mijn ideeën en dit samen besproken wat wel/geen goed idee was. Dit gaf me meer bevestiging over het bloemen-onderwerp.
 
@@ -83,14 +85,14 @@ Mijn garden gaat over geboorte-bloemen, de eigenschappen hiervan en de bloementa
 
 In mijn crazy 8 had ik een idee gebaseerd op gedroogde boeketten aan een muur als decoratie. Ik heb dit een paar keer voorbij zien komen op social media en het lijkt me cool om hier wat mee te doen en ook een goede vorm voor mijn onderwerp!]
 
-VRIJDAG 11-09
+### VRIJDAG 11-09
 
 Voor vandaag heb ik vanuit mijn crazy 8 wat mobile-first schermen geschetst. Ik nam voornamelijk de tweede van linksboven als uitgangspunt.
 ![mobilefirstschets](readme-img/mobilefirst.png)
 Van deze vijf schetsen waren deze twee mijn uitgangspunten die het beste bij mijn idee pasten.
 Ik had ook een voortgangsgesprek, waarin mijn ideeën waren goedgekeurd en ik aan de slag kon met het bepalen van mijn content en een begin kon maken aan mijn HTML-structuur. Het advies van de student-assistent was het gebruik maken van een list voor de maanden.
 
-[MA 14-09
+### MA 14-09
 
 Ik heb tijdens het weekend gewerkt aan mijn HTML-structuur, maar nog niet echt aan de CSS, omdat ik niet wist waar ik moest beginnen.
 
@@ -123,7 +125,8 @@ Vertel welke volgende stap je neemt om je website responsive te maken: Ik ben nu
 
 Kun je het ontwerp en de bouw van je eigen Garden (zo uit je hoofd) onderbouwen in Webby vocabulair?: Julius zegt van niet. Ik weet wel de termen fluïde en toegankelijkheid, maar ik weet niet al het vocabulair uit mijn hoofd. Ik heb wel al een beetje gewerkt aan de focus states van mijn links, waardoor die toegankelijker zijn.]
 
-[WO 16-09
+### WO 16-09
+
 Ik heb verder aan mijn CSS gewerkt en gekeken naar gestalt principes in mijn ontwerp, hoewel dit nog niet perfect is. Ik heb veel gebruik gemaakt van custom properties en nieuwe manieren ontdekt om individuele list-items te stylen. Op deze manier:
 
 li:nth-of-type(2) {
@@ -142,7 +145,7 @@ Een grid maakt het makkelijker om een mooie structuur te geven aan je website, z
 
 Ik ben aan het letten op witruimte en hiërarchie in grootte van de tekst. Ik wil graag dat mijn website mooi en rustig blijft ogen, ik heb hiervoor ook een soort papier-textuur toegevoegd.]
 
-VRIJDAG 18-09
+### VRIJDAG 18-09
 
 Ik heb op donderdag een aantal afwerkingen gemaakt aan mijn website en ervoor gezorgd dat het fluïde en interactief werkt. Ik heb de laatste details van de fonts neergezet en de individuele bloemen-pagina's gecodeerd. Ik moet het wel nog door een spellingscheck gooien.
 
@@ -216,7 +219,7 @@ Ik heb tot nu toe veel plezier gehad in het leren en maken van deze website, voo
 
 ### Sprint 2
 
-MA - 21-09
+### MA - 21-09
 
 We hebben deze les een recap gekregen van de deepdives over coderen en dit gevolgd.
 
@@ -226,7 +229,7 @@ We hebben deze les een recap gekregen van de deepdives over coderen en dit gevol
 
 ![cookies analyse](readme-img/cookiesanalyse.png)
 
-WOENSDAG 23-09
+### WOENSDAG 23-09
 
 We hebben het tijdens een lezing over privacy gehad. Ik heb hierna een website geanalyseerd over dark patterns en een oplossing hiervoor bedacht. Vervolgens heb ik nagedacht over mijn eigen 'cookies', wat dit zou inhouden en hoe ik dit zou kunnen vormgeven:
 
@@ -246,3 +249,15 @@ Je hebt ook nagging, dat een optie heel veel in je gezicht wordt geduwd en door 
 
 Waar moet je als ontwerper rekening mee houden bij het maken van een human consent component?
 Best een heleboel, denk aan duidelijk taalgebruik. Het moet ook overzichtelijk blijven en niet iemand doodgooien met niet-echt-nuttige info zodat ze geneigd zijn het niet te lezen. De opties moeten neutraal zijn (geen voorkeursoptie) en allemaal even toegankelijk. Het moet niet eindeloos lang zijn en duidelijk terug te vinden om je opties aan te passen, het kan ook handig zijn om de consequenties duidelijk neer te zetten(wat gebeurt er als je accepteerd, maar ook wat er gebeurt als je het weigert). Dit is een goed begin voor een duidelijk consent component die je zo redelijk mogelijk houdt.
+
+### VRIJDAG 25-09
+
+We hadden vandaag voortgangsgesprekken waar ik het volgende feedback uit heb gehaald:
+
+1. Let op de nabijheid tussen kopjes en alinea's, de afstand is nu te ver, waardoor het niet lijkt alsof ze echt bij elkaar horen.
+2. Zet de list items met 'transform' wat scheef en pas dit aan, zodat het wat rommeliger/natuurlijker oogt.
+3. Maak een flow-tekening van jouw human consent form
+
+Ik ben begonnen met punt 3, dit ziet er als volgt uit:
+![flowtekening human consent form](/readme-img/flowconsentform.png)
+Ik weet nog niet hoe ik dit ga realiseren, maar ik weet nu waar ik moet beginnen. Ik heb ook met de student-assistente gewerkt aan mijn custom-cursor. Hij raadde aan om verschillende states te tekenen hiervoor (dus ook nog on-click, etc.)
