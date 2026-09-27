@@ -264,11 +264,11 @@ Ik weet nog niet hoe ik dit ga realiseren, maar ik weet nu waar ik moet beginnen
 
 CHECK OUT
 
-wat is HTML-validatie?
-Een controle dat je code netjes is en geen errors geeft. Dat alles klopt en logisch is.
+- Wat is HTML-validatie?
+  Een controle dat je code netjes is en geen errors geeft. Dat alles klopt en logisch is.
 
-Welke dingen vielen je op?
-Het geeft je ook advies over wanneer je beter iets anders kan gebruiken qua tags en niet alleen wanneer iets echt niet werkt of kan.
+- Welke dingen vielen je op?
+  Het geeft je ook advies over wanneer je beter iets anders kan gebruiken qua tags en niet alleen wanneer iets echt niet werkt of kan.
 
-Welke feedback heb je ontvangen?
-Ik heb mijn feedback al hierboven verwerkt.
+- Welke feedback heb je ontvangen?
+  Ik heb mijn feedback al hierboven verwerkt.
