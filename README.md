@@ -272,3 +272,10 @@ CHECK OUT
 
 - Welke feedback heb je ontvangen?
   Ik heb mijn feedback al hierboven verwerkt.
+
+### MAANDAG 28-09
+
+We begonnen vandaag met de bi-weekly geek en wat vragen hierover beantwoorden. Wij kregen de volgende hoofdvraag, waar we deelvragen bij hebben bedacht:
+![bi-weekly geek form](readme-img/geek2.png)
+En we hebben bij andere deelvragen de volgende onderzoeksmethodes gekoppeld:
+![bi-weekly geek form methods](readme-img/geek2methods.jpeg)
