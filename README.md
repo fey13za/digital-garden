@@ -279,3 +279,43 @@ We begonnen vandaag met de bi-weekly geek en wat vragen hierover beantwoorden. W
 ![bi-weekly geek form](readme-img/geek2.png)
 En we hebben bij andere deelvragen de volgende onderzoeksmethodes gekoppeld:
 ![bi-weekly geek form methods](readme-img/geek2methods.jpeg)
+
+We hebben verschillende beperkingen meegemaakt, waaronder motoriek en zicht-beperkingen. Vervolgens moesten we met de screen-reader een reis plannen. Ik vond dit eigenlijk best moeilijk en vind de meeste combinaties op het toetsenbord ook niet heel makkelijk te gebruiken, vooral niet als je al een motorieke beperking hebt. Wij hebben geen nieuwe controls kunnen ontdekken en de meeste op het pre-made spiekbriefje werkte voor mij helaas ook niet. Ik heb heel veel tab + enter gebruikt.
+
+Het pre-made spiekbriefje:
+
+[Windows key]+[control]+[enter] Zet Narrator aan
+[caps lock]+[control]+[I] start met lezen vanaf het begin van de pagina
+[caps lock]+[↓] verder met lezen vanaf waar je gebleven was
+[control] shut up!!!
+[caps lock]+[spatie] scan-mode aan/uitzetten
+[H] / [shift]+[H] Naar de volgende heading / vorige heading
+[2] / [shift]+[2] naar de volgde <h2> / vorige <h2>
+[caps lock]+[F6] open lijst met headings
+[K] / [shift]+[K] Naar de volgende link / vorige link
+[caps lock]+[F7] open lijst met links
+Beginnetje toetsenbord-shortcuts voor MacOS
+[command]+[F5] VoiceOver aanzetten/uitzetten
+[control]+[option]+[A] de hele website voorlezen
+[control] shut up!!!
+[control]+[option]+[U] open lijst met headings, links, formelementen
+↳ [←][→] wissel tussen de lijsten
+↳ [↓][↑] op en neer in een lijst
+[control]+[option]+[command]+[←][→] selecteer een categorie in de rotor
+↳ [↓][↑] op en neer in een rotor categorie
+[control]+[option]+[←][→] door alle elementen in de website navigeren
+
+Zelf ontdekt:
+FN + f5 is herladen van pagina
+capslock werkt niet!
+Fn+f1 is microsoft support
+Fn + f3 is zoekbalk opnieuw invullen
+Fn + f7 is inschakelen van bladeren met toetsenbord
+fn + f9 is leesmodus inschakelen
+
+CHECK OUT
+Wat bedoelt Vasilis met de uitspraak: Semantiek doet mij niet zo veel, ik ben liever bezig met de UX van HTML? Vasilis bedoelt dat hij niet zo bezig is met de betekenis van woorden, maar dat de user experience goed is.
+
+Wat voor type beperkingen hebben invloed op het gebruiken van websites? Auditief, Cognitief, Visueel, Motoriek.
+
+Noem drie manieren om door een website te navigeren met jouw screenreader. Met de tab, je kan het ook zo instellen dat je het met de pijltjes kan bedienen (volgensmij) en dmv de screenreader en enter. Ik vond het wel moeiiilijk poeh
