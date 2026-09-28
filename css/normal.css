@@ -96,6 +96,7 @@ h3 {
   font-size: var(--step-4);
   font-family: var(--font-family-3);
   text-align: var(--text-alignment-bloem);
+  margin-bottom: 0.1em;
 }
 
 a {
