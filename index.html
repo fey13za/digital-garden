@@ -19,6 +19,13 @@
   </head>
 
   <body>
+    <dialog id="FirstDialog" open>
+      <form>
+        <p>Please take a second to read the consent notice.</p>
+        <button>Show consent notice</button>
+      </form>
+    </dialog>
+
     <header>
       <h1>Het bloementuintje</h1>
     </header>
@@ -66,24 +73,6 @@
           </li>
         </ul>
       </nav>
-      <nav>
-        <button commandfor="cookieModal" command="show-modal">
-          Allow cookies?
-        </button>
-      </nav>
     </footer>
-
-    <dialog id="cookieModal" open>
-      <form method="dialog">
-        <p>
-          Bij gebruik van deze website worden jouw persoonsgegevens verwerkt
-          door GitHub, Microsoft en het digituintje component. Dit kan niet
-          'uit' wegens deze website hier gehost wordt. Wilt u dit niet, dan kunt
-          u geen gebruik maken van deze website.
-        </p>
-        <button onclick="setCookie()">Allow</button>
-        <button onclick="unsetCookie()">Deny</button>
-      </form>
-    </dialog>
   </body>
 </html>

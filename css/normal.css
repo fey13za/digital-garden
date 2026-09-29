@@ -133,6 +133,21 @@ p {
   padding-bottom: 1.5em;
 }
 
+html:has(dialog:open) {
+  overflow-y: clip;
+}
+
+dialog {
+  /* styling van de dialog*/
+  &::backdrop {
+    background-color: #fff6; /* transparant wit - natuurlijk beter om hier een light-dark() custom property te gebruiken */
+    backdrop-filter: blur(2px); /* px gebruiken voor blur is 👍 :) */
+  }
+  place-items: var(--place-content);
+  border: var(--border);
+  border-radius: var(--border-radius);
+}
+
 /* MARK: general styling months */
 .bodyjan {
   text-align: left;

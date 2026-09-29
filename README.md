@@ -314,8 +314,9 @@ Fn + f7 is inschakelen van bladeren met toetsenbord
 fn + f9 is leesmodus inschakelen
 
 CHECK OUT
-Wat bedoelt Vasilis met de uitspraak: Semantiek doet mij niet zo veel, ik ben liever bezig met de UX van HTML? Vasilis bedoelt dat hij niet zo bezig is met de betekenis van woorden, maar dat de user experience goed is.
+Wat bedoelt Vasilis met de uitspraak: Semantiek doet mij niet zo veel, ik ben liever bezig met de UX van HTML? Vasilis bedoelt dat hij niet zo bezig is met de betekenis van woorden, maar dat de user experience goed is en dat de website goed werkt.
 
 Wat voor type beperkingen hebben invloed op het gebruiken van websites? Auditief, Cognitief, Visueel, Motoriek.
 
-Noem drie manieren om door een website te navigeren met jouw screenreader. Met de tab, je kan het ook zo instellen dat je het met de pijltjes kan bedienen (volgensmij) en dmv de screenreader en enter. Ik vond het wel moeiiilijk poeh
+Noem drie manieren om door een website te navigeren met jouw screenreader. 
+Met de tab, je kan het ook zo instellen dat je het met de pijltjes kan bedienen (volgensmij) en dmv de screenreader en enter. Ik vond het wel moeiiilijk poeh
