@@ -141,7 +141,7 @@ dialog {
   /* styling van de dialog*/
   &::backdrop {
     background-color: #fff6; /* transparant wit - natuurlijk beter om hier een light-dark() custom property te gebruiken */
-    backdrop-filter: blur(2px); /* px gebruiken voor blur is 👍 :) */
+    backdrop-filter: blur(50px); /* px gebruiken voor blur is 👍 :) */
   }
   place-items: var(--place-content);
   border: var(--border);
