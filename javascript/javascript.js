@@ -1,4 +1,7 @@
 function openDialog() {
-  const SecondDialog = document.querySelector("dialog");
-  SecondDialog.show();
+  const FirstDialog = document.querySelector("dialog");
+
+  if (SecondDialog.open) {
+    FirstDialog.close();
+  }
 }

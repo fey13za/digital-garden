@@ -22,24 +22,23 @@
     <dialog id="FirstDialog" open>
       <form method="dialog">
         <p>Neem een minuutje om de consent notice te lezen A.U.B.</p>
-        <button commandfor="SecondDialog" command="show-modal">
-          Consent Notice
-        </button>
+        <button onclick="openDialog()">Consent Notice</button>
       </form>
     </dialog>
 
     <dialog id="SecondDialog">
       <form>
         <p>
-          Deze website wordt gehost via Github, via dit platform en microsoft
-          worden uw gegevens verwerkt. Als u dit niet wilt, vragen wij u de
-          website te verlaten, omdat het niet uitgezet kan worden. Uw gegevens
-          worden ook verwerkt door een digituintje component, dit kan uitgezet
-          worden of u kunt alles accepteren.
+          Deze website wordt gehost via <em>Github</em>, via dit platform en
+          <em>microsoft</em> worden uw gegevens verwerkt. Als u dit niet wilt,
+          vragen wij u de website te verlaten, omdat het niet uitgezet kan
+          worden. Uw gegevens worden ook verwerkt door een
+          <em>digituintje component</em>, dit kan uitgezet worden of u kunt
+          alles accepteren.
         </p>
-        <button>Weiger en verlaat website</button>
-        <button>Accepteer essentiële</button>
-        <button>Accepteer alles</button>
+        <button onclick="Weiger()">Weiger en verlaat website</button>
+        <button onclick="OnlyEssential()">Accepteer essentiële</button>
+        <button onclick="Accept()">Accepteer alles</button>
       </form>
     </dialog>
     <header>
