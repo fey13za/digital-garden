@@ -298,7 +298,7 @@ label {
 button {
   font-size: var(--step-2);
   font-family: var(--font-family);
-  color: rgb(129, 53, 85);
+  color: rgb(250, 216, 230);
   border-radius: var(--border-radius);
   border: var(--border);
   padding-left: 0.5em;

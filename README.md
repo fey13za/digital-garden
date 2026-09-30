@@ -335,3 +335,20 @@ Ik heb een aantal verbeterpunten gevonden:
    ![colorcontrast dark headingstest](readme-img/contrastdarkpink.png)
    ![colorcontrast light headingstest](readme-img/contrastlightgreen.png)
    ![colorcontrast light/purple headingstest](readme-img/contrastlightpurple.png)
+
+   CHECK OUT
+
+Waar staat WCAG en A11y voor?
+Web Content Accessibility Guidlines en Ally staat voor accessibility en de 11 ipv de letter ll tussen de a en de y.
+
+Wat vind je lastiger, je laptop/websites alleen met een toetsenbord bedienen of met een screenreader? Waarom? Waar moet je nog mee oefenen?
+Ik vind het met de screenreader het moeilijkst denk ik, windows is er ook niet heel makkelijk mee, omdat het niet lukt om een lijst met headings/links te openen.
+
+Met welke beperking rekening houden vind je het meest lastig?
+Ik vind het denk ik moeilijk om rekening te houden met cognitieve beperkingen, ik denk namelijk dat mijn lettertypes bijvoorbeeld niet dyslexie-vriendelijk zijn.
+
+Vind je dat je beperkt wordt in wat je kunt ontwerpen?
+Dat hangt er vanaf hoe ver je er in door gaat, maar ik vind dat het je eigenlijk uitdaagt om meer of beter te ontwerpen.
+
+Of heb je al manieren gevonden om vanuit een solide basis - die voor iedereen toegankelijk is - allemaal leuke en mooie extra's toe te voegen als je bezoekers dat goed vinden?
+Ik heb het niet verwerkt in mijn website, maar ik stel me voor dat je voor veel verschillende beperkingen een variant zou kunnen maken voor jouw website of kleine aanpassingen zou kunnen maken. Dit neemt natuurlijk wel veel tijd.
