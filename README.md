@@ -325,3 +325,13 @@ Met de tab, je kan het ook zo instellen dat je het met de pijltjes kan bedienen 
 
 We gingen vandaag in duo's onze websites valideren a.d.h.v een WCAG checklist.
 Ik heb een aantal verbeterpunten gevonden:
+
+1. Ik had mn HTML nog niet gevalideert, dat is nu wel gebeurt.
+2. Op de mobiele versie is er nog horizontal scrolling
+3. Ik heb geen skiplinks
+4. Ik kan het contrast op kleine plekken hier en daar verbeteren.
+   Screenshots:
+   ![colorblind grey test](readme-img/colorblindly.png)
+   ![colorcontrast dark headingstest](readme-img/contrastdarkpink.png)
+   ![colorcontrast light headingstest](readme-img/contrastlightgreen.png)
+   ![colorcontrast light/purple headingstest](readme-img/contrastlightpurple.png)
