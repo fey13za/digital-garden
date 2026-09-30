@@ -318,5 +318,10 @@ Wat bedoelt Vasilis met de uitspraak: Semantiek doet mij niet zo veel, ik ben li
 
 Wat voor type beperkingen hebben invloed op het gebruiken van websites? Auditief, Cognitief, Visueel, Motoriek.
 
-Noem drie manieren om door een website te navigeren met jouw screenreader. 
+Noem drie manieren om door een website te navigeren met jouw screenreader.
 Met de tab, je kan het ook zo instellen dat je het met de pijltjes kan bedienen (volgensmij) en dmv de screenreader en enter. Ik vond het wel moeiiilijk poeh
+
+### Woensdag 30-09
+
+We gingen vandaag in duo's onze websites valideren a.d.h.v een WCAG checklist.
+Ik heb een aantal verbeterpunten gevonden:
