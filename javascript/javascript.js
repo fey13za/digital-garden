@@ -1,7 +1,31 @@
-function openDialog() {
-  const FirstDialog = document.querySelector("dialog");
+const FirstDialog = document.querySelector("dialog#FirstDialog");
+const SecondDialog = document.querySelector("dialog#SecondDialog");
+const body = document.querySelector("body");
 
-  if (SecondDialog.open) {
+function openDialog() {
+  if (!SecondDialog.open) {
+    SecondDialog.show();
     FirstDialog.close();
   }
+}
+
+function OpenFirstDialog() {
+  FirstDialog.show();
+}
+
+function Weiger() {
+  body.classList.remove("acceptedCookie");
+  body.classList.remove("essentialCookie");
+  window.close();
+}
+
+function OnlyEssential() {
+  body.classList.remove("acceptedCookie");
+  body.classList.add("essentialCookie");
+}
+
+function Accept() {
+  // component inladen
+  body.classList.add("acceptedCookie");
+  body.classList.remove("essentialCookie");
 }

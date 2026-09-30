@@ -10,12 +10,12 @@
     <link rel="stylesheet" href="./css/normal.css" />
 
     <!-- Importeer het webring component, voeg jouw eigen domein toe in data-page -->
-    <script
+    <!-- <script
       data-page="https://f3ysgarden.nl"
       src="http://digitaaltuintje.nl/webring.js"
       defer
-      src="../javascript/javascript.js"
-    ></script>
+    ></script> -->
+    <script src="../javascript/javascript.js" defer></script>
   </head>
 
   <body>
@@ -27,7 +27,7 @@
     </dialog>
 
     <dialog id="SecondDialog">
-      <form>
+      <form method="dialog">
         <p>
           Deze website wordt gehost via <em>Github</em>, via dit platform en
           <em>microsoft</em> worden uw gegevens verwerkt. Als u dit niet wilt,
@@ -89,5 +89,6 @@
         </ul>
       </nav>
     </footer>
+    <button onclick="OpenFirstDialog()">Change Cookies</button>
   </body>
 </html>
