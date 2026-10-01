@@ -367,3 +367,5 @@ Ook heb ik mijn cookie-pop up beter gestyled en leesbaar gemaakt:
 
 Ik had in de les mijn HTML gevalideert met een student-assistent, maar ik was dit vergeten op te slaan. Er kwam daar een error uit. Ik heb nu mijn HTML nog een keer gevalideert en er kwamen gelukkig geen errors uit!
 ![HTMLvalidatie](readme-img/HTMLvalidatie.png)
+
+Uit mijn andere HTML pagina's helaas wel, er zat een spellingsfout (clas ipv class, jammer genoeg) in mijn class-tag en je kan geen button en a tag combineren. Ik heb dit aangepast en alle errors zijn weg!
