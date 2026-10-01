@@ -13,12 +13,6 @@ function OpenFirstDialog() {
   FirstDialog.show();
 }
 
-function Weiger() {
-  body.classList.remove("acceptedCookie");
-  body.classList.remove("essentialCookie");
-  window.close();
-}
-
 function OnlyEssential() {
   body.classList.remove("acceptedCookie");
   body.classList.add("essentialCookie");

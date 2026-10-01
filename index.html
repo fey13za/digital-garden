@@ -22,7 +22,10 @@
   <body>
     <dialog id="FirstDialog" open>
       <form method="dialog">
-        <p>Neem een minuutje om de consent notice te lezen A.U.B.</p>
+        <p>
+          Neem een minuutje om de consent notice te lezen voordat u de website
+          gebruikt.
+        </p>
         <button onclick="openDialog()">Consent Notice</button>
       </form>
     </dialog>
@@ -30,14 +33,13 @@
     <dialog id="SecondDialog">
       <form method="dialog">
         <p>
-          Deze website wordt gehost via <em>Github</em>, via dit platform en
-          <em>microsoft</em> worden uw gegevens verwerkt. Als u dit niet wilt,
-          vragen wij u de website te verlaten, omdat het niet uitgezet kan
-          worden. Uw gegevens worden ook verwerkt door een
-          <em>digituintje component</em>, dit kan uitgezet worden of u kunt
-          alles accepteren.
+          Deze website verzameld en verwerkt uw gegevens via
+          <em>github, microsoft</em> en een <em>digitaaltuintje component</em>.
+          Wilt u geen van dit? Dan vragen wij u de website te verlaten. Wilt u
+          alleen de component niet? Klik dan op <em>alleen essentiële</em>. Als
+          u alles geen probleem vindt, kies dan <em>accept all</em>. Dankuwel
+          voor het lezen!
         </p>
-        <button onclick="Weiger()">Weiger en verlaat website</button>
         <button onclick="OnlyEssential()">Accepteer essentiële</button>
         <button onclick="Accept()">Accepteer alles</button>
       </form>
