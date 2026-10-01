@@ -303,7 +303,7 @@ label {
   cursor: url(../img/cursor.png), crosshair;
 }
 
-button {
+.button {
   font-size: var(--step-2);
   font-family: var(--font-family);
   color: rgb(72, 0, 30);
