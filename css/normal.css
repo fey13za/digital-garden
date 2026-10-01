@@ -139,14 +139,20 @@ html:has(dialog:open) {
 }
 
 dialog {
-  /* styling van de dialog*/
   &::backdrop {
-    background-color: #fff6; /* transparant wit - natuurlijk beter om hier een light-dark() custom property te gebruiken */
-    backdrop-filter: blur(50px); /* px gebruiken voor blur is 👍 :) */
+    background-color: #ffffff9b; /* transparant wit - natuurlijk beter om hier een light-dark() custom property te gebruiken */
+    backdrop-filter: blur(5px); /* px gebruiken voor blur is 👍 :) */
   }
-  place-items: var(--place-content);
+
   border: var(--border);
-  border-radius: var(--border-radius);
+  border-radius: 30px;
+  max-width: 65%;
+  background-color: #f6fbe6;
+}
+
+.diaparagraphs {
+  text-align: center;
+  font-family: var(--font-family-3);
 }
 
 /* MARK: general styling months */
@@ -300,7 +306,7 @@ label {
 button {
   font-size: var(--step-2);
   font-family: var(--font-family);
-  color: rgb(250, 216, 230);
+  color: rgb(72, 0, 30);
   border-radius: var(--border-radius);
   border: var(--border);
   padding-left: 0.5em;
