@@ -101,6 +101,20 @@ a {
   color: var(--color);
   cursor: url(../img/cursor.png), crosshair;
 }
+
+.backtohome {
+  font-size: var(--step-2);
+  font-family: var(--font-family);
+  color: rgb(72, 0, 30);
+  border-radius: var(--border-radius);
+  border: var(--border);
+  padding-left: 0.5em;
+  padding-right: 0.5em;
+  box-shadow: 5px 5px 10px 2px rgb(94, 23, 52);
+  background-color: var(--accent-color1);
+  cursor: url(../img/cursor.png), crosshair;
+}
+
 a:hover {
   color: var(--hover-color);
 }
