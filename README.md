@@ -335,6 +335,7 @@ Ik heb een aantal verbeterpunten gevonden:
    ![colorcontrast dark headingstest](readme-img/contrastdarkpink.png)
    ![colorcontrast light headingstest](readme-img/contrastlightgreen.png)
    ![colorcontrast light/purple headingstest](readme-img/contrastlightpurple.png)
+5. Dit kwam niet uit de WCAG test, maar mijn cookie pop-up is moeilijk te lezen en heeft nog styling nodig en een duidelijkere tekst.
 
    CHECK OUT
 
@@ -352,3 +353,17 @@ Dat hangt er vanaf hoe ver je er in door gaat, maar ik vind dat het je eigenlijk
 
 Of heb je al manieren gevonden om vanuit een solide basis - die voor iedereen toegankelijk is - allemaal leuke en mooie extra's toe te voegen als je bezoekers dat goed vinden?
 Ik heb het niet verwerkt in mijn website, maar ik stel me voor dat je voor veel verschillende beperkingen een variant zou kunnen maken voor jouw website of kleine aanpassingen zou kunnen maken. Dit neemt natuurlijk wel veel tijd.
+
+### DONDERDAG 1-10
+
+Ik heb mijn code gelukkig best netjes gehouden en alles al in logische mappen bewaart. Ik heb nog even door mijn custom properties gekeken of daar wat bij zit wat niet nodig was en dit weggehaald (Bij bestanden, HTML, enzovoort ook.)
+
+Ik heb het contrast in mijn website wat sterker gemaakt in de H1's, door de lichte kleuren lichter te maken. Ik miste ook een duidelijk contrast in mijn buttons, dus die heb ik ook aangepast. Zo ziet het er nu uit:
+![H1, beter contrast voorbeeld](readme-img/betercontrastH1.png)
+![Nieuwe buttons](readme-img/Newbuttons.png)
+
+Ook heb ik mijn cookie-pop up beter gestyled en leesbaar gemaakt:
+![Stylised cookie pop-up](readme-img/cookiepopup.png)
+
+Ik had in de les mijn HTML gevalideert met een student-assistent, maar ik was dit vergeten op te slaan. Er kwam daar een error uit. Ik heb nu mijn HTML nog een keer gevalideert en er kwamen gelukkig geen errors uit!
+![HTMLvalidatie](readme-img/HTMLvalidatie.png)

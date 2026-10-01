@@ -152,6 +152,7 @@ dialog {
 .diaparagraphs {
   text-align: center;
   font-family: var(--font-family-3);
+  font-size: var(--step-3);
 }
 
 /* MARK: general styling months */
