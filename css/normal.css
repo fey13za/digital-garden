@@ -320,7 +320,7 @@ button {
   padding-left: 0.5em;
   padding-right: 0.5em;
   box-shadow: 5px 5px 10px 2px rgb(94, 23, 52);
-  background-color: var(#b6c877);
+  background-color: #b6c877;
   cursor: url(../img/cursor.png), crosshair;
   margin-bottom: 2em;
 }

@@ -369,3 +369,7 @@ Ik had in de les mijn HTML gevalideert met een student-assistent, maar ik was di
 ![HTMLvalidatie](readme-img/HTMLvalidatie.png)
 
 Uit mijn andere HTML pagina's helaas wel, er zat een spellingsfout (clas ipv class, jammer genoeg) in mijn class-tag en je kan geen button en a tag combineren. Ik heb dit aangepast en alle errors zijn weg!
+
+Ik heb hier en daar wat kleine aanpassingen gemaakt, zoals het zorgen dat mijn cursor hetzelfde blijft als je op een link klikt en wat kleine styling keuzes zoals de pop-up wat lager zetten en de knoppen onder aan de pagina wat hoger. De knoppen veranderde naar een te donkere kleur in dark-mode dus ik heb het nu één standaard kleur gegeven die in beide modussen duidelijk te zien zijn. Ook heb ik de border-radius veranderd van % naar pixels, omdat dat mooier oogt.
+
+Ik denk dat mijn website klaar is om in te leveren!
