@@ -62,7 +62,6 @@ html {
   --background-size-bloem: 60%;
   --background-repeat-bloem: no-repeat;
   --background-position-bloem: right;
-  --min-height: max-content;
   --text-alignment-bloem: left;
 
   cursor: url(../img/cursor.png), crosshair;
