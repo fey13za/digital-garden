@@ -311,6 +311,12 @@ label {
   cursor: url(../img/cursor.png), crosshair;
 }
 
+label:focus {
+  color: var(--accent-color-text);
+  border: var(--border);
+  border-radius: var(--border-radius);
+}
+
 button {
   font-size: var(--step-2);
   font-family: var(--font-family);
@@ -330,6 +336,11 @@ button:hover {
   padding-right: 0.75em;
   color: rgb(245, 0, 102);
   background-color: var(--accent-color1);
+}
+
+button:focus {
+  border: var(--border);
+  border-radius: var(--border-radius);
 }
 
 /*MARK: JAN */
