@@ -150,7 +150,7 @@ Ik ben aan het letten op witruimte en hiërarchie in grootte van de tekst. Ik wi
 Ik heb op donderdag een aantal afwerkingen gemaakt aan mijn website en ervoor gezorgd dat het fluïde en interactief werkt. Ik heb de laatste details van de fonts neergezet en de individuele bloemen-pagina's gecodeerd. Ik moet het wel nog door een spellingscheck gooien.
 
 Tijdens de les hebben we gewerkt aan een retrospective, waarin we een metafoor hebben bedacht voor de sprint. Ik heb een drankje voor doorzetters (en de oververmoeide) bedacht:
-![Drankje voor doorzetters](assets/img/retrospective.png)
+![Drankje voor doorzetters](readme-img/retrospective.png)
 
 CHECK OUT
 ORIËNTEREN & BEGRIJPEN:
