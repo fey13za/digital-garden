@@ -328,7 +328,7 @@ button {
 button:hover {
   padding-left: 0.75em;
   padding-right: 0.75em;
-  color: rgb(158, 84, 115);
+  color: rgb(245, 0, 102);
   background-color: var(--accent-color1);
 }
 
