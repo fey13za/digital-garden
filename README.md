@@ -373,3 +373,27 @@ Uit mijn andere HTML pagina's helaas wel, er zat een spellingsfout (clas ipv cla
 Ik heb hier en daar wat kleine aanpassingen gemaakt, zoals het zorgen dat mijn cursor hetzelfde blijft als je op een link klikt en wat kleine styling keuzes zoals de pop-up wat lager zetten en de knoppen onder aan de pagina wat hoger. De knoppen veranderde naar een te donkere kleur in dark-mode dus ik heb het nu één standaard kleur gegeven die in beide modussen duidelijk te zien zijn. Ook heb ik de border-radius veranderd van % naar pixels, omdat dat mooier oogt.
 
 Ik denk dat mijn website klaar is om in te leveren!
+
+### MA 5-10
+
+Leg uit wat er met de volgende termen bedoeld wordt: kerning,
+tracking,
+leading,
+flush-left,
+flush-right
+centered,
+justified,
+indent,
+outdent,
+modular scale, een range van groottes in letters waar je uit kan kiezen.
+movable type,
+focus punt: dit creeër je door repetitie en contrast af te wisselen.
+vijf soorten contrast: space, color, size, font, weight
+spatial tension: wanneer een lay-out niet statisch is, door bijv. unequal shapes te gebruiken.
+(Hint, alle termen staan in de artikelen die we samen gelezen hebben)
+
+Wat is jouw ideale regellengte (measure)?
+Leg uit waarom. rond de 50, dat vind ik er visually pleasing uitzien.
+
+Als je in een ontwerp maar één variabele tot je beschikking had om hiërarchie aan te brengen (grootte, plaatsing, spacing, lettersoorten), welke zou je dan gebruiken en waarom?
+Ik zou plaatsing doen, omdat je daar vaak al een heel eind mee komt en dat vaak één van de eerste dingen is waar je naar kijkt.
