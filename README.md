@@ -397,3 +397,41 @@ Leg uit waarom. rond de 50, dat vind ik er visually pleasing uitzien.
 
 Als je in een ontwerp maar één variabele tot je beschikking had om hiërarchie aan te brengen (grootte, plaatsing, spacing, lettersoorten), welke zou je dan gebruiken en waarom?
 Ik zou plaatsing doen, omdat je daar vaak al een heel eind mee komt en dat vaak één van de eerste dingen is waar je naar kijkt.
+
+### WO 7-10
+
+Ik heb vandaag een beter begin gemaakt aan mijn schetsen en mijn code. Het lukte tijdens mijn 'vrije' dag niet echt en ik voelde me niet geïnspireerd. Ik begon met de opdracht van een font-size en line-height in te stellen (ook al snapte ik het niet helemaal in het begin).
+
+ <h1>Sorrow</h1>
+    <p>
+      found me when I was <span>young</span> Sorrow waited, sorrow
+      <span>won</span> Sorrow, they put me on the <span>pill</span> It's in my
+      honey, <span>it's in my milk</span>
+    </p>
+
+Klein begin in HTML en in CSS
+
+body {
+display: grid;
+font-family: "Seraphs";
+font-size: 1.2em; /_19,2px, line-height= 19,2 x 1,5 = 28,8px _/
+line-height: 1.5em;
+column-width: 3em;
+width: 500px;
+margin: 0 auto;
+padding-top: 86px;
+}
+
+Ik heb ook geschetst en met Joëlle even gewisselt van liedje, omdat we allebei niet zo geïnspireerd waren. Dit heeft mij verder geholpen en ik ben op een idee gekomen na een paar varianten te schetsen.
+
+CHECK OUT:
+
+1. Waarom is het goed om een grid in je ontwerp toe te passen? Noem een reden voor de ontwerper en een voor de bezoeker.
+   Een grid geeft voor een ontwerper eigenlijk een structuur waarmee je kan spelen en maakt het maken van een goede lay-out makkelijker. Voor een bezoeker blijft de website zo vaak overzichtelijker en fijner om te navigeren.
+
+2. Noem drie manieren om chaos in je ontwerp te voorkomen.
+   Door repetitie te gebruiken, als alles contrasteert met elkaar weet je niet waar je moet kijken. Als je wat elementen hebt die hetzelfde zijn en een paar die er uit springen wordt de aandacht door een lay-out geleidt. Ook door harmonie te behouden, dus door bijvoorbeeld geen overvloed aan verschillende kleuren of dingen te gebruiken.
+   Door een ritme erin te behouden en te zorgen dat de aandacht van de gebruiker door de lay-out geleidt wordt.
+
+3. Hoeveel gekkigheid moet er in je werk zitten?
+   Ik neem aan minimaal een beetje en dat er niet echt een maximum aan zit, zolang het niet te chaotisch wordt.
