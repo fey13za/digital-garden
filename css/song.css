@@ -3,8 +3,26 @@
   font-family: "Seraphs";
   src: url("font/SeraphsVF.woff2") format("woff2"); /* Modern Browsers */
 }
+/*MARK: html-properties */
+html {
+}
 /* MARK: items */
 body {
+  display: grid;
   font-family: "Seraphs";
-  font-size: 1.25em;
+  font-size: 1.2em; /*19,2px, line-height= 19,2 x 1,5 = 28,8px */
+  line-height: 1.5em;
+  column-width: 3em;
+  width: 500px;
+  margin: 0 auto;
+  padding-top: 86px;
+  @media (width > 50em) {
+    grid-template-columns: auto 1fr auto;
+    align-items: start;
+  }
+}
+
+h1 {
+  margin: 0 auto;
+  writing-mode: sideways-lr;
 }
