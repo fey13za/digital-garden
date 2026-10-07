@@ -1,0 +1,9 @@
+/* MARK: fonts */
+@font-face {
+  font-family: "Seraphs";
+  src: url("font/SeraphsVF.woff2") format("woff2"); /* Modern Browsers */
+}
+/* MARK: items */
+body {
+  font-family: "Seraphs";
+}
