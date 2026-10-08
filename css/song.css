@@ -18,6 +18,7 @@ html {
   /*MARK: other properties */
   --background-color: #222222;
   --text-color: oldlace;
+  --text-shadow: 10px 10px 10px black;
 }
 /* MARK: items */
 body {
@@ -38,6 +39,7 @@ main {
 h1 {
   grid-column: 1 / -1;
   text-align: center;
+  text-shadow: var(--text-shadow);
   font-size: 4em;
   font-variation-settings:
     "wght" 200,
@@ -51,9 +53,13 @@ h1 {
 }
 
 span {
+  text-shadow: var(--text-shadow);
+  font-size: var(--step-2);
+  grid-row: 2/2;
   font-variation-settings:
-    "wght" 100,
-    "SRFS" 60;
+    "wght" 168,
+    "SRFS" 42;
+  padding-left: 1em;
 }
 /* MARK: PARAGRAPHS */
 p {
@@ -81,13 +87,4 @@ main p:nth-of-type(3) {
 
 main p:nth-of-type(4) {
   grid-column: 4/5;
-}
-
-p span {
-  font-size: var(--step-2);
-  grid-row: 2/2;
-  font-variation-settings:
-    "wght" 168,
-    "SRFS" 42;
-  padding-left: 1em;
 }
