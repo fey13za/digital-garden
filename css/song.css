@@ -8,7 +8,6 @@ html {
 }
 /* MARK: items */
 body {
-  display: grid;
   font-family: "Seraphs";
   font-size: 1.2em; /*19,2px, line-height= 19,2 x 1,5 = 28,8px */
   line-height: 1.5em;
@@ -16,10 +15,10 @@ body {
   width: 500px;
   margin: 0 auto;
   padding-top: 86px;
+  display: grid;
 }
 
 main {
-  display: grid;
 }
 p {
   writing-mode: sideways-rl;
