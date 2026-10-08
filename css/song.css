@@ -18,9 +18,9 @@ body {
   padding-top: 86px;
 }
 
-h1 {
+main {
+  display: grid;
 }
-
 p {
   writing-mode: sideways-rl;
   height: 500px;
