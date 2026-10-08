@@ -1,26 +1,93 @@
 /* MARK: fonts */
 @font-face {
+  src: url(../fonts/SeraphsVF.woff2);
   font-family: "Seraphs";
-  src: url("font/SeraphsVF.woff2") format("woff2"); /* Modern Browsers */
 }
 /*MARK: html-properties */
 html {
+  /* MARK: size-scale*/
+  --step-3: 2.074em;
+  --step-2: 1.728em;
+  --step-1: 1.44em;
+  --step0: 1.2em;
+  --step1: 1em;
+  --step2: 0.833em;
+  --step3: 0.694em;
+  --step4: 0.579em;
+  --step5: 0.482em;
+  /*MARK: other properties */
+  --background-color: #222222;
+  --text-color: oldlace;
 }
 /* MARK: items */
 body {
   font-family: "Seraphs";
-  font-size: 1.2em; /*19,2px, line-height= 19,2 x 1,5 = 28,8px */
-  line-height: 1.5em;
-  column-width: 3em;
-  width: 500px;
-  margin: 0 auto;
-  padding-top: 86px;
+  font-size: 3em; /* 48px */
+  line-height: 0.05em;
+  grid-template-columns: repeat(3, 1fr);
   display: grid;
+  background: var(--background-color);
+  color: var(--text-color);
 }
 
 main {
+  display: grid;
+  grid-column: 2 / 3;
 }
+
+h1 {
+  grid-column: 1 / -1;
+  text-align: center;
+  font-size: 4em;
+  font-variation-settings:
+    "wght" 200,
+    "SRFS" 40;
+  transition-duration: 3s;
+  &:hover {
+    font-variation-settings:
+      "wght" 100,
+      "SRFS" 40;
+  }
+}
+
+span {
+  font-variation-settings:
+    "wght" 100,
+    "SRFS" 60;
+}
+/* MARK: PARAGRAPHS */
 p {
-  writing-mode: sideways-rl;
-  height: 500px;
+  writing-mode: sideways-lr;
+  text-align: end;
+  font-variation-settings:
+    "wght" 142,
+    "SRFS" 40;
+  display: grid;
+  font-size: var(--step4);
+  line-height: var(--step-3);
+}
+
+main p:nth-of-type(1) {
+  grid-column: 1 / 2;
+}
+
+main p:nth-of-type(2) {
+  grid-column: 2/3;
+}
+
+main p:nth-of-type(3) {
+  grid-column: 3/4;
+}
+
+main p:nth-of-type(4) {
+  grid-column: 4/5;
+}
+
+p span {
+  font-size: var(--step-2);
+  grid-row: 2/2;
+  font-variation-settings:
+    "wght" 168,
+    "SRFS" 42;
+  padding-left: 1em;
 }
