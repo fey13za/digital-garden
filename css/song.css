@@ -60,6 +60,7 @@ span {
     "wght" 168,
     "SRFS" 42;
   padding-left: 1em;
+  letter-spacing: 0.1em;
 }
 /* MARK: PARAGRAPHS */
 p {
