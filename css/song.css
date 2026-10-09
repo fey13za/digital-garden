@@ -43,12 +43,12 @@ h1 {
   font-size: 4em;
   font-variation-settings:
     "wght" 200,
-    "SRFS" 40;
+    "SRFS" 2;
   transition-duration: 3s;
   &:hover {
     font-variation-settings:
-      "wght" 100,
-      "SRFS" 40;
+      "wght" 150,
+      "SRFS" 12;
   }
 }
 
@@ -57,8 +57,8 @@ span {
   font-size: var(--step-2);
   grid-row: 2/2;
   font-variation-settings:
-    "wght" 168,
-    "SRFS" 42;
+    "wght" 125,
+    "SRFS" 12;
   padding-left: 1em;
   letter-spacing: 0.1em;
 }
@@ -67,8 +67,8 @@ p {
   writing-mode: sideways-lr;
   text-align: end;
   font-variation-settings:
-    "wght" 142,
-    "SRFS" 40;
+    "wght" 120,
+    "SRFS" 2;
   display: grid;
   font-size: var(--step4);
   line-height: var(--step-3);

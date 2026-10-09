@@ -440,3 +440,11 @@ CHECK OUT:
 
 Ik heb gister veel aan mijn CSS gewerkt en mijn HTML geupdate en dit is hoe de tussenstand van mijn vormgeving nu is:
 ![Tussenstand songlyrics](readme-img/sorrowtussenstand.png)
+
+-- CHECK OUT --
+
+1. Welke variabelen van Seraphs gebruik je in de opmaak van je songtekst?
+
+2. Wat voegt iedere variabele toe aan je ontwerp (denk aan leesbaarheid, hiërarchie of de uitstraling die je wil bereiken)?
+
+3. Hoe zou je animatie kunnen toepassen om het ritme of de accenten in de weergave van je songtekst nog beter visueel te maken?
