@@ -100,6 +100,10 @@ h3 {
 a {
   color: var(--color);
   cursor: url(../img/cursor.png), crosshair;
+
+  &:hover {
+    color: var(--hover-color);
+  }
 }
 
 .backtohome {
@@ -113,10 +117,6 @@ a {
   box-shadow: 5px 5px 10px 2px rgb(94, 23, 52);
   background-color: var(--accent-color1);
   cursor: url(../img/cursor.png), crosshair;
-}
-
-a:hover {
-  color: var(--hover-color);
 }
 
 a:focus {
@@ -329,13 +329,13 @@ button {
   background-color: #b6c877;
   cursor: url(../img/cursor.png), crosshair;
   margin-bottom: 2em;
-}
 
-button:hover {
-  padding-left: 0.75em;
-  padding-right: 0.75em;
-  color: rgb(245, 0, 102);
-  background-color: var(--accent-color1);
+  &:hover {
+    padding-left: 0.75em;
+    padding-right: 0.75em;
+    color: rgb(245, 0, 102);
+    background-color: var(--accent-color1);
+  }
 }
 
 button:focus {
