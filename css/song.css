@@ -40,6 +40,7 @@ h1 {
   grid-column: 1 / -1;
   text-align: center;
   text-shadow: var(--text-shadow);
+  text-transform: uppercase;
   font-size: 4em;
   font-variation-settings:
     "wght" 200,
