@@ -441,6 +441,20 @@ CHECK OUT:
 Ik heb gister veel aan mijn CSS gewerkt en mijn HTML geupdate en dit is hoe de tussenstand van mijn vormgeving nu is:
 ![Tussenstand songlyrics](readme-img/sorrowtussenstand.png)
 
+Feedback:
+
+- Goed stap voor stap met cookies. Niet alle tekst “bam in your face”
+- Animatie past bij het liedje
+- Is het met een Keyframe smoother? Geen glitch
+- In de main een article zetten
+- Met visual hidden - artiest + songname.
+- In de consent notice de knoppen meer de ruimte geven zodat ze elkaar niet wegduwen.
+- Joelle vind het leuk dat het blaadje de cursor is
+- Misschien andere plaats de laatste zin zetten. “It’s in my milk”
+- Nikky maakt schets ;) Ervoor zorgen dat je via een bloem-pagina makkelijker door kan klikken naar de andere bloempagina's, denk aan een navigatiebalk.
+- Charley: je bent heel goed bezig. Misschien de Hiërarchie nog in de songtekst aanpassen? Misschien in de tekst nog onderscheid maken voor je concent note.
+- Nog fluïde en responsive maken
+
 -- CHECK OUT --
 
 1. Welke variabelen van Seraphs gebruik je in de opmaak van je songtekst?
