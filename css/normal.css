@@ -323,16 +323,15 @@ button {
   color: rgb(72, 0, 30);
   border-radius: var(--border-radius);
   border: var(--border);
-  padding-left: 0.5em;
-  padding-right: 0.5em;
   box-shadow: 5px 5px 10px 2px rgb(94, 23, 52);
   background-color: #b6c877;
   cursor: url(../img/cursor.png), crosshair;
   margin-bottom: 2em;
+  transition: 0.3s ease-out;
+  width: 95%;
 
   &:hover {
-    padding-left: 0.75em;
-    padding-right: 0.75em;
+    transform: scale(1.05);
     color: rgb(245, 0, 102);
     background-color: var(--accent-color1);
   }
@@ -341,6 +340,23 @@ button {
 button:focus {
   border: var(--border);
   border-radius: var(--border-radius);
+}
+
+dialog form {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+dialog form p {
+  grid-column: 1/-1;
+}
+
+.openNotice {
+  grid-column: 1/-1;
+  width: 300px;
+  /* text-wrap: nowrap; */
+  margin: 0 auto;
+  /* justify-content: center; */
 }
 
 /*MARK: JAN */

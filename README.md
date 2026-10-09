@@ -453,7 +453,7 @@ Feedback:
 - In de consent notice de knoppen meer de ruimte geven zodat ze elkaar niet wegduwen.
 - Joelle vind het leuk dat het blaadje de cursor is
 - Misschien andere plaats de laatste zin zetten. “It’s in my milk”
-- Nikky maakt schets ;) Ervoor zorgen dat je via een bloem-pagina makkelijker door kan klikken naar de andere bloempagina's, denk aan een navigatiebalk.
+- Nicky maakt schets ;) Ervoor zorgen dat je via een bloem-pagina makkelijker door kan klikken naar de andere bloempagina's, denk aan een navigatiebalk.
 - Charley: je bent heel goed bezig. Misschien de Hiërarchie nog in de songtekst aanpassen? Misschien in de tekst nog onderscheid maken voor je concent note.
 - Nog fluïde en responsive maken
 
