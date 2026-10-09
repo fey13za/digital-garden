@@ -424,6 +424,8 @@ padding-top: 86px;
 
 Ik heb ook geschetst en met Joëlle even gewisselt van liedje, omdat we allebei niet zo geïnspireerd waren. Dit heeft mij verder geholpen en ik ben op een idee gekomen na een paar varianten te schetsen.
 
+--SCHETSEN NEERZETTEN--
+
 CHECK OUT:
 
 1. Waarom is het goed om een grid in je ontwerp toe te passen? Noem een reden voor de ontwerper en een voor de bezoeker.
@@ -458,7 +460,10 @@ Feedback:
 -- CHECK OUT --
 
 1. Welke variabelen van Seraphs gebruik je in de opmaak van je songtekst?
+   Ik heb een mix van serif en sans-serif gebruikt en verschillende weights
 
 2. Wat voegt iedere variabele toe aan je ontwerp (denk aan leesbaarheid, hiërarchie of de uitstraling die je wil bereiken)?
+   Ik gebruik groottes voor woorden die vaak voorkomen of waar een nadruk op ligt, sans-serif is voor de zinnen waar minder nadruk op ligt en ik probeer ook gebruik te maken van ruimtes waar stiltes vallen.
 
 3. Hoe zou je animatie kunnen toepassen om het ritme of de accenten in de weergave van je songtekst nog beter visueel te maken?
+   Ik zou de tekst kunnen laten draaien zodat je de verticale tekst kan lezen nadat je de horizontale tekst had gelezen, of dit laten draaien met de songtekst mee. Ik zou ook bepaalde woorden kunnen laten bewegen of wiggelen als ze gezegd worden of op hun beurt, want ik weet nog niet of ik het liedje wil laten afspelen of niet.
