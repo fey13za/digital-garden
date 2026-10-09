@@ -435,3 +435,8 @@ CHECK OUT:
 
 3. Hoeveel gekkigheid moet er in je werk zitten?
    Ik neem aan minimaal een beetje en dat er niet echt een maximum aan zit, zolang het niet te chaotisch wordt.
+
+### VRIJ 9-10
+
+Ik heb gister veel aan mijn CSS gewerkt en mijn HTML geupdate en dit is hoe de tussenstand van mijn vormgeving nu is:
+![Tussenstand songlyrics](readme-img/sorrowtussenstand.png)
