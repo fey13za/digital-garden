@@ -503,3 +503,7 @@ Ik ben hier aan begonnen maar het is nog niet helemaal gelukt.
 
 - Nog fluïde en responsive maken
   ik heb een media query toegevoegd voor de home-screen. Het ziet er met 3 kolommen op een telefoon nog goed uit, maar onder 300px worden het twee kolommen, omdat je anders horizontal scrolling krijgt.
+
+5 schetsen voor website-animatie ideas:
+![animatie-schets1](readme-img/animatieschets1.png)
+![animatie-schets-2](readme-img/animatieschets2.png)
