@@ -498,4 +498,7 @@ rotate: 90deg;
   Ik heb gespeelt met de weight en serif om zo (hopelijk) wat meer hiërarchie te krijgen in de songtekst en consent notice.
 
 - Nicky maakt schets ;) Ervoor zorgen dat je via een bloem-pagina makkelijker door kan klikken naar de andere bloempagina's, denk aan een navigatiebalk.
+
+Ik ben hier aan begonnen maar het is nog niet helemaal gelukt.
+
 - Nog fluïde en responsive maken

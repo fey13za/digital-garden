@@ -129,6 +129,10 @@ ol {
   display: var(--display);
   grid-template-columns: var(--grid-column);
   font-family: var(--font-family-2);
+
+  @media (width < 300px) {
+    grid-template-columns: auto auto;
+  }
 }
 
 ul {
@@ -141,6 +145,15 @@ li {
   &:hover {
     scale: 1.5;
   }
+}
+
+article {
+  display: grid;
+  grid-template-rows: auto auto;
+}
+
+article section {
+  grid-row: 2/3;
 }
 
 p {
