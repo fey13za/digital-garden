@@ -474,12 +474,12 @@ Ik ga vandaag mijn feedback verwerken van wat ik nog niet had gedaan, dit is hoe
 
 ✔️ Goed stap voor stap met cookies. Niet alle tekst “bam in your face”
 ✔️Animatie past bij het liedje
+✔️ In de consent notice de knoppen meer de ruimte geven zodat ze elkaar niet wegduwen.
+✔️Joelle vind het leuk dat het blaadje de cursor is
 
 - Is het met een Keyframe smoother? Geen glitch
 - In de main een article zetten
 - Met visual hidden - artiest + songname.
-  ✔️ In de consent notice de knoppen meer de ruimte geven zodat ze elkaar niet wegduwen.
-  ✔️Joelle vind het leuk dat het blaadje de cursor is
 - Misschien andere plaats de laatste zin zetten. “It’s in my milk”
 - Nicky maakt schets ;) Ervoor zorgen dat je via een bloem-pagina makkelijker door kan klikken naar de andere bloempagina's, denk aan een navigatiebalk.
 - Charley: je bent heel goed bezig. Misschien de Hiërarchie nog in de songtekst aanpassen? Misschien in de tekst nog onderscheid maken voor je consent notice.
