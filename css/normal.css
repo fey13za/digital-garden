@@ -337,6 +337,10 @@ button {
   }
 }
 
+footer button {
+  width: 300px;
+}
+
 button:focus {
   border: var(--border);
   border-radius: var(--border-radius);
