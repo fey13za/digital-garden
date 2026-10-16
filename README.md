@@ -424,7 +424,7 @@ padding-top: 86px;
 
 Ik heb ook geschetst en met Joëlle even gewisselt van liedje, omdat we allebei niet zo geïnspireerd waren. Dit heeft mij verder geholpen en ik ben op een idee gekomen na een paar varianten te schetsen.
 
---SCHETSEN NEERZETTEN--
+![schetsen songtekst](readme-img/songtekst.png)
 
 CHECK OUT:
 
@@ -476,10 +476,11 @@ Ik ga vandaag mijn feedback verwerken van wat ik nog niet had gedaan, dit is hoe
 ✔️Animatie past bij het liedje
 ✔️ In de consent notice de knoppen meer de ruimte geven zodat ze elkaar niet wegduwen.
 ✔️Joelle vind het leuk dat het blaadje de cursor is
+✔️ In de main een article zetten
 
 - Is het met een Keyframe smoother? Geen glitch
-- In de main een article zetten
 - Met visual hidden - artiest + songname.
+(<h2>Sorrow by The Nationals</h2>)
 - Misschien andere plaats de laatste zin zetten. “It’s in my milk”
 - Nicky maakt schets ;) Ervoor zorgen dat je via een bloem-pagina makkelijker door kan klikken naar de andere bloempagina's, denk aan een navigatiebalk.
 - Charley: je bent heel goed bezig. Misschien de Hiërarchie nog in de songtekst aanpassen? Misschien in de tekst nog onderscheid maken voor je consent notice.

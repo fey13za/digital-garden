@@ -137,6 +137,10 @@ ul {
 
 li {
   padding-bottom: 2em;
+  transition-duration: 0.5s;
+  &:hover {
+    scale: 1.5;
+  }
 }
 
 p {

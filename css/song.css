@@ -53,6 +53,10 @@ h1 {
   }
 }
 
+h2 {
+  visibility: hidden;
+  font-size: var(--step5);
+}
 span {
   text-shadow: var(--text-shadow);
   font-size: var(--step-2);
