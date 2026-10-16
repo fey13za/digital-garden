@@ -58,7 +58,7 @@ h1 {
   font-size: 4em;
   font-variation-settings:
     "wght" 200,
-    "SRFS" 2;
+    "SRFS" 40;
 }
 
 h2 {
@@ -80,7 +80,7 @@ p {
   writing-mode: sideways-lr;
   text-align: end;
   font-variation-settings:
-    "wght" 120,
+    "wght" 100,
     "SRFS" 2;
   display: grid;
   font-size: var(--step4);
@@ -99,6 +99,12 @@ main p:nth-of-type(3) {
   grid-column: 3/4;
 }
 
+footer {
+  grid-column: 1/-1;
+}
 footer p {
   writing-mode: horizontal-tb;
+  text-align: center;
+  grid-column: 1/-1;
+  grid-row: 4/5;
 }

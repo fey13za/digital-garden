@@ -479,9 +479,23 @@ Ik ga vandaag mijn feedback verwerken van wat ik nog niet had gedaan, dit is hoe
 ✔️ In de main een article zetten
 
 - Is het met een Keyframe smoother? Geen glitch
+  Ik heb dit vervangen met een animatie die de hele tekst 90 graden draait.
+
+@keyframes --rotate-text-animation {
+0% {
+rotate: 0deg;
+}
+100% {
+rotate: 90deg;
+}
+}
+
 - Met visual hidden - artiest + songname.
-(<h2>Sorrow by The Nationals</h2>)
+  (<h2>Sorrow by The Nationals</h2>)
 - Misschien andere plaats de laatste zin zetten. “It’s in my milk”
-- Nicky maakt schets ;) Ervoor zorgen dat je via een bloem-pagina makkelijker door kan klikken naar de andere bloempagina's, denk aan een navigatiebalk.
+  Ik heb dit nu onderaan gezet ipv op het rijtje. Het geeft nu een beter 'einde' aan.
 - Charley: je bent heel goed bezig. Misschien de Hiërarchie nog in de songtekst aanpassen? Misschien in de tekst nog onderscheid maken voor je consent notice.
+  Ik heb gespeelt met de weight en serif om zo (hopelijk) wat meer hiërarchie te krijgen in de songtekst en consent notice.
+
+- Nicky maakt schets ;) Ervoor zorgen dat je via een bloem-pagina makkelijker door kan klikken naar de andere bloempagina's, denk aan een navigatiebalk.
 - Nog fluïde en responsive maken
