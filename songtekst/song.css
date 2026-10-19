@@ -42,6 +42,7 @@ body {
   &:hover {
     animation-name: --rotate-text-animation;
     animation-duration: 1s;
+    animation-fill-mode: forwards;
   }
 }
 
