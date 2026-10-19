@@ -68,7 +68,6 @@ h2 {
 span {
   text-shadow: var(--text-shadow);
   font-size: var(--step-2);
-  grid-row: 2/2;
   font-variation-settings:
     "wght" 125,
     "SRFS" 12;
@@ -105,6 +104,4 @@ footer {
 footer p {
   writing-mode: horizontal-tb;
   text-align: center;
-  grid-column: 1/-1;
-  grid-row: 4/5;
 }
