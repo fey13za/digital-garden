@@ -374,6 +374,9 @@ Ik heb hier en daar wat kleine aanpassingen gemaakt, zoals het zorgen dat mijn c
 
 Ik denk dat mijn website klaar is om in te leveren!
 
+RETROSPECTIVE VRIJDAG:
+![retrospective2](readme-img/retrospective2.jpeg)
+
 ### MA 5-10
 
 Leg uit wat er met de volgende termen bedoeld wordt: kerning,
