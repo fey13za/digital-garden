@@ -510,3 +510,19 @@ Ik ben hier aan begonnen maar het is nog niet helemaal gelukt.
 5 schetsen voor website-animatie ideas:
 ![animatie-schets1](readme-img/animatieschets1.png)
 ![animatie-schets-2](readme-img/animatieschets2.png)
+
+### 19-10 MA
+
+We hebben vandaag de webbiness van onze websites beoordeeld adhv een formulier en vervolgens dit bekeken met zn tweeën.
+
+### 21-10 WO
+
+We hebben vandaag de laatste bi-weekly geek!
+![last bi-weekly geek](readme-img/lastbiweeklygeek.jpeg)
+
+We gingen door naar de trio-feedback ronde. Ik vond dit leuk om te doen, omdat je wat meer websites van anderen ziet en echt doorklikt. Ik kreeg goede feedback:
+
+![frontfeedbackform](frontfeedbackform.png)
+![backfeedbackform](backfeedbackform.png)
+
+ik dacht dat het probleem met het vastlopen aan de "method= dialog" regel lag, maar dit weghalen bleek het niet te verhelpen helaas.

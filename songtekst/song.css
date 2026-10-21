@@ -17,8 +17,8 @@ html {
   --step5: 0.482em;
   /*MARK: other properties */
   --background-color: #222222;
-  --text-color: oldlace;
-  --text-shadow: 10px 10px 10px black;
+  --text-color: rgb(173, 169, 181);
+  --text-shadow: 10px 10px 10px rgb(29, 26, 35);
 }
 
 @keyframes --rotate-text-animation {
@@ -29,6 +29,7 @@ html {
     rotate: 90deg;
   }
 }
+
 /* MARK: items */
 body {
   font-family: "Seraphs";
@@ -60,6 +61,7 @@ h1 {
   font-variation-settings:
     "wght" 200,
     "SRFS" 40;
+  text-decoration: overline;
 }
 
 h2 {
