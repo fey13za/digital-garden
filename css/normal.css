@@ -67,7 +67,35 @@ html {
   cursor: url(../img/cursor.png), crosshair;
 }
 
+/* MARK: keyframes */
+
+@keyframes --rotate-leaf {
+  0% {
+    rotate: 0deg;
+  }
+  50% {
+    rotate: 150deg;
+  }
+  100% {
+    rotate: 0deg;
+  }
+}
+
+@keyframes --falling-leaf {
+  0% {
+  }
+  50% {
+  }
+  100% {
+  }
+}
 /* MARK: general styling*/
+
+img {
+  animation-name: --rotate-leaf;
+  animation-duration: 3s;
+  animation-iteration-count: infinite;
+}
 
 body {
   max-width: 40em;

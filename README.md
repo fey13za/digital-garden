@@ -526,3 +526,6 @@ We gingen door naar de trio-feedback ronde. Ik vond dit leuk om te doen, omdat j
 ![backfeedbackform](backfeedbackform.png)
 
 ik dacht dat het probleem met het vastlopen aan de "method= dialog" regel lag, maar dit weghalen bleek het niet te verhelpen helaas.
+
+Ik heb dit met Justus besproken en ik mag het voor nu laten. Wel weet ik 99% zeker dat het ligt aan de cookie pop-up die opnieuw opent en ervoor zorgt dat je niet mag scrollen.
+Ik wil nu werken aan een animatie in mijn website die blaadjes laat vallen.

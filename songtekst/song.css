@@ -21,6 +21,8 @@ html {
   --text-shadow: 10px 10px 10px rgb(29, 26, 35);
 }
 
+/* MARK: KEYFRAMES */
+
 @keyframes --rotate-text-animation {
   0% {
     rotate: 0deg;
