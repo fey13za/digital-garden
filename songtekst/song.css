@@ -32,6 +32,23 @@ html {
   }
 }
 
+@keyframes --vibratingtext {
+  0% {
+    translate: 0em;
+  }
+  100% {
+    translate: 0.01em;
+  }
+}
+
+@keyframes --vibratingparagraph {
+  0% {
+    translate: 0em;
+  }
+  100% {
+    translate: 0.03em;
+  }
+}
 /* MARK: items */
 body {
   font-family: "Seraphs";
@@ -64,6 +81,11 @@ h1 {
     "wght" 200,
     "SRFS" 40;
   text-decoration: overline;
+  @media (prefers-reduced-motion: no-preference) {
+    animation-name: --vibratingtext;
+    animation-duration: 0.15s;
+    animation-iteration-count: infinite;
+  }
 }
 
 h2 {
@@ -109,4 +131,9 @@ footer {
 footer p {
   writing-mode: horizontal-tb;
   text-align: center;
+  @media (prefers-reduced-motion: no-preference) {
+    animation-name: --vibratingparagraph;
+    animation-duration: 0.15s;
+    animation-iteration-count: infinite;
+  }
 }
