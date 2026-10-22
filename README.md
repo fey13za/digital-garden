@@ -533,3 +533,5 @@ Ik wil nu werken aan een animatie in mijn website die blaadjes laat vallen.
 Ik heb ook besloten om één van mijn animatie ideeën voor mijn website uit te voeren, of tenminste dit te proberen. Ik begon met het plaatje van mijn cursor en wilde een soort vallend blaadje effect creëeren. Ik had een keyframe gemaakt met rotate en dit gekoppeld aan de image die in mijn HTML zat. De rest leek een grote taak die ik niet zelf kon uitvogelen, dus vroeg ik een assistente om hulp. (Met veel dank naar deze helden) Ik had online een voorbeeld gevonden (https://1stwebdesigner.com/14-css-animations-for-fall/) waar we naar de code hadden gekeken en het stukje translate hadden overgenomen. Vervolgens heb ik heel veel images aangemaakt en heel veel keyframes gekoppeld en kleine veranderingen gemaakt om het gewenste effect te krijgen. Ik denk dat dit misschien makkelijker had gekunt, but if it's not broken don't fix it;>
 
 ![falling leaves effect](readme-img/homepageleaf.png)
+
+nu nog een prefers reduced motion overal aan koppelen.

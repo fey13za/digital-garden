@@ -215,111 +215,135 @@ html {
 
 /* MARK: LEAFSTYLE */
 img {
-  display: block;
-  position: absolute;
-  top: 0;
-  animation-name: --falling;
-  animation-duration: 11s;
-  animation-iteration-count: infinite;
+  @media (prefers-reduced-motion: no-preference) {
+    display: block;
+    position: absolute;
+    top: 0;
+    animation-name: --falling;
+    animation-duration: 11s;
+    animation-iteration-count: infinite;
+  }
 }
 
 img:nth-of-type(2) {
-  display: block;
-  position: absolute;
-  animation-delay: 1s;
-  top: 0;
-  animation-name: --falling2;
-  animation-duration: 10s;
-  animation-iteration-count: infinite;
+  @media (prefers-reduced-motion: no-preference) {
+    display: block;
+    position: absolute;
+    animation-delay: 1s;
+    top: 0;
+    animation-name: --falling2;
+    animation-duration: 10s;
+    animation-iteration-count: infinite;
+  }
 }
 
 img:nth-of-type(3) {
-  display: block;
-  position: absolute;
-  top: 0;
-  animation-name: --falling3;
-  animation-duration: 12s;
-  animation-iteration-count: infinite;
+  @media (prefers-reduced-motion: no-preference) {
+    display: block;
+    position: absolute;
+    top: 0;
+    animation-name: --falling3;
+    animation-duration: 12s;
+    animation-iteration-count: infinite;
+  }
 }
 
 img:nth-of-type(4) {
-  display: block;
-  position: absolute;
-  top: 0;
-  animation-name: --falling4;
-  animation-delay: 2s;
-  animation-duration: 10s;
-  animation-iteration-count: infinite;
+  @media (prefers-reduced-motion: no-preference) {
+    display: block;
+    position: absolute;
+    top: 0;
+    animation-name: --falling4;
+    animation-delay: 2s;
+    animation-duration: 10s;
+    animation-iteration-count: infinite;
+  }
 }
 img:nth-of-type(5) {
-  display: block;
-  position: absolute;
-  top: 0;
-  animation-name: --falling5;
-  animation-delay: 1.5s;
-  animation-duration: 8s;
-  animation-iteration-count: infinite;
+  @media (prefers-reduced-motion: no-preference) {
+    display: block;
+    position: absolute;
+    top: 0;
+    animation-name: --falling5;
+    animation-delay: 1.5s;
+    animation-duration: 8s;
+    animation-iteration-count: infinite;
+  }
 }
 img:nth-of-type(6) {
-  display: block;
-  position: absolute;
-  top: 0;
-  animation-name: --falling6;
-  animation-delay: 1.3s;
-  animation-duration: 9.5s;
-  animation-iteration-count: infinite;
+  @media (prefers-reduced-motion: no-preference) {
+    display: block;
+    position: absolute;
+    top: 0;
+    animation-name: --falling6;
+    animation-delay: 1.3s;
+    animation-duration: 9.5s;
+    animation-iteration-count: infinite;
+  }
 }
 img:nth-of-type(7) {
-  display: block;
-  position: absolute;
-  top: 0;
-  animation-name: --falling7;
-  animation-delay: 2.25s;
-  animation-duration: 10s;
-  animation-iteration-count: infinite;
+  @media (prefers-reduced-motion: no-preference) {
+    display: block;
+    position: absolute;
+    top: 0;
+    animation-name: --falling7;
+    animation-delay: 2.25s;
+    animation-duration: 10s;
+    animation-iteration-count: infinite;
+  }
 }
 img:nth-of-type(8) {
-  display: block;
-  position: absolute;
-  top: 0;
-  animation-name: --falling8;
-  animation-duration: 8s;
-  animation-iteration-count: infinite;
+  @media (prefers-reduced-motion: no-preference) {
+    display: block;
+    position: absolute;
+    top: 0;
+    animation-name: --falling8;
+    animation-duration: 8s;
+    animation-iteration-count: infinite;
+  }
 }
 img:nth-of-type(9) {
-  display: block;
-  position: absolute;
-  top: 0;
-  animation-name: --falling9;
-  animation-delay: 1.25s;
-  animation-duration: 9.5s;
-  animation-iteration-count: infinite;
+  @media (prefers-reduced-motion: no-preference) {
+    display: block;
+    position: absolute;
+    top: 0;
+    animation-name: --falling9;
+    animation-delay: 1.25s;
+    animation-duration: 9.5s;
+    animation-iteration-count: infinite;
+  }
 }
 img:nth-of-type(10) {
-  display: block;
-  position: absolute;
-  top: 0;
-  animation-name: --falling10;
-  animation-delay: 3s;
-  animation-duration: 10s;
-  animation-iteration-count: infinite;
+  @media (prefers-reduced-motion: no-preference) {
+    display: block;
+    position: absolute;
+    top: 0;
+    animation-name: --falling10;
+    animation-delay: 3s;
+    animation-duration: 10s;
+    animation-iteration-count: infinite;
+  }
 }
 img:nth-of-type(11) {
-  display: block;
-  position: absolute;
-  top: 0;
-  animation-name: --falling11;
-  animation-duration: 10s;
-  animation-iteration-count: infinite;
+  @media (prefers-reduced-motion: no-preference) {
+    display: block;
+    position: absolute;
+    top: 0;
+    animation-name: --falling11;
+    animation-duration: 10s;
+    animation-iteration-count: infinite;
+  }
 }
 img:nth-of-type(12) {
-  display: block;
-  position: absolute;
-  top: 0;
-  animation-name: --falling12;
-  animation-delay: 1.5s;
-  animation-duration: 8s;
-  animation-iteration-count: infinite;
+  @media (prefers-reduced-motion: no-preference) {
+    display: block;
+    position: absolute;
+    top: 0;
+    animation-name: --falling12;
+    animation-delay: 1.5s;
+    animation-duration: 8s;
+    animation-iteration-count: infinite;
+  }
 }
 
 /* MARK: general styling*/
