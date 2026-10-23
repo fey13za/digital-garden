@@ -265,7 +265,7 @@ img:nth-of-type(5) {
     position: absolute;
     top: 0;
     animation-name: --falling5;
-    animation-delay: 1.5s;
+    animation-delay: 1.35s;
     animation-duration: 8s;
     animation-iteration-count: infinite;
   }
@@ -276,7 +276,7 @@ img:nth-of-type(6) {
     position: absolute;
     top: 0;
     animation-name: --falling6;
-    animation-delay: 1.3s;
+    animation-delay: 1.4s;
     animation-duration: 9.5s;
     animation-iteration-count: infinite;
   }
