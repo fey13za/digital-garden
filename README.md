@@ -535,3 +535,11 @@ Ik heb ook besloten om één van mijn animatie ideeën voor mijn website uit te 
 ![falling leaves effect](readme-img/homepageleaf.png)
 
 nu nog een prefers reduced motion overal aan koppelen.
+
+### 24-10 VRIJDAG
+
+Vandaag heb ik mijn laatste retrospect getekent. Ik koos voor een cupcake mania thema, omdat ik elke sprint me iets beter voelde. De eerste cupcake is mislukt, omdat ik me zo voelde en niet erg op gang kwam met de website. De tweede werd al wat beter, maar de derde was een cupcake om trots op te zijn. In sprint 3 werd ik eigenlijk alleen maar trotser op mijn website en ben ik blij met wat ik voor elkaar had gekregen. Mijn feedback was om nog te kijken naar de toegsnkelijkheid en als optioneel iets om te kijken of ik een navigatie bar nog voor elkaar krijg.
+
+![cupcake mania tekening](readme-img/cupcakemania.jpeg)
+
+Ik had wel geprobeerd een navigatie bar te maken, maar dat was me nog niet helemaal gelukt. Het veranderde de structuur van mijn website heel erg en het lukte me niet om het op de goede plek te krijgen. Misschien dat dit in de toekomst wel nog lukt.
