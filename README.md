@@ -513,7 +513,7 @@ Ik ben hier aan begonnen maar het is nog niet helemaal gelukt.
 
 ### 19-10 MA
 
-We hebben vandaag de webbiness van onze websites beoordeeld adhv een formulier en vervolgens dit bekeken met zn tweeën.
+We hebben vandaag de webbiness van onze websites beoordeeld adhv een formulier en vervolgens dit bekeken met zn tweeën. De toegankelijkheid van mijn website blijft moeilijk te testen, omdat ik de lijstjes niet kan openen. Wel werkt het toetsenbord gewoon en leest de screenreader alles. De foto hiervan is helaas verloren gegaan samen met een paar andere (ik weet helaas niet hoe of waarom) maar ik en mijn feedback-maatje waren het mee eens dat mijn website aan de meeste voorwaarden voldeed.
 
 ### 21-10 WO
 
