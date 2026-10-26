@@ -23,3 +23,5 @@ function Accept() {
   body.classList.add("acceptedCookie");
   body.classList.remove("essentialCookie");
 }
+
+/* geschreven met behulp van Justus */
