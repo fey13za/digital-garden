@@ -605,3 +605,14 @@ INFO BLOEMEN:
 8. https://flowerslib.com/nl/bloementaal/ Een soort woordenboek voor bloemen
 9. https://zodiacstock.com/zodiac/zodiac-flower-chart nog een mooi overzicht, twee per maand
 10. https://www.homefortheharvest.com/lily-of-the-valley/ Tot slot - mijn geboorte bloem
+
+AI-gebruik:
+0%.
+Ik ben erg serieus over het effect van AI, zoals chatgpt en gemini op het brein en het milieu. Het verslechterd het vermogen om kritisch te denken en keuzes te maken. De hoeveelheid water die er gebruikt wordt om de gigantische data-centers af te koelen zorgt voor ernstige droogtes voor de omgeving. Het zorgt voor ondrinkbaar water en lage waterdruk in huizen. Ook zijn deze data-centers van grote bedrijven in Amerika en profiteren de rijken er alleen maar van. Op dit moment zijn er ongeveer 45 grote datacenters in Nederland, met het stroomverbruik van 1,9 miljoen huishoudens bij elkaar.
+
+Dit zijn de grootste zaken op dit moment, maar er zit nog veel meer achter wat niet wordt gepusht op het nieuws, omdat het de vooruitgang van AI niet zou bevorderen.
+
+Ik vind ook dat er tijdes de les te weinig wordt gesproken over dit soort gevolgen van AI en dat het gebruik hiervan indirect toch wordt aangemoedigd. Ik heb docenten leerlingen horen aansporen om vragen aan chatGPT te stellen, terwijl dit juist afgeraden hoort te worden, onder andere.
+Ik vind dit persoonlijk erg jammer.
+
+Om deze redenen o.a. is mijn website volledig vrij van AI gebruik.
