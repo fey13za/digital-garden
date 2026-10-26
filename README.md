@@ -1,7 +1,3 @@
-# Model
-
-Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door studenten worden gemaakt.
-
 ## Learning Log
 
 ### 31 AUG - START
@@ -33,7 +29,7 @@ Bij de HTML en CSS basics werd herhaald hoe het allemaal ook alweer werkt en ook
 
 Bij praktische CSS gingen we zelf een lelijke website transformeren tot een duidelijke mooie website en was het een herhaling bij formatting. We hadden wel het één en ander gedaan dat ik niet helemaal snapte.
 
-### Sprint 1
+## Sprint 1
 
 ### MA 7-09:
 
@@ -54,11 +50,19 @@ Ik heb ook zelfstandig websites geanalyseerd en gerangschikt a.d.h.v het formuli
 Ik heb een collage gemaakt van inspirerende afbeeldingen:
 ![collage bloemen](readme-img/Collage%20presentatie.png)
 
-En links verzameld van nuttige bronnen over mijn onderwerp: 1.https://weeklyflower.nl/bloemenbibliotheek/geboortebloem-maand/ ->Dit geeft een handig overzicht over
-bij welke maand welke bloem hoort. 2.https://www.fiestajewellery.nl/blogs/blog/waarom-heeft-elke-maand-een-eigen-geboortebloem -> Hier werd het victoriaanse tijdperk benoemd, waardoor ik door ben gaan zoeken naar bronnen hierover. 3.https://vertaalbureau-scandic.nl/victoriaanse-taal-van-bloemen-wat-betekenen-ze/ Dit artikel gaat echt in op de taal van de bloemen (niet alleen die uit de maanden) inclusief wat verschillende kleuren betekenen, vanuit het vctoriaanse tijdperk. 4.https://floriografie.nl/category/geboortebloemen/ Dit artikel geeft echt een uitleg over waarom
-deze bloem word gekoppeld aan deze maand. 5.https://anilens.com/product/houten-schijf-met-geboortebloemen-26cm/ Visuele representatie van twee bloemen per maand 6.https://nl.wiktionary.org/wiki/bloementaal dit is een leuk stukje over de betekenis van het woord 7.https://nl.jardineriaon.com/floriografie.html Dit gaat dieper in op de geschiedenis en andere aspecten 8.https://flowerslib.com/nl/bloementaal/ Een soort woordenboek voor bloemen 9.https://zodiacstock.com/zodiac/zodiac-flower-chart nog een mooi overzicht, twee per maand 10.https://www.homefortheharvest.com/lily-of-the-valley/ Tot slot - mijn geboorte bloem
+1. https://weeklyflower.nl/bloemenbibliotheek/geboortebloem-maand/ ->Dit geeft een handig overzicht over bij welke maand welke bloem hoort.
+2. https://www.fiestajewellery.nl/blogs/blog/waarom-heeft-elke-maand-een-eigen-geboortebloem -> Hier werd het victoriaanse tijdperk benoemd, waardoor ik door ben gaan zoeken naar bronnen hierover.
+3. https://vertaalbureau-scandic.nl/victoriaanse-taal-van-bloemen-wat-betekenen-ze/ Dit artikel gaat echt in op de taal van de bloemen (niet alleen die uit de maanden) inclusief wat verschillende kleuren betekenen, vanuit het vctoriaanse tijdperk.
+4. https://floriografie.nl/category/geboortebloemen/ Dit artikel geeft echt een uitleg over waarom
+   deze bloem word gekoppeld aan deze maand.
+5. https://anilens.com/product/houten-schijf-met-geboortebloemen-26cm/ Visuele representatie van twee bloemen per maand
+6. https://nl.wiktionary.org/wiki/bloementaal dit is een leuk stukje over de betekenis van het woord
+7. https://nl.jardineriaon.com/floriografie.html Dit gaat dieper in op de geschiedenis en andere aspecten
+8. https://flowerslib.com/nl/bloementaal/ Een soort woordenboek voor bloemen
+9. https://zodiacstock.com/zodiac/zodiac-flower-chart nog een mooi overzicht, twee per maand
+10. https://www.homefortheharvest.com/lily-of-the-valley/ Tot slot - mijn geboorte bloem
 
-### CHECK OUT - MAANDAG 07-09
+#### CHECK OUT
 
 1.Wat is het verschil tussen een digitaal tuintje en anders dan reguliere websites?
 Voor mij zit het verschil erin dat het digitaal tuintje nooit echt 'af' gaat zijn zoals vaak wel het doel is bij een reguliere website (Website ontwerpen, alles werkt, en klaar) jij blijft leren en daarmee toevoegen aan je digitaal tuintje die zo steeds verder kan groeien. Het is ook iets persoonlijker, wat meer naar jezelf gericht dan het publiek.
@@ -81,14 +85,17 @@ De tweede van linksboven spreekt mij het meeste aan.
 
 De Visual Research bestaat uit drie stappen. De eerste stap is terug kijken naar je afbeeldingen en één of meerdere sfeerwoorden formuleren, hierbij kan je afbeeldingen zoeken en vanuit die afbeeldingen wat abstractere vormen(wij deden dus typografische posters) Dit helpt je met het vormen van een idee voor de sfeer van jouw website en wat je kan benutten om jouw informatie op deze manier vorm te geven.
 
+#### CHECK OUT
+
 Mijn garden gaat over geboorte-bloemen, de eigenschappen hiervan en de bloementaal. Ik wil ook een stukje bewaren voor bloemenboeketten met betekenis. Omdat de informatie snel erg tekstueel kan worden wil ik slim gebruik maken van beeld en geluid.
 
-In mijn crazy 8 had ik een idee gebaseerd op gedroogde boeketten aan een muur als decoratie. Ik heb dit een paar keer voorbij zien komen op social media en het lijkt me cool om hier wat mee te doen en ook een goede vorm voor mijn onderwerp!]
+In mijn crazy 8 had ik een idee gebaseerd op gedroogde boeketten aan een muur als decoratie. Ik heb dit een paar keer voorbij zien komen op social media en het lijkt me cool om hier wat mee te doen en ook een goede vorm voor mijn onderwerp!
 
 ### VRIJDAG 11-09
 
 Voor vandaag heb ik vanuit mijn crazy 8 wat mobile-first schermen geschetst. Ik nam voornamelijk de tweede van linksboven als uitgangspunt.
 ![mobilefirstschets](readme-img/mobilefirst.png)
+
 Van deze vijf schetsen waren deze twee mijn uitgangspunten die het beste bij mijn idee pasten.
 Ik had ook een voortgangsgesprek, waarin mijn ideeën waren goedgekeurd en ik aan de slag kon met het bepalen van mijn content en een begin kon maken aan mijn HTML-structuur. Het advies van de student-assistent was het gebruik maken van een list voor de maanden.
 
@@ -117,13 +124,13 @@ Ik heb ervoor gekozen de maanden in een lijst te zetten en de hoofdpagina simpel
       </nav>
 En ik heb een goed begin gemaakt aan mijn CSS door een light en dark theme in te stellen en de lijst in een grid te zetten, zodat ik het kon manipuleren hoe ik wilde.
 
-CHECK OUT
+#### CHECK OUT
 
 Leg uit wanneer een website 'lelijk' wordt: Als je geen CSS hebt gebruikt, dus bijvoorbeeld geen fonts, plaatjes die te groot zijn of een lay-out die niet in je scherm past of niet responsive is.
 
 Vertel welke volgende stap je neemt om je website responsive te maken: Ik ben nu bezig met mijn light/dark theme uit te werken met de toggles en ik werk nog aan mijn gelinkte pagina's.
 
-Kun je het ontwerp en de bouw van je eigen Garden (zo uit je hoofd) onderbouwen in Webby vocabulair?: Julius zegt van niet. Ik weet wel de termen fluïde en toegankelijkheid, maar ik weet niet al het vocabulair uit mijn hoofd. Ik heb wel al een beetje gewerkt aan de focus states van mijn links, waardoor die toegankelijker zijn.]
+Kun je het ontwerp en de bouw van je eigen Garden (zo uit je hoofd) onderbouwen in Webby vocabulair?: Julius zegt van niet. Ik weet wel de termen fluïde en toegankelijkheid, maar ik weet niet al het vocabulair uit mijn hoofd. Ik heb wel al een beetje gewerkt aan de focus states van mijn links, waardoor die toegankelijker zijn.
 
 ### WO 16-09
 
@@ -136,6 +143,8 @@ background-repeat: var(--background-repeat);
 list-style: var(--list-style);
 padding-inline-start: var(--padding-inline-start);
 }
+
+#### CHECK OUT
 
 3 gestalt principes: nabijheid, elementen die dicht bij elkaar staan en daardoor zichzelf vormen.
 Hiërarchie: Elementen een bepaalde grote of uiterlijk geven, waardoor je aandacht door een pagina heen wordt geleidt en verschillende dingen zich op zijn beurt jouw aandacht trekken.
@@ -151,8 +160,10 @@ Ik heb op donderdag een aantal afwerkingen gemaakt aan mijn website en ervoor ge
 
 Tijdens de les hebben we gewerkt aan een retrospective, waarin we een metafoor hebben bedacht voor de sprint. Ik heb een drankje voor doorzetters (en de oververmoeide) bedacht:
 ![Drankje voor doorzetters](readme-img/retrospective.png)
+Dit representeerd hoe ik deze sprint heb 'overleefd' ondanks dat ik last had van mijn auto-immuun ziekte. Ik was erg moe, ondanks de grote hoeveelheid slaap, maar ik gebruikte de middelen die ik had (koffie, kauwgom etc) om enigsinds alert te blijven en mijn doorzettingsvermogen om vol te houden.
 
-CHECK OUT
+#### CHECK OUT
+
 ORIËNTEREN & BEGRIJPEN:
 
 1. Waarom geven de docenten deze opdracht?
@@ -201,7 +212,8 @@ EVALUEREN
 
 6. Doe je nog wat je moet doen? Over het algemeen wel, alleen verlies ik de learning log wat vaker uit het zicht. Ik ben nooit zo van het bijhouden van een logboek, dus ik heb daar best wat moeite mee.
 
-Randvoorwaarden
+##### Randvoorwaarden
+
 -HTML VALIDATIE
 Als ik zo kijk ziet mijn HTML er correct en duidelijk uit. Het zou misschien slim zijn of af en toe een docent er bij te halen en te kijken of zij nog een foutje of een verbetering kunnen spotten, omdat ik er natuurlijk nog van een beginners standpoint naar kijk.
 
@@ -217,17 +229,21 @@ Ik heb alleen handgetekende afbeeldingen gebruikt en goed gelet op de bronnen di
 ZIE IK MEZELF TERUG?
 Ik heb tot nu toe veel plezier gehad in het leren en maken van deze website, vooral met het tekenen sluit dit goed bij mij en mijn persoonlijkheid aan.
 
-### Sprint 2
+## Sprint 2
 
 ### MA - 21-09
 
-We hebben deze les een recap gekregen van de deepdives over coderen en dit gevolgd.
+We hebben deze les een recap gekregen van de deepdives over coderen en dit gevolgt.
+
+We hebben gekeken naar hoe duidelijk (of onduidelijk) cookie pop-ups zijn. Zijn ze misleidend gemaakt of gebruiken ze moeilijk taalgebruik? Zijn ze wel goed transparant over de gegevens en welke er verzameld worden? Hier moeten wij rekening mee houden bij onze eigen cookie pop-up.
+
+![cookies analyse](readme-img/cookiesanalyse.png)
+
+#### CHECK OUT
 
 1. Wat zijn HTML landmark role elements? Het geeft de rol van een element aan in een HTML bestand.
 2. Wat zijn heading elementen en hoe horen ze genest te worden? Heading elementen zijn hoofd elementen, nesten gaat op deze manier, bijvoorbeeld: <li><a etcetc></a></li>
 3. Hoe ga jij met cookies om? Ik probeer zo min mogelijk cookies te accepteren en websites te vermijden die me proberen te dwingen cookies te accepteren. Na het onderzoek tjdens de les ga ik hier zelfs nog wat beter op letten.
-
-![cookies analyse](readme-img/cookiesanalyse.png)
 
 ### WOENSDAG 23-09
 
@@ -237,7 +253,7 @@ We hebben het tijdens een lezing over privacy gehad. Ik heb hierna een website g
 ![notes cookies](readme-img/cookiesnotes.png)
 ![pop-up sketch](readme-img/sketchcookiepopup.png)
 
-CHECK OUT WO
+#### CHECK OUT WO
 
 Wat is een wireflow en wat heb je er aan?
 Een wireflow laat zien hoe je een website kan navigeren, het gaat dus elk scherm langs dat je ziet als je een knop of actie uitvoert.
@@ -260,9 +276,9 @@ We hadden vandaag voortgangsgesprekken waar ik het volgende feedback uit heb geh
 
 Ik ben begonnen met punt 3, dit ziet er als volgt uit:
 ![flowtekening human consent form](/readme-img/flowconsentform.png)
-Ik weet nog niet hoe ik dit ga realiseren, maar ik weet nu waar ik moet beginnen. Ik heb ook met de student-assistente gewerkt aan mijn custom-cursor. Hij raadde aan om verschillende states te tekenen hiervoor (dus ook nog on-click, etc.)
+Ik weet nog niet hoe ik dit ga realiseren, maar ik weet nu waar ik moet beginnen. Ik heb ook met de student-assistent gewerkt aan mijn custom-cursor. Hij raadde aan om verschillende states te tekenen hiervoor (dus ook nog on-click, etc.)
 
-CHECK OUT
+#### CHECK OUT
 
 - Wat is HTML-validatie?
   Een controle dat je code netjes is en geen errors geeft. Dat alles klopt en logisch is.
@@ -337,7 +353,7 @@ Ik heb een aantal verbeterpunten gevonden:
    ![colorcontrast light/purple headingstest](readme-img/contrastlightpurple.png)
 5. Dit kwam niet uit de WCAG test, maar mijn cookie pop-up is moeilijk te lezen en heeft nog styling nodig en een duidelijkere tekst.
 
-   CHECK OUT
+#### CHECK OUT
 
 Waar staat WCAG en A11y voor?
 Web Content Accessibility Guidlines en Ally staat voor accessibility en de 11 ipv de letter ll tussen de a en de y.
@@ -364,6 +380,7 @@ Ik heb het contrast in mijn website wat sterker gemaakt in de H1's, door de lich
 
 Ook heb ik mijn cookie-pop up beter gestyled en leesbaar gemaakt:
 ![Stylised cookie pop-up](readme-img/cookiepopup.png)
+Je ziet misschien dat er geen icoontje is in het hoekje en dat er twee schermen zijn ipv precies wat ik had geschetst. Ik snapte de Javascript van Justus niet helemaal en samen met zijn codes en de deep dives (en een beetje hulp van mijn zus, die technisch gelukkig erg goed is) begon ik het zelf te schrijven. Ik heb ook een gedeelte van Justus gekregen. Er is onder aan de pagina een knop om terug te gaan naar de pop-up en het zijn twee schermen geworden, zodat het niet te dwingerig voelt, maar dat je de illusie van een keuze krijgt om de pop-up te lezen. Het is namelijk wel belangrijk dat deze gelezen wordt.
 
 Ik had in de les mijn HTML gevalideert met een student-assistent, maar ik was dit vergeten op te slaan. Er kwam daar een error uit. Ik heb nu mijn HTML nog een keer gevalideert en er kwamen gelukkig geen errors uit!
 ![HTMLvalidatie](readme-img/HTMLvalidatie.png)
@@ -376,8 +393,15 @@ Ik denk dat mijn website klaar is om in te leveren!
 
 RETROSPECTIVE VRIJDAG:
 ![retrospective2](readme-img/retrospective2.jpeg)
+Ik heb dit metafoor bedacht, omdat ik eigenlijk meteen aan rupsje nooit genoeg moest denken en hier een leuke woordspeling van kon maken. Namelijk rupjse WEL genoeg, omdat ik er na deze sprint wel even genoeg van had. Ik heb hier elke lesdag een stukje eten aaangekoppeld, tot aan het inlever-moment.
+
+## Sprint 3
 
 ### MA 5-10
+
+We moesten vandaag een liedje uitkiezen voor onze typografische vormgeving. Ik vond dit moeilijk, omdat ik me niet echt geïnspireerd voelde door deze liedjes en ze me niet echt aansproken. Ik wilde echter geen eigen liedje kiezen, omdat ik hier niet een heel sterk argument voor kon bedenken behalve dat de andere liedjes me niet aansproken. Dus ik heb gekozen voor 'sorrow' degene waar ik me toch een beetje bij kon aansluiten (toen ik écht moest kiezen).
+
+#### CHECK OUT
 
 Leg uit wat er met de volgende termen bedoeld wordt: kerning,
 tracking,
@@ -426,10 +450,11 @@ padding-top: 86px;
 }
 
 Ik heb ook geschetst en met Joëlle even gewisselt van liedje, omdat we allebei niet zo geïnspireerd waren. Dit heeft mij verder geholpen en ik ben op een idee gekomen na een paar varianten te schetsen.
-
+![schetsen songtekst1](readme-img/songtekstschets.png)
 ![schetsen songtekst](readme-img/songtekst.png)
+Ik had verschillende uitgangspunten, maar met de laatste ging ik losjes aan de slag. Ik hou me niet erg streng aan de schets, omdat het beter tot uiting komt in mijn hoofd.
 
-CHECK OUT:
+#### CHECK OUT:
 
 1. Waarom is het goed om een grid in je ontwerp toe te passen? Noem een reden voor de ontwerper en een voor de bezoeker.
    Een grid geeft voor een ontwerper eigenlijk een structuur waarmee je kan spelen en maakt het maken van een goede lay-out makkelijker. Voor een bezoeker blijft de website zo vaak overzichtelijker en fijner om te navigeren.
@@ -460,7 +485,7 @@ Feedback:
 - Charley: je bent heel goed bezig. Misschien de Hiërarchie nog in de songtekst aanpassen? Misschien in de tekst nog onderscheid maken voor je concent note.
 - Nog fluïde en responsive maken
 
--- CHECK OUT --
+#### CHECK OUT
 
 1. Welke variabelen van Seraphs gebruik je in de opmaak van je songtekst?
    Ik heb een mix van serif en sans-serif gebruikt en verschillende weights
@@ -557,14 +582,16 @@ Hieruit kwam dat mijn website veel wel had en dat er hier en daar wat puntjes wa
 Ik heb er verder voor gekozen geen gradiënts te gebruiken, omdat ik dit niet nodig vond voor mijn website. Ik wilde een sierlijk uiterlijk en een gradiënt maakt het toch te druk in mijn ogen.
 
 ![Learning log feedback](readme-img/learninglogform.png)
-Ik heb hier het meeste aan gehad, het deed me realiseren dat ik mijn learning log nog wat zou kunnen verbeteren. Het lukt mij niet om alle afbeeldingen nog om te draaien, omdat sommigen alleen nog hier staat. Ik wil nog een inhoudsopgave toevoegen en hier en daar wat context geven aan schetsen.
+Ik heb hier het meeste aan gehad, het deed me realiseren dat ik mijn learning log nog wat zou kunnen verbeteren. Het lukt mij niet om alle afbeeldingen nog om te draaien, omdat sommigen alleen nog hier staat. Ik zag ook dat bij sommige schetsen geen context bij stond, dus ik ga hier en daar nog wat aanvullen.
 
 ### BRONNEN
 
 CODE:
 https://developer.mozilla.org/en-US/
 https://www.w3schools.com/Css/
+https://1stwebdesigner.com/14-css-animations-for-fall/
 Deep dives - HVA
+
 INFO BLOEMEN:
 
 1. https://weeklyflower.nl/bloemenbibliotheek/geboortebloem-maand/ ->Dit geeft een handig overzicht over bij welke maand welke bloem hoort.
