@@ -522,8 +522,8 @@ We hebben vandaag de laatste bi-weekly geek!
 
 We gingen door naar de trio-feedback ronde. Ik vond dit leuk om te doen, omdat je wat meer websites van anderen ziet en echt doorklikt. Ik kreeg goede feedback:
 
-![frontfeedbackform](frontfeedbackform.png)
-![backfeedbackform](backfeedbackform.png)
+![frontfeedbackform](readme-img/frontfeedbackform.png)
+![backfeedbackform](readme-img/backfeedbackform.png)
 
 ik dacht dat het probleem met het vastlopen aan de "method= dialog" regel lag, maar dit weghalen bleek het niet te verhelpen helaas.
 
@@ -543,3 +543,38 @@ Vandaag heb ik mijn laatste retrospect getekent. Ik koos voor een cupcake mania 
 ![cupcake mania tekening](readme-img/cupcakemania.jpeg)
 
 Ik had wel geprobeerd een navigatie bar te maken, maar dat was me nog niet helemaal gelukt. Het veranderde de structuur van mijn website heel erg en het lukte me niet om het op de goede plek te krijgen. Misschien dat dit in de toekomst wel nog lukt.
+
+### 26-10 MAANDAG
+
+Vandaag deden we de eindexpo en het allerlaatste feedback moment. Ik vond het erg leuk om iedereen zijn websites te testen en te bekijken en ik heb nog verrassend veel gezien dat ik nog niet eerder ben tegen gekomen. Ik heb geprobeerd specifieke dingen op te merken die een sticker verdiende. Zelf heb ik het volgende terug gekregen:
+![feedbackstickervel](readme-img/feedbackstickers.png)
+Er was één iemand die kritiek aan het geven was en vond dat mijn cookie pop-up te streng was. Ik ben het er niet mee eens, omdat als jij niet wilt dat mijn website jouw gegens verzamelt ik geen keus heb dan jou te advieseren mijn website te verlaten. Helaas is github niet een functie die je gewoon uit kan zetten. Ook is één van mijn fonts niet even goed leesbaar voor iedereen. Ik gebruik dit vond alleen voor korte woorden en geen lange zinnen en het is tot nu toe ongeveer 80-20 geweest of iemand het kan lezen of niet. Omdat ik vind dat dit font iets toevoegd aan de sierlijke sfeer van mijn website kies ik er toch voor dit te behouden. En mijn tab bij licht en donker werkt met de peiltjes ipv met tab ;>
+
+Verder was ik blij met de feedback en dat mijn code netjes is en er goed uitziet.
+![webby form](readme-img/webbyform.png)
+Hieruit kwam dat mijn website veel wel had en dat er hier en daar wat puntjes waren, zoals het font dat net een beetje aan de moeilijke kant zit. De tekst van de consent notice schaalt niet volledig mooi mee. Het werkt goed met een toetsenbord, maar de screenreader was erg moeilijk te testen op mijn laptop, omdat ik bijvoorbeeld geen lijstjes kon openen met headings.
+
+Ik heb er verder voor gekozen geen gradiënts te gebruiken, omdat ik dit niet nodig vond voor mijn website. Ik wilde een sierlijk uiterlijk en een gradiënt maakt het toch te druk in mijn ogen.
+
+![Learning log feedback](readme-img/learninglogform.png)
+Ik heb hier het meeste aan gehad, het deed me realiseren dat ik mijn learning log nog wat zou kunnen verbeteren. Het lukt mij niet om alle afbeeldingen nog om te draaien, omdat sommigen alleen nog hier staat. Ik wil nog een inhoudsopgave toevoegen en hier en daar wat context geven aan schetsen.
+
+### BRONNEN
+
+CODE:
+https://developer.mozilla.org/en-US/
+https://www.w3schools.com/Css/
+Deep dives - HVA
+INFO BLOEMEN:
+
+1. https://weeklyflower.nl/bloemenbibliotheek/geboortebloem-maand/ ->Dit geeft een handig overzicht over bij welke maand welke bloem hoort.
+2. https://www.fiestajewellery.nl/blogs/blog/waarom-heeft-elke-maand-een-eigen-geboortebloem -> Hier werd het victoriaanse tijdperk benoemd, waardoor ik door ben gaan zoeken naar bronnen hierover.
+3. https://vertaalbureau-scandic.nl/victoriaanse-taal-van-bloemen-wat-betekenen-ze/ Dit artikel gaat echt in op de taal van de bloemen (niet alleen die uit de maanden) inclusief wat verschillende kleuren betekenen, vanuit het vctoriaanse tijdperk.
+4. https://floriografie.nl/category/geboortebloemen/ Dit artikel geeft echt een uitleg over waarom
+   deze bloem word gekoppeld aan deze maand.
+5. https://anilens.com/product/houten-schijf-met-geboortebloemen-26cm/ Visuele representatie van twee bloemen per maand
+6. https://nl.wiktionary.org/wiki/bloementaal dit is een leuk stukje over de betekenis van het woord
+7. https://nl.jardineriaon.com/floriografie.html Dit gaat dieper in op de geschiedenis en andere aspecten
+8. https://flowerslib.com/nl/bloementaal/ Een soort woordenboek voor bloemen
+9. https://zodiacstock.com/zodiac/zodiac-flower-chart nog een mooi overzicht, twee per maand
+10. https://www.homefortheharvest.com/lily-of-the-valley/ Tot slot - mijn geboorte bloem
