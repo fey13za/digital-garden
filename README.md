@@ -582,7 +582,7 @@ Hieruit kwam dat mijn website veel wel had en dat er hier en daar wat puntjes wa
 Ik heb er verder voor gekozen geen gradiënts te gebruiken, omdat ik dit niet nodig vond voor mijn website. Ik wilde een sierlijk uiterlijk en een gradiënt maakt het toch te druk in mijn ogen.
 
 ![Learning log feedback](readme-img/learninglogform.png)
-Ik heb hier het meeste aan gehad, het deed me realiseren dat ik mijn learning log nog wat zou kunnen verbeteren. Het lukt mij niet om alle afbeeldingen nog om te draaien, omdat sommigen alleen nog hier staat. Ik zag ook dat bij sommige schetsen geen context bij stond, dus ik ga hier en daar nog wat aanvullen.
+Ik heb hier het meeste aan gehad, het deed me realiseren dat ik mijn learning log nog wat zou kunnen verbeteren. Het lukt mij niet om alle afbeeldingen nog om te draaien, omdat sommigen alleen nog hier staan. Ik zag ook dat bij sommige schetsen geen context bij stond, dus ik ga hier en daar nog wat aanvullen.
 
 ### BRONNEN
 
